@@ -1,0 +1,120 @@
+#!/usr/bin/env python3
+
+import pandas as pd
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+
+from scipy import stats
+
+def mrplot(df):
+    mlim=[0.5, 3.0]
+    rlim=[5, 16.0]
+
+    x1 = df.r1
+    y1 = df.m1
+
+    xmin1 = x1.min()
+    xmax1 = x1.max()
+    ymin1 = y1.min()
+    ymax1 = y1.max()
+
+    X1, Y1 = np.mgrid[xmin1:xmax1:200j, ymin1:ymax1:200j]
+    positions = np.vstack([X1.ravel(), Y1.ravel()])
+    values = np.vstack([x1, y1])
+    kernel = stats.gaussian_kde(values)
+    Z1 = np.reshape(kernel(positions).T, X1.shape)
+
+    x2 = df.r2
+    y2 = df.m2
+
+    xmin2 = x2.min()
+    xmax2 = x2.max()
+    ymin2 = y2.min()
+    ymax2 = y2.max()
+
+    X2, Y2 = np.mgrid[xmin2:xmax2:200j, ymin2:ymax2:200j]
+    positions = np.vstack([X2.ravel(), Y2.ravel()])
+    values = np.vstack([x2, y2])
+    kernel = stats.gaussian_kde(values)
+    Z2 = np.reshape(kernel(positions).T, X2.shape)
+
+    #TODO: with this I can evaluate the density at some point and then possibly cut off the points
+    #at some specific density. Then
+
+    fig, ax = plt.subplots()
+    ax.contourf(X1, Y1, Z1, [8.0e-2, Z1.max()], alpha=0.45, colors=["yellow"])
+    ax.contourf(X2, Y2, Z2, [8.0e-2, Z2.max()], alpha=0.45, colors=["tab:olive"])
+
+    ax.set_xlabel("R (km)")
+    ax.set_ylabel("M (M⊙)")
+    ax.set_xlim(rlim)
+    ax.set_ylim(mlim)
+    plt.show()
+
+def mlambdaplot(df):
+    x1 = df.m1
+    y1 = df.lambda1
+    y1log = np.log(df.lambda1)
+
+    xmin1 = x1.min()
+    xmax1 = x1.max()
+    ymin1 = y1log.min()
+    ymax1 = y1log.max()
+
+    X1, Y1 = np.mgrid[xmin1:xmax1:200j, ymin1:ymax1:200j]
+    positions = np.vstack([X1.ravel(), Y1.ravel()])
+    values = np.vstack([x1, y1log])
+    kernel = stats.gaussian_kde(values)
+    Z1 = np.reshape(kernel(positions).T, X1.shape)
+
+    x2 = df.m2
+    y2 = df.lambda2
+    y2log = np.log(df.lambda1)
+
+    xmin2 = x2.min()
+    xmax2 = x2.max()
+    ymin2 = y2log.min()
+    ymax2 = y2log.max()
+
+    X2, Y2 = np.mgrid[xmin2:xmax2:200j, ymin2:ymax2:200j]
+    positions = np.vstack([X2.ravel(), Y2.ravel()])
+    values = np.vstack([x2, y2log])
+    kernel = stats.gaussian_kde(values)
+    Z2 = np.reshape(kernel(positions).T, X2.shape)
+
+    lambdalim = [2.0, 2000]
+    mlim = [1.0, 3.5]
+
+    fig, ax = plt.subplots()
+
+    print(Z1.min(), Z1.max(), Z1.mean())
+    print(Z2.min(), Z2.max(), Z1.mean())
+
+    ax.scatter(x1, y1, color="red", alpha=0.1, s=2)
+    ax.contourf(X1, Y1, Z1, [1.0e-3, Z1.max()], colors=["red"], alpha=0.35)
+    ax.scatter(x2, y2, color="blue", alpha=0.1, s=2)
+    ax.contourf(X2, Y2, Z2, [8.0e-4, Z2.max()], colors=["blue"], alpha=0.35)
+
+    #TODO: funciona sem a escala log, mas quando coloco a escala log explode para baixo
+    #uma alternativa seria calcular Z em escala log também (não sei se vai funcionar assim)
+    #talvez o plot ainda tenha que usar o modo de escala log. Não vou poder terminar isso em Erechim
+
+    # ax.set_yscale("log")
+    ax.set_yticks([5.0, 10.0, 50.0, 100.0, 500.0, 1000.0])
+    ax.get_yaxis().set_major_formatter(matplotlib.ticker.ScalarFormatter())
+    ax.set_xlabel("M (M⊙)")
+    ax.set_ylabel(r"$\Lambda$")
+    ax.set_xlim(mlim)
+    ax.set_ylim(lambdalim)
+    plt.show()
+
+def main():
+    df = pd.read_csv("EoS-insensitive_posterior_samples.dat", sep="\s+", skiprows=1,
+                     usecols=[0, 1, 2, 3, 4, 5], names=["m1", "m2", "lambda1", "lambda2", "r1", "r2"])
+
+    # mrplot(df)
+    mlambdaplot(df)
+
+if __name__ == "__main__":
+    main()

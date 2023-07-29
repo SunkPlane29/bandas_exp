@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 from scipy import stats
 
 def mrplot(df):
-    mlim=[0.5, 3.0]
-    rlim=[5, 16.0]
+    mlim = [0.5, 3.0]
+    rlim = [8, 15.0]
 
     x1 = df.r1
     y1 = df.m1
@@ -39,12 +39,13 @@ def mrplot(df):
     kernel = stats.gaussian_kde(values)
     Z2 = np.reshape(kernel(positions).T, X2.shape)
 
-    #TODO: with this I can evaluate the density at some point and then possibly cut off the points
-    #at some specific density. Then
-
     fig, ax = plt.subplots()
-    ax.contourf(X1, Y1, Z1, [8.0e-2, Z1.max()], alpha=0.45, colors=["yellow"])
-    ax.contourf(X2, Y2, Z2, [8.0e-2, Z2.max()], alpha=0.45, colors=["tab:olive"])
+    # ax.scatter(x1, y1, alpha=0.1, color="red")
+    ax.contourf(X1, Y1, Z1, [4.0e-1, Z1.max()], alpha=0.60, colors=["yellow"])
+    # ax.scatter(x2, y2, alpha=0.1, color="blue")
+    ax.contourf(X2, Y2, Z2, [6.0e-1, Z2.max()], alpha=0.60, colors=["tab:olive"])
+
+    ax.text(9.0, 1.7, "GW170817", color="indigo")
 
     ax.set_xlabel("R (km)")
     ax.set_ylabel("M (M⊙)")
@@ -55,33 +56,47 @@ def mrplot(df):
 def mlambdaplot(df):
     x1 = df.m1
     y1 = df.lambda1
-    y1log = np.log(df.lambda1)
+    y1log = np.log10(df.lambda1)
 
     xmin1 = x1.min()
     xmax1 = x1.max()
     ymin1 = y1log.min()
     ymax1 = y1log.max()
+    ymin1n = y1.min()
+    ymax1n = y1.max()
 
     X1, Y1 = np.mgrid[xmin1:xmax1:200j, ymin1:ymax1:200j]
+    X1n, Y1n = np.mgrid[xmin1:xmax1:200j, ymin1n:ymax1n:200j]
     positions = np.vstack([X1.ravel(), Y1.ravel()])
+    positionsn = np.vstack([X1n.ravel(), Y1n.ravel()])
     values = np.vstack([x1, y1log])
+    valuesn = np.vstack([x1, y1])
     kernel = stats.gaussian_kde(values)
+    kerneln = stats.gaussian_kde(valuesn)
     Z1 = np.reshape(kernel(positions).T, X1.shape)
+    Z1n = np.reshape(kerneln(positionsn).T, X1n.shape)
 
     x2 = df.m2
     y2 = df.lambda2
-    y2log = np.log(df.lambda1)
+    y2log = np.log10(df.lambda1)
 
     xmin2 = x2.min()
     xmax2 = x2.max()
     ymin2 = y2log.min()
     ymax2 = y2log.max()
+    ymin2n = y2.min()
+    ymax2n = y2.max()
 
     X2, Y2 = np.mgrid[xmin2:xmax2:200j, ymin2:ymax2:200j]
+    X2n, Y2n = np.mgrid[xmin2:xmax2:200j, ymin2n:ymax2n:200j]
     positions = np.vstack([X2.ravel(), Y2.ravel()])
+    positionsn = np.vstack([X2n.ravel(), Y2n.ravel()])
     values = np.vstack([x2, y2log])
+    valuesn = np.vstack([x2, y2])
     kernel = stats.gaussian_kde(values)
+    kerneln = stats.gaussian_kde(valuesn)
     Z2 = np.reshape(kernel(positions).T, X2.shape)
+    Z2n = np.reshape(kerneln(positionsn).T, X2n.shape)
 
     lambdalim = [2.0, 2000]
     mlim = [1.0, 3.5]
@@ -90,18 +105,21 @@ def mlambdaplot(df):
 
     print(Z1.min(), Z1.max(), Z1.mean())
     print(Z2.min(), Z2.max(), Z1.mean())
+    print(Z1, Z1n)
 
     ax.scatter(x1, y1, color="red", alpha=0.1, s=2)
-    ax.contourf(X1, Y1, Z1, [1.0e-3, Z1.max()], colors=["red"], alpha=0.35)
+    ax.contourf(X1n, Y1n, Z1n, [1.0e-3, Z1.max()], colors=["red"], alpha=0.35)
+    # ax.contour(X1, Y1, Z1, [1, 2, 3], colors=["black"])
     ax.scatter(x2, y2, color="blue", alpha=0.1, s=2)
-    ax.contourf(X2, Y2, Z2, [8.0e-4, Z2.max()], colors=["blue"], alpha=0.35)
+    ax.contourf(X2n, Y2n, Z2n, [8.0e-4, Z2.max()], colors=["blue"], alpha=0.35)
+    # ax.contour(X2, Y2, Z2, [1, 2, 3], colors=["black"])
 
-    #TODO: funciona sem a escala log, mas quando coloco a escala log explode para baixo
-    #uma alternativa seria calcular Z em escala log também (não sei se vai funcionar assim)
-    #talvez o plot ainda tenha que usar o modo de escala log. Não vou poder terminar isso em Erechim
+    #TODO: esse método na escala log ainda não funciona também, na real eu precisaria
+    #talvez de um z que seja variável porque a parte inferior da linha de contorno teria
+    #um z diferente dependendo da posição no eixo-y
 
-    # ax.set_yscale("log")
-    ax.set_yticks([5.0, 10.0, 50.0, 100.0, 500.0, 1000.0])
+    ax.set_yscale("log")
+    ax.set_yticks([5.0, 10.0, 50.0, 100.0, 500.0, 1000.0, 2000.0])
     ax.get_yaxis().set_major_formatter(matplotlib.ticker.ScalarFormatter())
     ax.set_xlabel("M (M⊙)")
     ax.set_ylabel(r"$\Lambda$")
@@ -113,8 +131,8 @@ def main():
     df = pd.read_csv("EoS-insensitive_posterior_samples.dat", sep="\s+", skiprows=1,
                      usecols=[0, 1, 2, 3, 4, 5], names=["m1", "m2", "lambda1", "lambda2", "r1", "r2"])
 
-    # mrplot(df)
-    mlambdaplot(df)
+    mrplot(df)
+    # mlambdaplot(df)
 
 if __name__ == "__main__":
     main()

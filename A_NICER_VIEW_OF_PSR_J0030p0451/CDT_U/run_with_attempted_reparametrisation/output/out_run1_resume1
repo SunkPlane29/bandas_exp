@@ -1,0 +1,3271 @@
+/=============================================\
+| X-PSI: X-ray Pulse Simulation and Inference |
+|---------------------------------------------|
+|              Version: 1.0.0                 |
+\=============================================/
+
+Rank reporting: 1193
+Rank reporting: 487
+Rank reporting: 1197
+Rank reporting: 489
+Rank reporting: 1217
+Rank reporting: 514
+Rank reporting: 1187
+Rank reporting: 823
+Rank reporting: 507
+Rank reporting: 1235
+Rank reporting: 515
+Rank reporting: 1237
+Rank reporting: 531
+Rank reporting: 535
+Rank reporting: 1194
+Rank reporting: 76
+Rank reporting: 57
+Rank reporting: 79
+Rank reporting: 504
+Rank reporting: 36
+Rank reporting: 1225
+Rank reporting: 63
+Rank reporting: 92
+Rank reporting: 290
+Rank reporting: 295
+Rank reporting: 318
+Rank reporting: 663
+Rank reporting: 654
+Rank reporting: 80
+Rank reporting: 1227
+Rank reporting: 1032
+Rank reporting: 319
+Rank reporting: 483
+Rank reporting: 522
+Rank reporting: 1212
+Rank reporting: 41
+Rank reporting: 978
+Rank reporting: 669
+Rank reporting: 671
+Rank reporting: 406
+Rank reporting: 71
+Rank reporting: 499
+Rank reporting: 541
+Rank reporting: 316
+Rank reporting: 639
+Rank reporting: 1242
+Rank reporting: 50
+Rank reporting: 609
+Rank reporting: 267
+Rank reporting: 1164
+Rank reporting: 625
+Rank reporting: 236
+Rank reporting: 283
+Rank reporting: 1166
+Rank reporting: 248
+Rank reporting: 286
+Rank reporting: 1167
+Rank reporting: 1199
+Rank reporting: 253
+Rank reporting: 211
+Rank reporting: 220
+Rank reporting: 652
+Rank reporting: 201
+Rank reporting: 353
+Rank reporting: 615
+Rank reporting: 84
+Rank reporting: 513
+Rank reporting: 358
+Rank reporting: 305
+Rank reporting: 508
+Rank reporting: 1224
+Rank reporting: 280
+Rank reporting: 357
+Rank reporting: 229
+Rank reporting: 1182
+Rank reporting: 56
+Rank reporting: 1203
+Rank reporting: 203
+Rank reporting: 649
+Rank reporting: 359
+Rank reporting: 918
+Rank reporting: 925
+Rank reporting: 310
+Rank reporting: 89
+Rank reporting: 511
+Rank reporting: 911
+Rank reporting: 526
+Rank reporting: 43
+Rank reporting: 8
+Rank reporting: 636
+Rank reporting: 1218
+Rank reporting: 240
+Rank reporting: 1192
+Rank reporting: 19
+Rank reporting: 662
+Rank reporting: 263
+Rank reporting: 1154
+Rank reporting: 30
+Rank reporting: 221
+Rank reporting: 773
+Rank reporting: 525
+Rank reporting: 789
+Rank reporting: 9
+Rank reporting: 314
+Rank reporting: 624
+Rank reporting: 91
+Rank reporting: 1236
+Rank reporting: 917
+Rank reporting: 262
+Rank reporting: 1159
+Rank reporting: 791
+Rank reporting: 362
+Rank reporting: 104
+Rank reporting: 232
+Rank reporting: 194
+Rank reporting: 109
+Rank reporting: 666
+Rank reporting: 899
+Rank reporting: 797
+Rank reporting: 59
+Rank reporting: 119
+Rank reporting: 85
+Rank reporting: 490
+Rank reporting: 1189
+Rank reporting: 1080
+Rank reporting: 1081
+Rank reporting: 613
+Rank reporting: 379
+Rank reporting: 1082
+Rank reporting: 24
+Rank reporting: 1226
+Rank reporting: 284
+Rank reporting: 1160
+Rank reporting: 537
+Rank reporting: 37
+Rank reporting: 115
+Rank reporting: 293
+Rank reporting: 664
+Rank reporting: 903
+Rank reporting: 1190
+Rank reporting: 219
+Rank reporting: 627
+Rank reporting: 502
+Rank reporting: 874
+Rank reporting: 685
+Rank reporting: 528
+Rank reporting: 786
+Rank reporting: 550
+Rank reporting: 1069
+Rank reporting: 1
+Rank reporting: 124
+Rank reporting: 306
+Rank reporting: 78
+Rank reporting: 879
+Rank reporting: 700
+Rank reporting: 1247
+Rank reporting: 226
+Rank reporting: 208
+Rank reporting: 278
+Rank reporting: 722
+Rank reporting: 796
+Rank reporting: 1202
+Rank reporting: 441
+Rank reporting: 51
+Rank reporting: 565
+Rank reporting: 670
+Rank reporting: 481
+Rank reporting: 894
+Rank reporting: 702
+Rank reporting: 254
+Rank reporting: 902
+Rank reporting: 516
+Rank reporting: 730
+Rank reporting: 424
+Rank reporting: 569
+Rank reporting: 118
+Rank reporting: 611
+Rank reporting: 889
+Rank reporting: 703
+Rank reporting: 1245
+Rank reporting: 256
+Rank reporting: 705
+Rank reporting: 783
+Rank reporting: 372
+Rank reporting: 433
+Rank reporting: 553
+Rank reporting: 1066
+Rank reporting: 13
+Rank reporting: 308
+Rank reporting: 88
+Rank reporting: 650
+Rank reporting: 154
+Rank reporting: 693
+Rank reporting: 230
+Rank reporting: 197
+Rank reporting: 914
+Rank reporting: 1183
+Rank reporting: 721
+Rank reporting: 1196
+Rank reporting: 375
+Rank reporting: 432
+Rank reporting: 46
+Rank reporting: 545
+Rank reporting: 510
+Rank reporting: 157
+Rank reporting: 866
+Rank reporting: 680
+Rank reporting: 521
+Rank reporting: 704
+Rank reporting: 371
+Rank reporting: 423
+Rank reporting: 5
+Rank reporting: 106
+Rank reporting: 629
+Rank reporting: 138
+Rank reporting: 1174
+Rank reporting: 1064
+Rank reporting: 72
+Rank reporting: 148
+Rank reporting: 1220
+Rank reporting: 854
+Rank reporting: 793
+Rank reporting: 422
+Rank reporting: 567
+Rank reporting: 679
+Rank reporting: 237
+Rank reporting: 924
+Rank reporting: 260
+Rank reporting: 1188
+Rank reporting: 302
+Rank reporting: 618
+Rank reporting: 491
+Rank reporting: 873
+Rank reporting: 217
+Rank reporting: 839
+Rank reporting: 1158
+Rank reporting: 369
+Rank reporting: 62
+Rank reporting: 127
+Rank reporting: 648
+Rank reporting: 710
+Rank reporting: 772
+Rank reporting: 573
+Rank reporting: 1086
+Rank reporting: 20
+Rank reporting: 239
+Rank reporting: 520
+Rank reporting: 416
+Rank reporting: 313
+Rank reporting: 69
+Rank reporting: 493
+Rank reporting: 134
+Rank reporting: 891
+Rank reporting: 1221
+Rank reporting: 210
+Rank reporting: 919
+Rank reporting: 273
+Rank reporting: 1178
+Rank reporting: 1207
+Rank reporting: 368
+Rank reporting: 40
+Rank reporting: 112
+Rank reporting: 687
+Rank reporting: 833
+Rank reporting: 723
+Rank reporting: 1084
+Rank reporting: 610
+Rank reporting: 533
+Rank reporting: 850
+Rank reporting: 645
+Rank reporting: 142
+Rank reporting: 768
+Rank reporting: 1110
+Rank reporting: 52
+Rank reporting: 547
+Rank reporting: 75
+Rank reporting: 193
+Rank reporting: 920
+Rank reporting: 272
+Rank reporting: 844
+Rank reporting: 1116
+Rank reporting: 1206
+Rank reporting: 10
+Rank reporting: 890
+Rank reporting: 684
+Rank reporting: 1228
+Rank reporting: 378
+Rank reporting: 121
+Rank reporting: 617
+Rank reporting: 1169
+Rank reporting: 726
+Rank reporting: 443
+Rank reporting: 1087
+Rank reporting: 503
+Rank reporting: 770
+Rank reporting: 2
+Rank reporting: 296
+Rank reporting: 94
+Rank reporting: 653
+Rank reporting: 922
+Rank reporting: 542
+Rank reporting: 445
+Rank reporting: 568
+Rank reporting: 131
+Rank reporting: 689
+Rank reporting: 1216
+Rank reporting: 224
+Rank reporting: 205
+Rank reporting: 285
+Rank reporting: 853
+Rank reporting: 1108
+Rank reporting: 1208
+Rank reporting: 356
+Rank reporting: 32
+Rank reporting: 1058
+Rank reporting: 116
+Rank reporting: 621
+Rank reporting: 509
+Rank reporting: 147
+Rank reporting: 867
+Rank reporting: 245
+Rank reporting: 517
+Rank reporting: 732
+Rank reporting: 1112
+Rank reporting: 425
+Rank reporting: 548
+Rank reporting: 301
+Rank reporting: 81
+Rank reporting: 247
+Rank reporting: 838
+Rank reporting: 794
+Rank reporting: 1097
+Rank reporting: 1184
+Rank reporting: 122
+Rank reporting: 633
+Rank reporting: 77
+Rank reporting: 486
+Rank reporting: 159
+Rank reporting: 701
+Rank reporting: 1244
+Rank reporting: 212
+Rank reporting: 912
+Rank reporting: 1168
+Rank reporting: 383
+Rank reporting: 55
+Rank reporting: 572
+Rank reporting: 1079
+Rank reporting: 4
+Rank reporting: 668
+Rank reporting: 876
+Rank reporting: 1232
+Rank reporting: 908
+Rank reporting: 287
+Rank reporting: 848
+Rank reporting: 1163
+Rank reporting: 785
+Rank reporting: 1095
+Rank reporting: 426
+Rank reporting: 48
+Rank reporting: 114
+Rank reporting: 315
+Rank reporting: 635
+Rank reporting: 665
+Rank reporting: 482
+Rank reporting: 144
+Rank reporting: 881
+Rank reporting: 686
+Rank reporting: 243
+Rank reporting: 198
+Rank reporting: 529
+Rank reporting: 268
+Rank reporting: 727
+Rank reporting: 1101
+Rank reporting: 366
+Rank reporting: 571
+Rank reporting: 331
+Rank reporting: 1062
+Rank reporting: 7
+Rank reporting: 660
+Rank reporting: 238
+Rank reporting: 916
+Rank reporting: 518
+Rank reporting: 257
+Rank reporting: 836
+Rank reporting: 1170
+Rank reporting: 781
+Rank reporting: 1213
+Rank reporting: 47
+Rank reporting: 341
+Rank reporting: 11
+Rank reporting: 288
+Rank reporting: 883
+Rank reporting: 223
+Rank reporting: 720
+Rank reporting: 364
+Rank reporting: 446
+Rank reporting: 551
+Rank reporting: 348
+Rank reporting: 1078
+Rank reporting: 101
+Rank reporting: 297
+Rank reporting: 616
+Rank reporting: 82
+Rank reporting: 655
+Rank reporting: 495
+Rank reporting: 682
+Rank reporting: 235
+Rank reporting: 843
+Rank reporting: 718
+Rank reporting: 784
+Rank reporting: 1119
+Rank reporting: 428
+Rank reporting: 54
+Rank reporting: 332
+Rank reporting: 21
+Rank reporting: 111
+Rank reporting: 614
+Rank reporting: 86
+Rank reporting: 657
+Rank reporting: 496
+Rank reporting: 140
+Rank reporting: 878
+Rank reporting: 676
+Rank reporting: 1219
+Rank reporting: 192
+Rank reporting: 740
+Rank reporting: 900
+Rank reporting: 524
+Rank reporting: 279
+Rank reporting: 1176
+Rank reporting: 799
+Rank reporting: 1094
+Rank reporting: 1195
+Rank reporting: 380
+Rank reporting: 438
+Rank reporting: 546
+Rank reporting: 328
+Rank reporting: 1075
+Rank reporting: 6
+Rank reporting: 113
+Rank reporting: 294
+Rank reporting: 622
+Rank reporting: 67
+Rank reporting: 505
+Rank reporting: 158
+Rank reporting: 864
+Rank reporting: 688
+Rank reporting: 1246
+Rank reporting: 249
+Rank reporting: 200
+Rank reporting: 767
+Rank reporting: 907
+Rank reporting: 527
+Rank reporting: 281
+Rank reporting: 858
+Rank reporting: 1155
+Rank reporting: 731
+Rank reporting: 1106
+Rank reporting: 1205
+Rank reporting: 381
+Rank reporting: 1073
+Rank reporting: 22
+Rank reporting: 107
+Rank reporting: 300
+Rank reporting: 64
+Rank reporting: 667
+Rank reporting: 153
+Rank reporting: 872
+Rank reporting: 1240
+Rank reporting: 242
+Rank reporting: 195
+Rank reporting: 745
+Rank reporting: 897
+Rank reporting: 543
+Rank reporting: 282
+Rank reporting: 846
+Rank reporting: 715
+Rank reporting: 792
+Rank reporting: 1105
+Rank reporting: 1186
+Rank reporting: 429
+Rank reporting: 53
+Rank reporting: 554
+Rank reporting: 323
+Rank reporting: 1083
+Rank reporting: 31
+Rank reporting: 100
+Rank reporting: 608
+Rank reporting: 70
+Rank reporting: 641
+Rank reporting: 494
+Rank reporting: 130
+Rank reporting: 865
+Rank reporting: 690
+Rank reporting: 1231
+Rank reporting: 207
+Rank reporting: 754
+Rank reporting: 913
+Rank reporting: 538
+Rank reporting: 849
+Rank reporting: 1179
+Rank reporting: 728
+Rank reporting: 771
+Rank reporting: 1099
+Rank reporting: 1215
+Rank reporting: 382
+Rank reporting: 430
+Rank reporting: 561
+Rank reporting: 327
+Rank reporting: 1067
+Rank reporting: 14
+Rank reporting: 117
+Rank reporting: 304
+Rank reporting: 623
+Rank reporting: 90
+Rank reporting: 661
+Rank reporting: 497
+Rank reporting: 149
+Rank reporting: 877
+Rank reporting: 673
+Rank reporting: 1223
+Rank reporting: 216
+Rank reporting: 748
+Rank reporting: 909
+Rank reporting: 539
+Rank reporting: 275
+Rank reporting: 860
+Rank reporting: 717
+Rank reporting: 787
+Rank reporting: 1102
+Rank reporting: 1210
+Rank reporting: 365
+Rank reporting: 442
+Rank reporting: 44
+Rank reporting: 557
+Rank reporting: 346
+Rank reporting: 28
+Rank reporting: 125
+Rank reporting: 298
+Rank reporting: 634
+Rank reporting: 74
+Rank reporting: 644
+Rank reporting: 506
+Rank reporting: 136
+Rank reporting: 893
+Rank reporting: 694
+Rank reporting: 213
+Rank reporting: 761
+Rank reporting: 921
+Rank reporting: 519
+Rank reporting: 277
+Rank reporting: 835
+Rank reporting: 1173
+Rank reporting: 716
+Rank reporting: 780
+Rank reporting: 1118
+Rank reporting: 1204
+Rank reporting: 354
+Rank reporting: 437
+Rank reporting: 38
+Rank reporting: 560
+Rank reporting: 340
+Rank reporting: 1072
+Rank reporting: 15
+Rank reporting: 102
+Rank reporting: 309
+Rank reporting: 638
+Rank reporting: 646
+Rank reporting: 151
+Rank reporting: 882
+Rank reporting: 691
+Rank reporting: 1239
+Rank reporting: 227
+Rank reporting: 762
+Rank reporting: 915
+Rank reporting: 523
+Rank reporting: 266
+Rank reporting: 857
+Rank reporting: 1162
+Rank reporting: 708
+Rank reporting: 798
+Rank reporting: 1109
+Rank reporting: 1214
+Rank reporting: 363
+Rank reporting: 421
+Rank reporting: 42
+Rank reporting: 566
+Rank reporting: 333
+Rank reporting: 1056
+Rank reporting: 16
+Rank reporting: 105
+Rank reporting: 289
+Rank reporting: 632
+Rank reporting: 83
+Rank reporting: 500
+Rank reporting: 132
+Rank reporting: 678
+Rank reporting: 1243
+Rank reporting: 231
+Rank reporting: 199
+Rank reporting: 765
+Rank reporting: 927
+Rank reporting: 532
+Rank reporting: 270
+Rank reporting: 847
+Rank reporting: 1177
+Rank reporting: 733
+Rank reporting: 777
+Rank reporting: 1114
+Rank reporting: 1198
+Rank reporting: 370
+Rank reporting: 435
+Rank reporting: 35
+Rank reporting: 556
+Rank reporting: 343
+Rank reporting: 1085
+Rank reporting: 3
+Rank reporting: 303
+Rank reporting: 612
+Rank reporting: 87
+Rank reporting: 651
+Rank reporting: 492
+Rank reporting: 146
+Rank reporting: 871
+Rank reporting: 677
+Rank reporting: 1234
+Rank reporting: 255
+Rank reporting: 204
+Rank reporting: 738
+Rank reporting: 530
+Rank reporting: 258
+Rank reporting: 855
+Rank reporting: 1172
+Rank reporting: 734
+Rank reporting: 795
+Rank reporting: 1209
+Rank reporting: 367
+Rank reporting: 419
+Rank reporting: 60
+Rank reporting: 559
+Rank reporting: 321
+Rank reporting: 96
+Rank reporting: 630
+Rank reporting: 65
+Rank reporting: 656
+Rank reporting: 501
+Rank reporting: 129
+Rank reporting: 886
+Rank reporting: 698
+Rank reporting: 1238
+Rank reporting: 241
+Rank reporting: 209
+Rank reporting: 764
+Rank reporting: 905
+Rank reporting: 274
+Rank reporting: 1157
+Rank reporting: 724
+Rank reporting: 776
+Rank reporting: 1104
+Rank reporting: 1211
+Rank reporting: 361
+Rank reporting: 436
+Rank reporting: 39
+Rank reporting: 563
+Rank reporting: 338
+Rank reporting: 1063
+Rank reporting: 23
+Rank reporting: 311
+Rank reporting: 941
+Rank reporting: 73
+Rank reporting: 659
+Rank reporting: 480
+Rank reporting: 150
+Rank reporting: 869
+Rank reporting: 1230
+Rank reporting: 222
+Rank reporting: 758
+Rank reporting: 896
+Rank reporting: 534
+Rank reporting: 271
+Rank reporting: 851
+Rank reporting: 1153
+Rank reporting: 1098
+Rank reporting: 49
+Rank reporting: 330
+Rank reporting: 29
+Rank reporting: 98
+Rank reporting: 620
+Rank reporting: 939
+Rank reporting: 68
+Rank reporting: 642
+Rank reporting: 695
+Rank reporting: 755
+Rank reporting: 512
+Rank reporting: 837
+Rank reporting: 714
+Rank reporting: 1201
+Rank reporting: 373
+Rank reporting: 417
+Rank reporting: 34
+Rank reporting: 552
+Rank reporting: 1077
+Rank reporting: 0
+Rank reporting: 317
+Rank reporting: 628
+Rank reporting: 945
+Rank reporting: 498
+Rank reporting: 156
+Rank reporting: 892
+Rank reporting: 1241
+Rank reporting: 228
+Rank reporting: 202
+Rank reporting: 737
+Rank reporting: 898
+Rank reporting: 536
+Rank reporting: 259
+Rank reporting: 861
+Rank reporting: 1181
+Rank reporting: 729
+Rank reporting: 774
+Rank reporting: 1113
+Rank reporting: 1200
+Rank reporting: 352
+Rank reporting: 33
+Rank reporting: 339
+Rank reporting: 1057
+Rank reporting: 126
+Rank reporting: 312
+Rank reporting: 619
+Rank reporting: 932
+Rank reporting: 95
+Rank reporting: 658
+Rank reporting: 485
+Rank reporting: 137
+Rank reporting: 895
+Rank reporting: 675
+Rank reporting: 1222
+Rank reporting: 234
+Rank reporting: 215
+Rank reporting: 760
+Rank reporting: 923
+Rank reporting: 540
+Rank reporting: 276
+Rank reporting: 1152
+Rank reporting: 735
+Rank reporting: 782
+Rank reporting: 1091
+Rank reporting: 1191
+Rank reporting: 374
+Rank reporting: 427
+Rank reporting: 555
+Rank reporting: 324
+Rank reporting: 25
+Rank reporting: 110
+Rank reporting: 291
+Rank reporting: 936
+Rank reporting: 93
+Rank reporting: 640
+Rank reporting: 484
+Rank reporting: 128
+Rank reporting: 885
+Rank reporting: 674
+Rank reporting: 1229
+Rank reporting: 252
+Rank reporting: 218
+Rank reporting: 759
+Rank reporting: 906
+Rank reporting: 856
+Rank reporting: 1171
+Rank reporting: 711
+Rank reporting: 778
+Rank reporting: 1111
+Rank reporting: 1185
+Rank reporting: 376
+Rank reporting: 45
+Rank reporting: 575
+Rank reporting: 334
+Rank reporting: 1061
+Rank reporting: 26
+Rank reporting: 123
+Rank reporting: 292
+Rank reporting: 637
+Rank reporting: 959
+Rank reporting: 66
+Rank reporting: 647
+Rank reporting: 488
+Rank reporting: 139
+Rank reporting: 868
+Rank reporting: 692
+Rank reporting: 1233
+Rank reporting: 250
+Rank reporting: 763
+Rank reporting: 904
+Rank reporting: 265
+Rank reporting: 706
+Rank reporting: 779
+Rank reporting: 1093
+Rank reporting: 360
+Rank reporting: 418
+Rank reporting: 61
+Rank reporting: 574
+Rank reporting: 1074
+Rank reporting: 18
+Rank reporting: 307
+Rank reporting: 631
+Rank reporting: 935
+Rank reporting: 643
+Rank reporting: 133
+Rank reporting: 884
+Rank reporting: 683
+Rank reporting: 233
+Rank reporting: 214
+Rank reporting: 739
+Rank reporting: 901
+Rank reporting: 269
+Rank reporting: 852
+Rank reporting: 1175
+Rank reporting: 769
+Rank reporting: 1096
+Rank reporting: 420
+Rank reporting: 58
+Rank reporting: 549
+Rank reporting: 322
+Rank reporting: 1060
+Rank reporting: 12
+Rank reporting: 120
+Rank reporting: 299
+Rank reporting: 626
+Rank reporting: 958
+Rank reporting: 141
+Rank reporting: 870
+Rank reporting: 699
+Rank reporting: 246
+Rank reporting: 196
+Rank reporting: 752
+Rank reporting: 910
+Rank reporting: 261
+Rank reporting: 1165
+Rank reporting: 709
+Rank reporting: 790
+Rank reporting: 434
+Rank reporting: 564
+Rank reporting: 347
+Rank reporting: 1059
+Rank reporting: 17
+Rank reporting: 108
+Rank reporting: 937
+Rank reporting: 875
+Rank reporting: 672
+Rank reporting: 225
+Rank reporting: 206
+Rank reporting: 742
+Rank reporting: 926
+Rank reporting: 264
+Rank reporting: 840
+Rank reporting: 1180
+Rank reporting: 788
+Rank reporting: 1115
+Rank reporting: 355
+Rank reporting: 544
+Rank reporting: 320
+Rank reporting: 1065
+Rank reporting: 27
+Rank reporting: 103
+Rank reporting: 933
+Rank reporting: 145
+Rank reporting: 888
+Rank reporting: 681
+Rank reporting: 244
+Rank reporting: 743
+Rank reporting: 834
+Rank reporting: 1161
+Rank reporting: 719
+Rank reporting: 775
+Rank reporting: 1107
+Rank reporting: 377
+Rank reporting: 439
+Rank reporting: 350
+Rank reporting: 1068
+Rank reporting: 97
+Rank reporting: 940
+Rank reporting: 152
+Rank reporting: 697
+Rank reporting: 251
+Rank reporting: 766
+Rank reporting: 862
+Rank reporting: 1156
+Rank reporting: 725
+Rank reporting: 1103
+Rank reporting: 431
+Rank reporting: 570
+Rank reporting: 351
+Rank reporting: 1070
+Rank reporting: 99
+Rank reporting: 946
+Rank reporting: 135
+Rank reporting: 696
+Rank reporting: 750
+Rank reporting: 707
+Rank reporting: 1092
+Rank reporting: 444
+Rank reporting: 558
+Rank reporting: 326
+Rank reporting: 1071
+Rank reporting: 943
+Rank reporting: 155
+Rank reporting: 756
+Rank reporting: 713
+Rank reporting: 1117
+Rank reporting: 447
+Rank reporting: 562
+Rank reporting: 349
+Rank reporting: 947
+Rank reporting: 143
+Rank reporting: 880
+Rank reporting: 747
+Rank reporting: 712
+Rank reporting: 1088
+Rank reporting: 342
+Rank reporting: 1076
+Rank reporting: 949
+Rank reporting: 887
+Rank reporting: 744
+Rank reporting: 845
+Rank reporting: 1089
+Rank reporting: 440
+Rank reporting: 344
+Rank reporting: 930
+Rank reporting: 736
+Rank reporting: 1100
+Rank reporting: 337
+Rank reporting: 950
+Rank reporting: 753
+Rank reporting: 863
+Rank reporting: 1090
+Rank reporting: 325
+Rank reporting: 952
+Rank reporting: 841
+Rank reporting: 957
+Rank reporting: 757
+Rank reporting: 842
+Rank reporting: 329
+Rank reporting: 928
+Rank reporting: 741
+Rank reporting: 951
+Rank reporting: 749
+Rank reporting: 336
+Rank reporting: 832
+Rank reporting: 955
+Rank reporting: 335
+Rank reporting: 931
+Rank reporting: 859
+Rank reporting: 751
+Rank reporting: 345
+Rank reporting: 938
+Rank reporting: 746
+Rank reporting: 942
+Rank reporting: 944
+Rank reporting: 953
+Rank reporting: 954
+Rank reporting: 956
+Rank reporting: 934
+Rank reporting: 929
+Rank reporting: 948
+Rank reporting: 164
+Rank reporting: 176
+Rank reporting: 177
+Rank reporting: 178
+Rank reporting: 184
+Rank reporting: 185
+Rank reporting: 187
+Rank reporting: 190
+Rank reporting: 161
+Rank reporting: 175
+Rank reporting: 181
+Rank reporting: 182
+Rank reporting: 188
+Rank reporting: 191
+Rank reporting: 165
+Rank reporting: 167
+Rank reporting: 179
+Rank reporting: 162
+Rank reporting: 170
+Rank reporting: 180
+Rank reporting: 163
+Rank reporting: 171
+Rank reporting: 172
+Rank reporting: 183
+Rank reporting: 186
+Rank reporting: 169Rank reporting: 168
+
+Rank reporting: 189
+Rank reporting: 173
+Rank reporting: 166
+Rank reporting: 160
+Rank reporting: 174
+Rank reporting: 593
+Rank reporting: 603
+Rank reporting: 604
+Rank reporting: 584
+Rank reporting: 585
+Rank reporting: 588
+Rank reporting: 589
+Rank reporting: 590
+Rank reporting: 591
+Rank reporting: 592
+Rank reporting: 596
+Rank reporting: 600
+Rank reporting: 602
+Rank reporting: 605
+Rank reporting: 606
+Rank reporting: 594
+Rank reporting: 595
+Rank reporting: 597
+Rank reporting: 601
+Rank reporting: 607
+Rank reporting: 582
+Rank reporting: 583
+Rank reporting: 577
+Rank reporting: 579
+Rank reporting: 598
+Rank reporting: 587
+Rank reporting: 586
+Rank reporting: 578
+Rank reporting: 580
+Rank reporting: 581
+Rank reporting: 576
+Rank reporting: 599
+Rank reporting: 1254
+Rank reporting: 1267
+Rank reporting: 1269
+Rank reporting: 1277
+Rank reporting: 1270
+Rank reporting: 1271
+Rank reporting: 1260
+Rank reporting: 1256
+Rank reporting: 1279
+Rank reporting: 1252
+Rank reporting: 1274
+Rank reporting: 1258
+Rank reporting: 1265
+Rank reporting: 1253
+Rank reporting: 1255
+Rank reporting: 1278
+Rank reporting: 1268
+Rank reporting: 1262
+Rank reporting: 995
+Rank reporting: 1273
+Rank reporting: 1003
+Rank reporting: 1007
+Rank reporting: 1249
+Rank reporting: 1008
+Rank reporting: 1016
+Rank reporting: 1021
+Rank reporting: 1257
+Rank reporting: 992
+Rank reporting: 1251
+Rank reporting: 993
+Rank reporting: 996
+Rank reporting: 1272
+Rank reporting: 997
+Rank reporting: 999
+Rank reporting: 1000
+Rank reporting: 1001
+Rank reporting: 1266
+Rank reporting: 1004
+Rank reporting: 1005
+Rank reporting: 1250
+Rank reporting: 1011
+Rank reporting: 1015
+Rank reporting: 1017
+Rank reporting: 1264
+Rank reporting: 994
+Rank reporting: 1276
+Rank reporting: 998
+Rank reporting: 1261
+Rank reporting: 1013
+Rank reporting: 1010
+Rank reporting: 1248
+Rank reporting: 1018
+Rank reporting: 1263
+Rank reporting: 1023
+Rank reporting: 1019
+Rank reporting: 1014
+Rank reporting: 1022
+Rank reporting: 1275
+Rank reporting: 1009
+Rank reporting: 1002
+Rank reporting: 1259
+Rank reporting: 1006
+Rank reporting: 1020
+Rank reporting: 1012
+Rank reporting: 457
+Rank reporting: 459
+Rank reporting: 463
+Rank reporting: 473
+Rank reporting: 479
+Rank reporting: 448
+Rank reporting: 451
+Rank reporting: 458
+Rank reporting: 467
+Rank reporting: 475
+Rank reporting: 476
+Rank reporting: 454
+Rank reporting: 450
+Rank reporting: 468
+Rank reporting: 453
+Rank reporting: 474
+Rank reporting: 466
+Rank reporting: 462
+Rank reporting: 469
+Rank reporting: 455
+Rank reporting: 472
+Rank reporting: 825
+Rank reporting: 828
+Rank reporting: 456
+Rank reporting: 801
+Rank reporting: 819
+Rank reporting: 478
+Rank reporting: 806
+Rank reporting: 807
+Rank reporting: 449
+Rank reporting: 813
+Rank reporting: 460
+Rank reporting: 820
+Rank reporting: 805
+Rank reporting: 470
+Rank reporting: 803
+Rank reporting: 471
+Rank reporting: 824
+Rank reporting: 816
+Rank reporting: 464
+Rank reporting: 827
+Rank reporting: 821
+Rank reporting: 461
+Rank reporting: 804
+Rank reporting: 817
+Rank reporting: 826
+Rank reporting: 465
+Rank reporting: 811
+Rank reporting: 815
+Rank reporting: 830
+Rank reporting: 800
+Rank reporting: 810
+Rank reporting: 812
+Rank reporting: 814
+Rank reporting: 822
+Rank reporting: 829
+Rank reporting: 831
+Rank reporting: 802
+Rank reporting: 809
+Rank reporting: 818
+Rank reporting: 808
+Rank reporting: 477
+Rank reporting: 1033
+Rank reporting: 979
+Rank reporting: 1053
+Rank reporting: 985
+Rank reporting: 1037
+Rank reporting: 964
+Rank reporting: 1038
+Rank reporting: 976
+Rank reporting: 1040
+Rank reporting: 983
+Rank reporting: 1047
+Rank reporting: 972
+Rank reporting: 1054
+Rank reporting: 452
+Rank reporting: 990
+Rank reporting: 1055
+Rank reporting: 968
+Rank reporting: 1031
+Rank reporting: 991
+Rank reporting: 1029
+Rank reporting: 984
+Rank reporting: 1034
+Rank reporting: 975
+Rank reporting: 1045
+Rank reporting: 965
+Rank reporting: 1024
+Rank reporting: 970
+Rank reporting: 1027
+Rank reporting: 981
+Rank reporting: 1041
+Rank reporting: 988
+Rank reporting: 1035
+Rank reporting: 973
+Rank reporting: 1028
+Rank reporting: 961
+Rank reporting: 1026
+Rank reporting: 986
+Rank reporting: 1048
+Rank reporting: 982
+Rank reporting: 1046
+Rank reporting: 967
+Rank reporting: 1043
+Rank reporting: 987
+Rank reporting: 1052
+Rank reporting: 969
+Rank reporting: 1036
+Rank reporting: 980
+Rank reporting: 1051
+Rank reporting: 989
+Rank reporting: 1039
+Rank reporting: 971
+Rank reporting: 1044
+Rank reporting: 960
+Rank reporting: 1049
+Rank reporting: 966
+Rank reporting: 1025
+Rank reporting: 974
+Rank reporting: 1030
+Rank reporting: 962
+Rank reporting: 1042
+Rank reporting: 977
+Rank reporting: 1050
+Rank reporting: 963
+Rank reporting: 400
+Rank reporting: 408
+Rank reporting: 393
+Rank reporting: 414
+Rank reporting: 397
+Rank reporting: 398
+Rank reporting: 386
+Rank reporting: 389
+Rank reporting: 411
+Rank reporting: 387
+Rank reporting: 401
+Rank reporting: 407
+Rank reporting: 405
+Rank reporting: 404
+Rank reporting: 403
+Rank reporting: 391
+Rank reporting: 415
+Rank reporting: 399
+Rank reporting: 394
+Rank reporting: 388
+Rank reporting: 410
+Rank reporting: 402
+Rank reporting: 395
+Rank reporting: 396
+Rank reporting: 412
+Rank reporting: 390
+Rank reporting: 392
+Rank reporting: 413
+Rank reporting: 385
+Rank reporting: 409
+Rank reporting: 384
+Rank reporting: 1130
+Rank reporting: 1132
+Rank reporting: 1138
+Rank reporting: 1134
+Rank reporting: 1129
+Rank reporting: 1133
+Rank reporting: 1147
+Rank reporting: 1137
+Rank reporting: 1144
+Rank reporting: 1150
+Rank reporting: 1120
+Rank reporting: 1135
+Rank reporting: 1141
+Rank reporting: 1146
+Rank reporting: 1148
+Rank reporting: 1122
+Rank reporting: 1127
+Rank reporting: 1139
+Rank reporting: 1128
+Rank reporting: 1136
+Rank reporting: 1145
+Rank reporting: 1126
+Rank reporting: 1125
+Rank reporting: 1121
+Rank reporting: 1143
+Rank reporting: 1151
+Rank reporting: 1140
+Rank reporting: 1142
+Rank reporting: 1149
+Rank reporting: 1131
+Rank reporting: 1124
+Rank reporting: 1123
+p:  -36317.2381909 2.14097213745
+p:  -36317.2381909 2.24667716026
+p:  -36317.2381909 2.14121389389
+p:  -36317.2381909 2.23452806473
+p:  -36317.2381909 2.12569189072
+p:  -36317.2381909 2.12774085999
+p:  -36317.2381909 2.13962292671
+p:  -36317.2381909 2.11719894409
+p:  -36317.2381909 2.15994000435
+p:  -36317.2381909 2.12030291557
+p:  -36317.2381909 2.1574780941
+p:  -36317.2381909 2.20671010017
+p:  -36317.2381909 2.16763401031
+p:  -36317.2381909 2.16216611862
+p:  -36317.2381909 2.23602890968
+p:  -36317.2381909 2.2082118988
+p:  -36317.2381909 2.12799286842
+p:  -36317.2381909 2.11445689201
+p:  -36317.2381909 2.14118790627
+p:  -36317.2381909 2.12306880951
+p:  -36317.2381909 2.10984897614
+p:  -36317.2381909 2.15498209
+p:  -36317.2381909 2.16407990456
+p:  -36317.2381909 2.11245393753
+p:  -36317.2381909 2.13028097153
+p:  -36317.2381909 2.10934376717
+p:  -36317.2381909 2.23241019249
+p:  -36317.2381909 2.20073509216
+p:  -36317.2381909 2.18528199196
+p:  -36317.2381909 2.16648101807
+p:  -36317.2381909 2.20523309708
+p:  -36317.2381909 2.09796190262
+p:  -36317.2381909 2.10293006897
+p:  -36317.2381909 2.14666295052
+p:  -36317.2381909 2.1450240612
+p:  -36317.2381909 2.14063811302
+p:  -36317.2381909 2.12893605232
+p:  -36317.2381909 2.14940214157
+p:  -36317.2381909 2.13994598389
+p:  -36317.2381909 2.15320301056
+p:  -36317.2381909 2.11319899559
+p:  -36317.2381909 2.15567779541
+p:  -36317.2381909 2.14577198029
+p:  -36317.2381909 2.15712594986
+p:  -36317.2381909 2.10005903244
+p:  -36317.2381909 2.14502978325
+p:  -36317.2381909 2.10228204727
+p:  -36317.2381909 2.25663518906
+p:  -36317.2381909 2.12934803963
+p:  -36317.2381909 2.15079593658
+p:  -36317.2381909 2.19417214394
+p:  -36317.2381909 2.16997408867
+p:  -36317.2381909 2.19198799133
+p:  -36317.2381909 2.15788888931
+p:  -36317.2381909 2.17638397217
+p:  -36317.2381909 2.17074489594
+p:  -36317.2381909 2.15038990974
+p:  -36317.2381909 2.19269418716
+p:  -36317.2381909 2.2039899826
+p:  -36317.2381909 2.14624500275
+p:  -36317.2381909 2.12015891075
+p:  -36317.2381909 2.11985683441
+p:  -36317.2381909 2.13138890266
+p:  -36317.2381909 2.15719604492
+p:  -36317.2381909 2.10186219215
+p:  -36317.2381909 2.15227818489
+p:  -36317.2381909 2.21770906448
+p:  -36317.2381909 2.13292908669
+p:  -36317.2381909 2.13280010223
+p:  -36317.2381909 2.189234972
+p:  -36317.2381909 2.1317679882
+p:  -36317.2381909 2.12235093117
+p:  -36317.2381909 2.1765999794
+p:  -36317.2381909 2.14746499062
+p:  -36317.2381909 2.13237404823
+p:  -36317.2381909 2.17484211922
+p:  -36317.2381909 2.15250396729
+p:  -36317.2381909 2.24666905403
+p:  -36317.2381909 2.1193780899
+p:  -36317.2381909 2.1524810791
+p:  -36317.2381909 2.23104000092
+p:  -36317.2381909 2.21790909767
+p:  -36317.2381909 2.11487102509
+p:  -36317.2381909 2.17748713493
+p:  -36317.2381909 2.12915015221
+p:  -36317.2381909 2.14786100388
+p:  -36317.2381909 2.14788103104
+p:  -36317.2381909 2.19722890854
+p:  -36317.2381909 2.12732291222
+p:  -36317.2381909 2.12330102921
+p:  -36317.2381909 2.15059089661
+p:  -36317.2381909 2.15902709961
+p:  -36317.2381909 2.14701604843
+p:  -36317.2381909 2.15791916847
+p:  -36317.2381909 2.24131417274
+p:  -36317.2381909 2.13106608391
+p:  -36317.2381909 2.14317512512
+p:  -36317.2381909 2.14110898972
+p:  -36317.2381909 2.18024682999
+p:  -36317.2381909 2.15690803528
+p:  -36317.2381909 2.26973509789
+p:  -36317.2381909 2.15195584297
+p:  -36317.2381909 2.13410401344
+p:  -36317.2381909 2.12585401535
+p:  -36317.2381909 2.15295100212
+p:  -36317.2381909 2.14117693901
+p:  -36317.2381909 2.17343115807
+p:  -36317.2381909 2.18873310089
+p:  -36317.2381909 2.13171696663
+p:  -36317.2381909 2.17075300217
+p:  -36317.2381909 2.13060712814
+p:  -36317.2381909 2.16383314133
+p:  -36317.2381909 2.17227816582
+p:  -36317.2381909 2.17224407196
+p:  -36317.2381909 2.14246892929
+p:  -36317.2381909 2.14842295647
+p:  -36317.2381909 2.23533797264
+p:  -36317.2381909 2.20793485641
+p:  -36317.2381909 2.14123487473
+p:  -36317.2381909 2.1407020092
+p:  -36317.2381909 2.1604681015
+p:  -36317.2381909 2.16294503212
+p:  -36317.2381909 2.19755196571
+p:  -36317.2381909 2.13028311729
+p:  -36317.2381909 2.14115595818
+p:  -36317.2381909 2.17826700211
+p:  -36317.2381909 2.11431407928
+p:  -36317.2381909 2.11875915527
+p:  -36317.2381909 2.21607899666
+p:  -36317.2381909 2.21683382988
+p:  -36317.2381909 2.16648006439
+p:  -36317.2381909 2.15790915489
+p:  -36317.2381909 2.17978310585
+p:  -36317.2381909 2.19456505775
+p:  -36317.2381909 2.13353085518
+p:  -36317.2381909 2.14173793793
+p:  -36317.2381909 2.19386601448
+p:  -36317.2381909 2.11157798767
+p:  -36317.2381909 2.11851596832
+p:  -36317.2381909 2.1284840107
+p:  -36317.2381909 2.15887308121
+p:  -36317.2381909 2.21796607971
+p:  -36317.2381909 2.22738003731
+p:  -36317.2381909 2.15860390663
+p:  -36317.2381909 2.12019991875
+p:  -36317.2381909 2.17831802368
+p:  -36317.2381909 2.16337299347
+p:  -36317.2381909 2.14248609543
+p:  -36317.2381909 2.15187311172
+p:  -36317.2381909 2.12508797646
+p:  -36317.2381909 2.24160480499
+p:  -36317.2381909 2.2215089798
+p:  -36317.2381909 2.19445014
+p:  -36317.2381909 2.13323187828
+p:  -36317.2381909 2.17591500282
+p:  -36317.2381909 2.17974495888
+p:  -36317.2381909 2.15938401222
+p:  -36317.2381909 2.13342690468
+p:  -36317.2381909 2.12143778801
+p:  -36317.2381909 2.19797301292
+p:  -36317.2381909 2.14205312729
+p:  -36317.2381909 2.17901086807
+p:  -36317.2381909 2.20939397812
+p:  -36317.2381909 2.14782691002
+p:  -36317.2381909 2.14945983887
+p:  -36317.2381909 2.14356517792
+p:  -36317.2381909 2.14347887039
+p:  -36317.2381909 2.15243196487
+p:  -36317.2381909 2.1477959156
+p:  -36317.2381909 2.156676054
+p:  -36317.2381909 2.14867806435
+p:  -36317.2381909 2.14301013947
+p:  -36317.2381909 2.18602800369
+p:  -36317.2381909 2.15530991554
+p:  -36317.2381909 2.16133713722
+p:  -36317.2381909 2.14999389648
+p:  -36317.2381909 2.13255310059
+p:  -36317.2381909 2.15464401245
+p:  -36317.2381909 2.17680001259
+p:  -36317.2381909 2.1504650116
+p:  -36317.2381909 2.15184807777
+p:  -36317.2381909 2.17509508133
+p:  -36317.2381909 2.10787510872
+p:  -36317.2381909 2.13537406921
+p:  -36317.2381909 2.16533493996
+p:  -36317.2381909 2.19150400162
+p:  -36317.2381909 2.15937519073
+p:  -36317.2381909 2.15294718742
+p:  -36317.2381909 2.13192200661
+p:  -36317.2381909 2.16685795784
+p:  -36317.2381909 2.14332222939
+p:  -36317.2381909 2.1549270153
+p:  -36317.2381909 2.15009784698
+p:  -36317.2381909 2.16031002998
+p:  -36317.2381909 2.16429781914
+p:  -36317.2381909 2.19279408455
+p:  -36317.2381909 2.12721395493
+p:  -36317.2381909 2.16004896164
+p:  p:  -36317.2381909 2.19957590103
+p:  -36317.2381909 2.28454899788
+p:  -36317.2381909 2.11828517914-36317.2381909 2.1283659935
+p:  -36317.2381909 2.17783784866
+
+p:  -36317.2381909 2.16097187996
+p:  -36317.2381909 2.13806796074
+p:  -36317.2381909 2.24115991592
+p:  -36317.2381909 2.13074398041
+p:  -36317.2381909 2.16518306732
+p:  -36317.2381909 2.1636068821
+p:  -36317.2381909 2.16947793961
+p:  -36317.2381909 2.14712309837
+p:  -36317.2381909 2.18524718285
+p:  -36317.2381909 2.13138985634
+p:  -36317.2381909 2.20396709442
+p:  -36317.2381909 2.19171881676
+p:  -36317.2381909 2.16154098511
+p:  -36317.2381909 2.1280400753
+p:  -36317.2381909 2.15346097946
+p:  -36317.2381909 2.25652194023
+p:  -36317.2381909 2.16996407509
+p:  -36317.2381909 2.14603090286
+p:  -36317.2381909 2.15230989456
+p:  -36317.2381909 2.16244411469
+p:  -36317.2381909 2.24594902992
+p:  -36317.2381909 2.12149786949
+p:  -36317.2381909 2.13152694702
+p:  -36317.2381909 2.12004613876
+p:  -36317.2381909 2.1748380661
+p:  -36317.2381909 2.19498610497
+p:  -36317.2381909 2.13305282593
+p:  -36317.2381909 2.2162129879
+p:  -36317.2381909 2.13789105415
+p:  -36317.2381909 2.18216180801
+p:  -36317.2381909 2.13848805428
+p:  -36317.2381909 2.12509393692
+p:  -36317.2381909 2.16120791435
+p:  -36317.2381909 2.12910103798
+p:  -36317.2381909 2.12265896797
+p:  -36317.2381909 2.15601301193
+p:  -36317.2381909 2.18496799469
+p:  -36317.2381909 2.24166703224
+p:  -36317.2381909 2.12851405144
+p:  -36317.2381909 2.11873102188
+p:  -36317.2381909 2.18405199051
+p:  -36317.2381909 2.1272611618
+p:  -36317.2381909 2.12491512299
+p:  -36317.2381909 2.16211700439
+p:  -36317.2381909 2.15213799477
+p:  -36317.2381909 2.11488604546
+p:  -36317.2381909 2.11814689636
+p:  -36317.2381909 2.14246106148
+p:  -36317.2381909 2.20270109177
+p:  -36317.2381909 2.20379090309
+p:  -36317.2381909 2.13708090782
+p:  -36317.2381909 2.13399410248
+p:  -36317.2381909 2.20572495461
+p:  -36317.2381909 2.18558096886
+p:  -36317.2381909 2.15747904778
+p:  -36317.2381909 2.14189100266
+p:  -36317.2381909 2.11623001099
+p:  -36317.2381909 2.18507289886
+p:  -36317.2381909 2.17712497711
+p:  -36317.2381909 2.1338698864
+p:  -36317.2381909 2.16247010231
+p:  -36317.2381909 2.14957594872
+p:  -36317.2381909 2.15123200417
+p:  -36317.2381909 2.16018199921
+p:  -36317.2381909 2.15786099434
+p:  -36317.2381909 2.15874099731
+p:  -36317.2381909 2.16289496422
+p:  -36317.2381909 2.17241692543
+p:  -36317.2381909 2.14116692543
+p:  -36317.2381909 2.14034509659
+p:  -36317.2381909 2.13714194298
+p:  -36317.2381909 2.20094799995
+p:  -36317.2381909 2.15410685539
+p:  -36317.2381909 2.1727449894
+p:  -36317.2381909 2.11169981956
+p:  -36317.2381909 2.16996002197
+p:  -36317.2381909 2.12552404404
+p:  -36317.2381909 2.15590310097
+p:  -36317.2381909 2.10967516899
+p:  -36317.2381909 2.15826892853
+p:  -36317.2381909 2.18720817566
+p:  -36317.2381909 2.13691902161
+p:  -36317.2381909 2.11206698418
+p:  -36317.2381909 2.1255261898
+p:  -36317.2381909 2.16453003883
+p:  -36317.2381909 2.15431404114
+p:  -36317.2381909 2.13103699684
+p:  -36317.2381909 2.16307997704
+p:  -36317.2381909 2.15864300728
+p:  -36317.2381909 2.12949490547
+p:  -36317.2381909 2.15042519569
+p:  -36317.2381909 2.12455415726
+p:  -36317.2381909 2.17680883408
+p:  -36317.2381909 2.20250201225
+p:  -36317.2381909 2.15058016777
+p:  -36317.2381909 2.13453102112
+p:  -36317.2381909 2.12748098373
+p:  -36317.2381909 2.16280412674
+p:  -36317.2381909 2.15131783485
+p:  -36317.2381909 2.15852403641
+p:  -36317.2381909 2.14879393578
+p:  -36317.2381909 p:  -36317.2381909 2.19720292091
+p:  -36317.2381909 2.14502501488
+p:  -36317.2381909 2.12560105324
+2.15582084656
+p:  -36317.2381909 2.16173219681
+p:  -36317.2381909 2.1308259964
+p:  -36317.2381909 2.18673181534
+p:  -36317.2381909 2.15158081055
+p:  -36317.2381909 2.1458439827
+p:  -36317.2381909 2.19046998024
+p:  -36317.2381909 2.13580489159
+p:  -36317.2381909 2.10538101196
+p:  -36317.2381909 2.19434213638
+p:  -36317.2381909 2.16239714622
+p:  -36317.2381909 2.18969297409
+p:  -36317.2381909 2.17922592163
+p:  -36317.2381909 2.15360379219
+p:  -36317.2381909 2.17972683907
+p:  p:  -36317.2381909 2.14316987991
+p:  -36317.2381909 2.14960193634
+p:  -36317.2381909 2.12609505653
+p:  -36317.2381909 2.21761107445
+-36317.2381909 2.13482689857
+p:  -36317.2381909p:  -36317.2381909 2.14510393143
+ 2.17044305801
+p:  -36317.2381909 2.18056988716
+p:  -36317.2381909 2.1393661499
+p:  -36317.2381909 2.17342495918
+p:  -36317.2381909p:  -36317.2381909 2.14451909065
+ 2.15819716454
+p:  -36317.2381909 2.12965703011
+p:  -36317.2381909 2.1630859375
+p:  -36317.2381909 2.10797810555
+p:  -36317.2381909 2.17959308624
+p:  -36317.2381909 2.14619898796
+p:  -36317.2381909 2.15767598152
+p:  -36317.2381909 2.14144802094
+p:  p:  -36317.2381909 2.2003660202
+p:  -36317.2381909 2.1773660183
+-36317.2381909 2.15035891533
+p:  -36317.2381909 2.17779517174
+p:  -36317.2381909 2.15950489044
+p:  -36317.2381909 2.13681697845
+p:  -36317.2381909 2.12014508247
+p:  -36317.2381909 2.15671896935
+p:  -36317.2381909 2.17490911484
+p:  -36317.2381909 2.18635201454
+p:  -36317.2381909 2.16884899139
+p:  -36317.2381909 2.18078684807
+p:  -36317.2381909 2.13367891312
+p:  -36317.2381909 2.16753292084
+p:  -36317.2381909 2.16939902306
+p:  -36317.2381909 2.18040895462
+p:  -36317.2381909 2.15925788879
+p:  -36317.2381909 2.14805817604
+p:  -36317.2381909 2.11472415924
+p:  -36317.2381909 2.14369487762
+p:  -36317.2381909 2.13076996803
+p:  -36317.2381909 2.133477211
+p:  -36317.2381909 2.15967106819
+p:  -36317.2381909 2.16052317619
+p:  -36317.2381909 2.16891288757
+p:  -36317.2381909 2.18017697334
+p:  -36317.2381909 2.11359882355
+p:  -36317.2381909 2.14177298546
+p:  -36317.2381909 2.1401219368
+p:  -36317.2381909 2.15197491646
+p:  -36317.2381909 2.1394841671
+p:  -36317.2381909 2.11330795288
+p:  -36317.2381909 2.1940100193
+p:  -36317.2381909 2.16971302032
+p:  -36317.2381909 2.1444940567
+p:  -36317.2381909 2.16247701645
+p:  -36317.2381909 2.15968489647
+p:  -36317.2381909 2.22073888779
+p:  -36317.2381909 2.15578198433
+p:  -36317.2381909 2.22139596939
+p:  -36317.2381909 2.13446307182
+p:  -36317.2381909 2.18940210342
+p:  -36317.2381909 2.14969491959
+p:  -36317.2381909 2.15596294403
+p:  -36317.2381909 2.14843392372
+p:  -36317.2381909 2.177079916
+p:  -36317.2381909 2.17120218277
+p:  -36317.2381909 2.16625213623
+p:  -36317.2381909 2.12325406075
+p:  -36317.2381909 2.11451601982
+p:  -36317.2381909 2.12125015259
+p:  -36317.2381909 2.13144421577
+p:  -36317.2381909 2.16414189339
+p:  -36317.2381909 2.19468188286
+p:  -36317.2381909 2.16571903229
+p:  -36317.2381909 2.145373106
+p:  -36317.2381909 2.15823698044
+p:  -36317.2381909 2.14783287048
+p:  -36317.2381909 2.16484093666
+p:  -36317.2381909 2.19396209717
+p:  -36317.2381909 2.17805790901
+p:  -36317.2381909 2.16969513893
+p:  -36317.2381909 2.13702702522
+p:  -36317.2381909 2.13896584511
+p:  -36317.2381909 2.14378190041
+p:  -36317.2381909 2.2079410553
+p:  -36317.2381909 2.14286899567
+p:  -36317.2381909 2.14631485939
+p:  -36317.2381909 2.15224385262
+p:  -36317.2381909 2.16110515594
+p:  -36317.2381909 2.11398100853
+p:  -36317.2381909 2.12763905525
+p:  -36317.2381909 2.10472798347
+p:  -36317.2381909 2.18173408508
+p:  -36317.2381909 2.15857601166
+p:  -36317.2381909 2.21242499352
+p:  -36317.2381909 2.13254785538
+p:  -36317.2381909 2.15319514275
+p:  -36317.2381909 2.2535200119
+p:  -36317.2381909 2.13686299324
+p:  -36317.2381909 2.16015481949
+p:  -36317.2381909 2.15846395493
+p:  -36317.2381909 2.14363694191
+p:  -36317.2381909 2.15379190445
+p:  -36317.2381909 2.21559286118
+p:  -36317.2381909 2.26890182495
+p:  -36317.2381909 2.18969297409
+p:  -36317.2381909 2.135627985
+p:  -36317.2381909 2.11928796768
+p:  p:  -36317.2381909 2.14354705811
+p:  -36317.2381909 2.13668608665
+p:  -36317.2381909 2.12486004829p:  -36317.2381909 2.1125638485
+p:  -36317.2381909 2.132188797
+p:  -36317.2381909 2.15532612801
+-36317.2381909 2.24179291725
+
+p:  -36317.2381909 2.11508488655
+p:  -36317.2381909 2.1581389904
+p:  -36317.2381909 2.1466050148p:  -36317.2381909 2.18525791168
+p:  -36317.2381909 2.18891501427
+
+p:  -36317.2381909 2.18664693832
+p:  -36317.2381909 2.17858505249
+p:  -36317.2381909 2.13119697571
+p:  -36317.2381909 2.12286806107
+p:  -36317.2381909 2.1409509182
+p:  -36317.2381909 2.13931798935
+p:  -36317.2381909 2.15543484688
+p:  -36317.2381909 2.16537189484
+p:  -36317.2381909 2.19711208344
+p:  -36317.2381909 2.11335206032
+p:  -36317.2381909 2.17443704605
+p:  p:  -36317.2381909 2.10890388489
+p:  -36317.2381909 2.20887994766
+-36317.2381909 2.19624185562
+p:  -36317.2381909 2.17178797722
+p:  -36317.2381909 2.18728995323
+p:  -36317.2381909 2.16124200821
+p:  -36317.2381909 2.14193606377
+p:  -36317.2381909 2.18951106071
+p:  p:  -36317.2381909 p:  -36317.2381909 2.16288399696
+p:  -36317.2381909 2.13715696335
+p:  -36317.2381909 2.15589380264
+p:  -36317.2381909 2.1713449955
+p:  -36317.2381909 2.15702986717
+-36317.2381909 2.13902711868
+2.20260310173
+p:  -36317.2381909 2.15632796288
+p:  -36317.2381909 2.1462790966
+p:  -36317.2381909 2.1598842144
+p:  -36317.2381909 2.13823103905
+p:  -36317.2381909 2.17175197601
+p:  -36317.2381909 2.1322991848
+p:  -36317.2381909 2.18217396736
+p:  -36317.2381909 2.17465496063
+p:  -36317.2381909 2.18161606789
+p:  -36317.2381909 2.14018511772
+p:  -36317.2381909p:  -36317.2381909 2.17884206772
+p:  -36317.2381909 2.1051800251
+ 2.22212195396
+p:  -36317.2381909 2.15940403938
+p:  -36317.2381909 2.16355395317
+p:  -36317.2381909 2.15261101723
+p:  -36317.2381909 2.14438891411
+p:  -36317.2381909 2.19395303726
+p:  -36317.2381909 2.14999604225
+p:  -36317.2381909 2.23373794556
+p:  -36317.2381909 2.1357049942
+p:  -36317.2381909 2.18590188026
+p:  -36317.2381909 2.19519114494
+p:  -36317.2381909 2.12483096123
+p:  -36317.2381909 2.17732095718
+p:  -36317.2381909 2.11482000351
+p:  -36317.2381909 2.11999416351
+p:  -36317.2381909 2.1327278614
+p:  -36317.2381909 2.14395999908
+p:  -36317.2381909 2.16049981117
+p:  -36317.2381909 2.2321369648
+p:  -36317.2381909 2.10973095894
+p:  -36317.2381909 2.17325186729
+p:  -36317.2381909 2.20696806908
+p:  -36317.2381909 2.17199707031
+p:  p:  -36317.2381909 2.18478798866
+-36317.2381909 2.15780901909
+p:  -36317.2381909 2.21265292168
+p:  -36317.2381909 2.16619896889
+p:  -36317.2381909 2.17375588417
+p:  -36317.2381909 2.15191602707
+p:  -36317.2381909 2.14580488205
+p:  -36317.2381909 2.12318611145
+p:  -36317.2381909 2.12849211693
+p:  -36317.2381909 2.09672904015
+p:  -36317.2381909 2.18274688721
+p:  -36317.2381909 2.14078903198
+p:  -36317.2381909 2.16966199875
+p:  -36317.2381909 2.16822600365
+p:  -36317.2381909 2.15084791183
+p:  -36317.2381909 2.16843295097
+p:  -36317.2381909p:  -36317.2381909 2.14910006523
+ 2.23776602745
+p:  -36317.2381909 2.26335692406
+p:  -36317.2381909 2.10782718658
+p:  -36317.2381909 2.20645308495p:  -36317.2381909 2.20162796974
+p:  -36317.2381909 2.13350009918p:  -36317.2381909 2.1484978199
+p:  -36317.2381909 2.17353415489
+p:  -36317.2381909 2.13409399986
+p:  -36317.2381909 p:  -36317.2381909 2.19900798798
+p:  -36317.2381909 2.13150691986
+p:  -36317.2381909 2.15654802322
+p:  -36317.2381909 2.17990207672
+p:  -36317.2381909 2.12226319313
+p:  -36317.2381909 2.12360501289
+
+p:  
+2.16535115242
+p:  -36317.2381909 2.14312577248
+p:  -36317.2381909 2.16154909134
+-36317.2381909 2.13286399841
+p:  -36317.2381909 2.16909503937
+p:  -36317.2381909 2.12910699844
+p:  -36317.2381909 2.23075699806
+p:  -36317.2381909 2.16451501846
+p:  -36317.2381909 2.16161584854
+p:  p:  -36317.2381909 2.09192109108
+-36317.2381909 2.16489481926
+p:  -36317.2381909 2.15012693405
+p:  -36317.2381909 2.15217399597
+p:  -36317.2381909 2.16086220741
+p:  -36317.2381909 2.12757301331
+p:  -36317.2381909p:  p:  p:  -36317.2381909 2.11719799042
+ 2.13933396339
+-36317.2381909 2.15348720551
+-36317.2381909 2.13976407051
+p:  -36317.2381909 2.11842608452p:  -36317.2381909 2.138931036
+p:  -36317.2381909 2.17082905769
+p:  p:  -36317.2381909 2.21567583084
+p:  -36317.2381909 2.2007021904
+p:  -36317.2381909 2.15941500664
+p:  -36317.2381909 2.19185495377
+p:  -36317.2381909 2.13311696053p:  -36317.2381909 2.13409900665
+
+-36317.2381909 2.16864490509
+p:  -36317.2381909 2.16065907478
+
+p:  -36317.2381909 2.15069723129
+p:  -36317.2381909 2.11116981506
+p:  -36317.2381909 2.1317949295
+p:  -36317.2381909 2.15958619118
+p:  -36317.2381909 2.17405486107
+p:  -36317.2381909 2.14837193489
+p:  -36317.2381909 2.13584780693
+p:  -36317.2381909 2.19787597656
+p:  -36317.2381909 2.14117908478
+p:  -36317.2381909 2.21072292328
+p:  p:  -36317.2381909 2.14767098427
+-36317.2381909 2.14141178131
+p:  -36317.2381909 2.15627098083
+p:  -36317.2381909 2.18505716324
+p:  -36317.2381909 2.14687609673
+p:  -36317.2381909 2.17212104797
+p:  -36317.2381909 2.12693500519
+p:  -36317.2381909 2.17387509346
+p:  -36317.2381909 2.16544699669
+p:  -36317.2381909 2.1343729496
+p:  -36317.2381909 2.16465592384
+p:  -36317.2381909 2.12087082863
+p:  -36317.2381909 2.14150595665
+p:  -36317.2381909 2.15659594536p:  -36317.2381909 2.17431497574
+
+p:  -36317.2381909 2.14366006851
+p:  -36317.2381909 2.2053630352
+p:  -36317.2381909 2.16083407402
+p:  -36317.2381909 2.11963510513
+p:  -36317.2381909 2.17952418327
+p:  -36317.2381909 2.11697101593
+p:  -36317.2381909 2.27332282066
+p:  -36317.2381909 2.18861794472
+p:  -36317.2381909 2.18620491028
+p:  -36317.2381909 2.27482295036
+p:  -36317.2381909 2.15508890152
+p:  -36317.2381909 2.15865898132
+p:  -36317.2381909 2.14077687263
+p:  -36317.2381909 2.10981702805
+p:  -36317.2381909 2.16926980019
+p:  -36317.2381909 2.15120005608
+p:  -36317.2381909 2.13721013069
+p:  -36317.2381909 2.13751101494
+p:  -36317.2381909 2.18194198608
+p:  -36317.2381909 2.22049498558
+p:  -36317.2381909 2.17509198189
+p:  -36317.2381909 2.13853311539
+p:  -36317.2381909 2.12256503105
+p:  p:  p:  -36317.2381909 2.12318992615
+p:  -36317.2381909 2.16777610779
+p:  -36317.2381909 2.13676595688
+p:  -36317.2381909 2.14875411987
+p:  -36317.2381909 2.15075206757
+p:  -36317.2381909 2.20451021194
+p:  -36317.2381909 2.17117786407
+p:  -36317.2381909 2.14980196953p:  -36317.2381909 -36317.2381909 2.17318916321
+-36317.2381909 2.18770885468
+p:  -36317.2381909 2.11030220985
+p:  -36317.2381909 2.14849495888
+
+2.15231919289
+p:  -36317.2381909 2.14510679245
+p:  -36317.2381909 2.22710204124
+p:  -36317.2381909 2.11796593666
+p:  -36317.2381909 2.18673086166
+p:  -36317.2381909 2.12105298042
+p:  -36317.2381909 2.25428414345
+p:  -36317.2381909 2.10716199875
+p:  -36317.2381909 2.12983894348
+p:  -36317.2381909 2.16664004326
+p:  -36317.2381909 p:  -36317.2381909 2.15227413177
+p:  -36317.2381909 2.08640003204
+p:  -36317.2381909 2.15206217766
+p:  -36317.2381909 2.13947105408
+p:  -36317.2381909 2.11047291756
+p:  -36317.2381909 2.13013291359
+p:  -36317.2381909 2.17369008064
+2.15746808052
+p:  -36317.2381909 2.15398192406
+p:  -36317.2381909 2.13463592529
+p:  -36317.2381909 2.12042117119
+p:  -36317.2381909 2.16375303268
+p:  p:  -36317.2381909 2.15021800995
+-36317.2381909 2.15358710289
+p:  -36317.2381909 2.1311609745
+p:  -36317.2381909 2.13649106026p:  -36317.2381909 2.14203596115
+
+p:  -36317.2381909 2.16696882248
+p:  -36317.2381909 2.16568207741
+p:  -36317.2381909 2.11675286293
+p:  -36317.2381909 2.13997197151
+p:  -36317.2381909 2.12691688538
+p:  -36317.2381909 2.17804098129
+p:  -36317.2381909 2.13349699974
+p:  -36317.2381909 2.20013213158
+p:  -36317.2381909 2.19978308678
+p:  -36317.2381909 2.17177200317
+p:  -36317.2381909 2.16281604767
+p:  -36317.2381909 2.11699604988
+p:  -36317.2381909 2.12496304512
+p:  p:  -36317.2381909 2.25023603439p:  -36317.2381909 2.14243102074
+
+-36317.2381909 2.15171098709
+p:  -36317.2381909 2.13841795921
+p:  -36317.2381909 2.15938782692
+p:  -36317.2381909 2.14402484894
+p:  -36317.2381909 2.1247780323
+p:  -36317.2381909 2.12267518044
+p:  -36317.2381909 2.151668787
+p:  -36317.2381909 2.1902320385
+p:  -36317.2381909 2.18279504776
+p:  -36317.2381909 2.13252496719
+p:  -36317.2381909 2.13073801994
+p:  -36317.2381909 2.19457101822
+p:  -36317.2381909 2.1838312149
+p:  -36317.2381909 2.11877989769
+p:  -36317.2381909 2.16643118858
+p:  -36317.2381909 2.19006299973
+p:  -36317.2381909 2.15464401245
+p:  -36317.2381909 2.21355605125p:  -36317.2381909 2.11035895348
+p:  -36317.2381909 2.18110108376
+
+p:  -36317.2381909 2.12751603127
+p:  -36317.2381909 2.15947508812
+p:  -36317.2381909 2.13019800186
+p:  -36317.2381909 2.15856289864
+p:  -36317.2381909 2.11909890175
+p:  -36317.2381909 2.21640920639
+p:  -36317.2381909 2.14780402184
+p:  p:  -36317.2381909 2.1605079174
+p:  -36317.2381909 2.20956802368
+-36317.2381909 2.11758899689
+p:  -36317.2381909 2.11394715309
+p:  -36317.2381909 2.14952588081
+p:  -36317.2381909 2.18887495995
+p:  -36317.2381909 2.13456821442
+p:  -36317.2381909 2.13927102089
+p:  -36317.2381909 2.13361382484
+p:  -36317.2381909 2.11670708656
+p:  -36317.2381909 2.12255883217
+p:  -36317.2381909 2.18764805794
+p:  -36317.2381909 2.15251588821
+p:  -36317.2381909 2.16575407982
+p:  -36317.2381909 2.15544486046
+p:  -36317.2381909 2.17237401009
+p:  -36317.2381909 2.15518283844
+p:  -36317.2381909 2.11411595345
+p:  -36317.2381909 2.16694402695p:  -36317.2381909 2.12329387665
+p:  -36317.2381909 2.17313218117
+p:  -36317.2381909 2.18389201164
+p:  -36317.2381909 2.13305497169
+p:  -36317.2381909 2.14930200577
+
+p:  -36317.2381909 2.15006303787
+p:  -36317.2381909 2.15823888779
+p:  -36317.2381909 2.16367912292
+p:  -36317.2381909 2.12519192696
+p:  -36317.2381909 2.12198591232
+p:  -36317.2381909 2.14243817329
+p:  -36317.2381909 2.15820503235
+p:  -36317.2381909 2.16496992111
+p:  -36317.2381909 2.20222306252
+p:  -36317.2381909 2.1753051281
+p:  -36317.2381909 2.12802600861
+p:  -36317.2381909 2.15056705475p:  -36317.2381909 2.15377116203
+p:  p:  -36317.2381909 2.16958093643
+-36317.2381909 2.1468360424
+
+p:  -36317.2381909 2.16161394119
+p:  -36317.2381909 2.13370704651
+p:  -36317.2381909 2.13178110123
+p:  -36317.2381909 2.15247583389
+p:  -36317.2381909 2.16430211067
+p:  -36317.2381909 2.18774414062
+p:  -36317.2381909 2.15826177597
+p:  -36317.2381909 2.16783714294
+p:  -36317.2381909 2.18469309807
+p:  -36317.2381909 2.16946721077
+p:  -36317.2381909 2.22409582138
+p:  -36317.2381909 2.20973491669
+p:  -36317.2381909 2.19075894356
+p:  -36317.2381909 2.1536898613
+p:  -36317.2381909 2.15029406548
+p:  -36317.2381909 2.1526260376
+p:  -36317.2381909 2.10398292542
+p:  -36317.2381909 2.11580491066
+p:  -36317.2381909 2.15324401855
+p:  -36317.2381909 2.14677715302
+p:  p:  -36317.2381909 2.14051103592
+p:  -36317.2381909 2.21492218971
+-36317.2381909 2.23949503899
+p:  -36317.2381909 2.12092399597
+p:  -36317.2381909 2.15371084213
+p:  p:  p:  -36317.2381909 2.70908308029
+p:  -36317.2381909 2.16871094704
+p:  -36317.2381909 2.2271668911p:  -36317.2381909 2.16958093643
+p:  -36317.2381909 2.14296913147
+p:  -36317.2381909 2.11466097832
+-36317.2381909 2.17770218849
+-36317.2381909 2.18219184875
+
+p:  -36317.2381909 2.13514590263
+p:  -36317.2381909 2.15996384621
+p:  -36317.2381909 2.14638614655
+p:  -36317.2381909 2.1788790226
+p:  -36317.2381909 2.13418388367
+p:  -36317.2381909 2.18510603905
+p:  -36317.2381909 2.13832187653
+p:  -36317.2381909 2.13019013405
+p:  -36317.2381909 2.17479610443
+p:  -36317.2381909 2.16282296181
+p:  -36317.2381909 2.15547919273
+p:  -36317.2381909 2.13725686073
+p:  -36317.2381909 2.13371896744
+p:  -36317.2381909 2.16883802414
+p:  -36317.2381909 2.14368081093
+p:  -36317.2381909 2.17802000046
+p:  -36317.2381909 2.15385293961
+p:  -36317.2381909 2.21425914764
+p:  -36317.2381909 2.125207901
+p:  -36317.2381909 2.24958014488
+p:  -36317.2381909 2.13050699234
+p:  -36317.2381909 2.15670490265
+p:  -36317.2381909 2.16010189056
+p:  -36317.2381909 2.17373800278
+p:  -36317.2381909 2.14299798012
+p:  -36317.2381909 2.1925368309
+p:  -36317.2381909 2.16196203232
+p:  -36317.2381909 2.13553595543
+p:  -36317.2381909 2.15081977844
+p:  -36317.2381909 2.15737295151
+p:  -36317.2381909 2.12972187996
+p:  -36317.2381909 2.09284496307
+p:  -36317.2381909 2.17389392853
+p:  -36317.2381909 2.1482219696
+p:  -36317.2381909 p:  -36317.2381909 2.17316699028
+2.16528391838
+p:  -36317.2381909 2.15038895607
+p:  -36317.2381909 2.13411402702
+p:  -36317.2381909 2.14381694794
+p:  -36317.2381909 2.13837909698
+p:  -36317.2381909 2.14757204056
+p:  -36317.2381909 2.11535596848
+p:  -36317.2381909 2.14476919174
+p:  -36317.2381909 2.16187405586
+p:  -36317.2381909 2.1591219902
+p:  -36317.2381909 2.14224910736
+p:  -36317.2381909 2.13570594788
+p:  -36317.2381909 2.13885688782
+p:  -36317.2381909 2.09779882431
+p:  -36317.2381909 2.18713617325
+p:  -36317.2381909 2.14845204353
+p:  -36317.2381909 2.13745999336
+p:  -36317.2381909 2.22052288055
+p:  -36317.2381909 2.15492105484
+p:  p:  -36317.2381909 2.16647601128
+-36317.2381909 2.16022205353
+p:  -36317.2381909 2.110476017
+p:  -36317.2381909 2.22218704224
+p:  -36317.2381909 2.13926315308
+p:  -36317.2381909 2.158203125
+p:  -36317.2381909 2.1364440918
+p:  -36317.2381909 2.17048001289
+p:  -36317.2381909 2.14139699936
+p:  -36317.2381909 2.18381905556
+p:  -36317.2381909 2.12670397758
+p:  -36317.2381909 2.16668605804
+p:  -36317.2381909 2.1688811779
+p:  -36317.2381909 2.19059801102
+p:  -36317.2381909 2.17589116096
+p:  -36317.2381909 2.19871592522
+p:  -36317.2381909 2.13952207565
+p:  -36317.2381909 2.12484908104
+p:  -36317.2381909 2.17807102203
+p:  -36317.2381909 2.14096593857
+p:  -36317.2381909 2.17657589912
+p:  -36317.2381909 2.16319894791
+p:  -36317.2381909 2.2370159626
+p:  -36317.2381909 2.14801383018
+p:  -36317.2381909 2.13443994522
+p:  -36317.2381909 2.16079497337
+p:  -36317.2381909 2.1329190731
+p:  -36317.2381909 2.175344944
+p:  -36317.2381909 2.11171603203
+p:  p:  -36317.2381909 2.17975902557
+p:  -36317.2381909 2.12508296967
+p:  -36317.2381909 2.15796709061
+p:  -36317.2381909 p:  -36317.2381909 2.11429405212-36317.2381909 2.11701011658
+2.08929491043
+
+p:  -36317.2381909 2.17553091049
+p:  p:  -36317.2381909 2.10939407349
+-36317.2381909 2.17954111099
+p:  -36317.2381909 2.17154383659
+p:  -36317.2381909 2.13965010643
+p:  -36317.2381909 2.12870001793
+p:  -36317.2381909 2.15019798279
+p:  -36317.2381909 2.12470889091
+p:  -36317.2381909 2.2138531208
+p:  -36317.2381909 2.17981100082
+p:  -36317.2381909 2.18475604057
+p:  -36317.2381909 2.12679600716
+p:  -36317.2381909 2.15515708923
+p:  -36317.2381909 2.15682220459
+p:  -36317.2381909 2.12544989586
+p:  -36317.2381909 2.14009189606
+p:  -36317.2381909 2.14114093781
+p:  -36317.2381909 2.09946799278
+p:  -36317.2381909 2.19223999977
+p:  -36317.2381909 2.22220492363
+p:  -36317.2381909 2.17727899551
+p:  -36317.2381909 2.15019202232
+p:  -36317.2381909 2.1782579422
+p:  -36317.2381909 2.15955591202
+p:  -36317.2381909 2.14401006699
+p:  -36317.2381909 2.10725808144
+p:  -36317.2381909 2.14581203461
+p:  -36317.2381909 2.16686987877
+p:  -36317.2381909 2.19566702843
+p:  -36317.2381909 2.12275695801
+p:  -36317.2381909 2.14399814606
+p:  -36317.2381909 2.19589591026
+p:  -36317.2381909 2.14769792557
+p:  -36317.2381909 2.15477204323
+p:  -36317.2381909 2.13970589638
+p:  -36317.2381909 2.17352390289
+p:  -36317.2381909 2.17110109329
+p:  -36317.2381909 2.11422991753
+p:  -36317.2381909 2.16334605217
+p:  -36317.2381909 2.13227701187
+p:  p:  -36317.2381909 2.14248299599
+-36317.2381909 2.14877104759
+p:  -36317.2381909 2.10116291046
+p:  -36317.2381909 2.1276550293
+p:  -36317.2381909 2.14786601067
+p:  -36317.2381909 2.1743490696
+p:  -36317.2381909 2.11027908325
+p:  -36317.2381909 2.14907288551
+p:  -36317.2381909 2.14801502228
+p:  -36317.2381909 2.13546991348
+p:  -36317.2381909 2.16085100174
+p:  -36317.2381909 2.19318294525
+p:  -36317.2381909 2.12913298607
+p:  -36317.2381909 2.15567684174
+p:  -36317.2381909 2.17347288132
+p:  -36317.2381909 2.1296710968
+p:  -36317.2381909 2.24149990082
+p:  -36317.2381909 2.18208503723
+p:  -36317.2381909 2.15208387375
+p:  -36317.2381909 2.18644285202
+p:  -36317.2381909 2.14988899231
+p:  -36317.2381909 2.20651698112
+p:  -36317.2381909 2.1596300602
+p:  -36317.2381909 2.13355398178
+p:  -36317.2381909 2.0979950428
+p:  -36317.2381909 2.13472080231
+p:  -36317.2381909 2.12217998505
+p:  -36317.2381909 2.15677809715
+p:  -36317.2381909 2.17985701561
+p:  -36317.2381909 2.17562603951
+p:  -36317.2381909 2.12453699112
+p:  -36317.2381909 2.11232209206
+p:  -36317.2381909 2.12598085403
+p:  -36317.2381909 2.15827202797
+p:  -36317.2381909 2.13578295708
+p:  -36317.2381909 2.12681794167
+p:  -36317.2381909 2.1087808609
+p:  -36317.2381909 2.17143106461
+p:  -36317.2381909 2.12627506256
+p:  -36317.2381909 2.19668197632
+p:  -36317.2381909 2.27149605751
+p:  -36317.2381909 2.11523509026
+p:  -36317.2381909 2.30589199066
+p:  -36317.2381909 2.14577198029
+p:  -36317.2381909 2.12281608582p:  -36317.2381909 2.11904382706
+p:  p:  -36317.2381909 2.15640091896
+
+-36317.2381909 2.12527394295
+p:  -36317.2381909 2.14161491394
+p:  -36317.2381909 2.19717216492
+p:  -36317.2381909 2.13333201408
+p:  -36317.2381909 2.11213803291
+p:  -36317.2381909 2.19670200348
+p:  p:  -36317.2381909 2.12590718269
+-36317.2381909 2.16611599922
+p:  -36317.2381909 2.11680698395
+p:  -36317.2381909 2.13715100288
+p:  -36317.2381909 2.16319918633
+p:  p:  -36317.2381909 2.12474179268
+p:  -36317.2381909 2.13933396339
+p:  -36317.2381909 2.1390311718
+p:  -36317.2381909 2.14532899857
+p:  p:  -36317.2381909 2.1465010643
+p:  -36317.2381909 2.16145896912
+p:  -36317.2381909 2.14577794075
+-36317.2381909 2.183989048
+-36317.2381909 2.12345600128
+p:  -36317.2381909 2.17549204826
+p:  -36317.2381909 2.13946294785
+p:  -36317.2381909 2.12443900108
+p:  -36317.2381909 2.16277384758
+p:  -36317.2381909 2.20584607124
+p:  -36317.2381909 2.14209699631
+p:  -36317.2381909 2.20901608467
+p:  -36317.2381909 2.13596892357
+p:  -36317.2381909 2.16112995148
+p:  -36317.2381909 2.15598487854
+p:  -36317.2381909 2.14681005478
+p:  -36317.2381909 2.15425300598
+p:  -36317.2381909 2.12213993073
+p:  -36317.2381909 2.13202404976
+p:  -36317.2381909 2.26736998558
+p:  -36317.2381909 2.11103701591
+p:  -36317.2381909 2.14859390259
+p:  -36317.2381909 2.12915086746
+p:  -36317.2381909 2.15151691437
+p:  -36317.2381909 2.12865996361
+p:  -36317.2381909 2.16954994202
+p:  p:  -36317.2381909 2.14774394035
+-36317.2381909 2.17190098763
+p:  -36317.2381909 2.13471984863
+p:  -36317.2381909 2.20530200005
+p:  -36317.2381909 2.13768291473
+p:  -36317.2381909 2.16608500481
+p:  -36317.2381909 2.24741315842
+p:  -36317.2381909 2.16446089745
+p:  -36317.2381909 2.13130903244
+p:  -36317.2381909 2.15816807747
+p:  -36317.2381909 p:  2.19936990738
+-36317.2381909 2.18197703362
+p:  -36317.2381909 2.12836909294
+p:  -36317.2381909 2.14277601242
+p:  -36317.2381909 2.15241003036
+p:  p:  -36317.2381909 2.16167783737
+-36317.2381909 2.13552308083
+p:  -36317.2381909 2.12904500961
+p:  -36317.2381909 2.25312805176
+p:  -36317.2381909 2.12192988396
+p:  -36317.2381909 2.15722489357
+p:  -36317.2381909 2.19346690178
+p:  -36317.2381909 2.17511606216
+p:  -36317.2381909 2.17751312256
+p:  -36317.2381909 2.18402409554
+p:  -36317.2381909 2.14677405357
+p:  -36317.2381909 2.13032698631
+p:  -36317.2381909 2.19020295143
+p:  -36317.2381909 2.15340590477
+p:  -36317.2381909 2.20415616035
+p:  -36317.2381909 2.21672487259
+p:  -36317.2381909 2.11869502068
+p:  -36317.2381909 2.15544509888
+p:  -36317.2381909 2.14171099663
+p:  -36317.2381909 2.14343500137
+p:  -36317.2381909 2.20411586761
+p:  -36317.2381909 2.24926400185
+p:  -36317.2381909 2.18103599548
+p:  -36317.2381909 2.12173485756
+p:  -36317.2381909 2.18361902237
+p:  -36317.2381909 2.10555696487
+p:  -36317.2381909 2.17950201035
+p:  -36317.2381909 2.23012590408
+p:  -36317.2381909 2.13897514343
+p:  -36317.2381909 2.12232494354
+p:  -36317.2381909 2.24100399017
+p:  -36317.2381909 2.15875411034
+p:  -36317.2381909 2.11851215363
+p:  -36317.2381909 2.13316679001
+p:  -36317.2381909 2.10557293892
+p:  -36317.2381909 2.13613295555
+p:  -36317.2381909 2.22604703903
+p:  -36317.2381909 2.21522688866
+p:  -36317.2381909 2.15290594101
+p:  -36317.2381909 2.141715765
+p:  -36317.2381909 2.1426820755
+p:  -36317.2381909 2.11925387383
+p:  -36317.2381909 2.13222885132
+p:  -36317.2381909 2.12685394287
+p:  -36317.2381909 2.14123296738
+p:  -36317.2381909 2.17721986771
+p:  -36317.2381909 2.1269299984
+p:  -36317.2381909 2.15683698654
+p:  p:  -36317.2381909 2.18880200386
+p:  -36317.2381909 2.18609285355
+-36317.2381909 2.21901702881
+p:  -36317.2381909 2.16777706146
+p:  -36317.2381909 2.12838888168
+p:  -36317.2381909 2.25081586838
+p:  -36317.2381909 2.13287687302
+p:  -36317.2381909 2.11654400826
+p:  -36317.2381909 2.14342689514
+p:  -36317.2381909 2.14696002007
+p:  -36317.2381909 2.15530514717
+p:  -36317.2381909 2.1546330452
+p:  -36317.2381909 2.09302401543
+p:  -36317.2381909 2.11874198914
+p:  -36317.2381909 2.13893485069
+p:  -36317.2381909 2.14594697952
+p:  -36317.2381909 2.12546396255
+p:  -36317.2381909 2.16298294067
+p:  -36317.2381909 2.14175581932
+p:  -36317.2381909 2.12252902985
+p:  -36317.2381909 2.15750408173
+p:  -36317.2381909 2.18265104294
+p:  -36317.2381909 2.13278603554
+p:  -36317.2381909 2.15092897415
+p:  -36317.2381909 2.22433018684
+p:  -36317.2381909 2.36222314835
+p:  -36317.2381909 2.12139987946
+p:  -36317.2381909 2.16908502579
+p:  -36317.2381909 2.12417197227
+p:  -36317.2381909 2.14891314507
+p:  -36317.2381909 2.18060588837
+p:  -36317.2381909 2.14873194695
+p:  -36317.2381909 2.13462710381
+p:  -36317.2381909 2.14812803268
+p:  -36317.2381909 2.17122793198
+p:  -36317.2381909 2.1360578537
+p:  -36317.2381909 2.12610602379
+p:  -36317.2381909 2.14254593849
+p:  -36317.2381909 2.21011400223
+p:  -36317.2381909 2.12721395493
+p:  -36317.2381909 2.19808793068
+p:  -36317.2381909 2.14986896515
+p:  -36317.2381909 2.16287684441
+p:  -36317.2381909 2.12900400162
+p:  -36317.2381909 2.12123394012
+p:  -36317.2381909 2.14035010338
+p:  -36317.2381909 2.12753200531
+p:  -36317.2381909 2.15422701836
+p:  -36317.2381909 2.13888287544
+p:  -36317.2381909 2.11022806168
+p:  -36317.2381909 2.13713407516
+p:  -36317.2381909 2.13144278526
+p:  -36317.2381909 2.12904691696
+p:  -36317.2381909 2.12772297859
+p:  -36317.2381909 2.16024184227
+p:  -36317.2381909 2.14351296425
+p:  -36317.2381909 2.13990712166
+p:  -36317.2381909 2.12673091888
+p:  -36317.2381909 2.17646098137
+p:  -36317.2381909 2.18916893005
+p:  -36317.2381909 2.15888500214
+p:  -36317.2381909 2.1332719326
+p:  -36317.2381909 2.14534282684
+p:  -36317.2381909 2.14228701591
+p:  -36317.2381909 2.09250283241
+p:  -36317.2381909 2.13671803474
+p:  -36317.2381909 2.18880200386
+p:  -36317.2381909 2.1861550808
+p:  -36317.2381909 2.14432382584
+p:  -36317.2381909 2.16144514084
+p:  -36317.2381909 2.16673088074
+p:  -36317.2381909 2.14263796806
+p:  -36317.2381909 2.16131591797
+p:  -36317.2381909 2.21174311638
+p:  -36317.2381909 2.13840889931
+p:  -36317.2381909 2.16845607758
+p:  -36317.2381909 2.23886680603
+p:  -36317.2381909 2.13191199303
+p:  -36317.2381909 2.20748496056
+p:  -36317.2381909 2.10612797737
+p:  -36317.2381909 2.13468980789
+p:  -36317.2381909 2.18962597847
+p:  -36317.2381909 2.1787610054
+p:  -36317.2381909 2.14002203941
+p:  -36317.2381909 2.15901899338
+p:  -36317.2381909 2.16134595871
+p:  -36317.2381909 2.13538098335
+p:  -36317.2381909 2.19703817368
+p:  -36317.2381909 2.13887691498
+p:  -36317.2381909 2.1665430069
+p:  -36317.2381909 2.15994715691
+p:  -36317.2381909 2.14745402336
+p:  -36317.2381909 2.11632990837
+p:  -36317.2381909 2.18345689774
+p:  -36317.2381909 2.14308619499
+p:  -36317.2381909 2.15226006508
+p:  -36317.2381909 2.15063786507
+p:  -36317.2381909 2.18804907799
+p:  -36317.2381909 2.17716598511
+p:  -36317.2381909 2.11965918541
+p:  p:  -36317.2381909 2.14135909081
+p:  -36317.2381909 2.14820289612
+-36317.2381909 2.11581802368
+p:  -36317.2381909 2.1978199482
+p:  -36317.2381909 2.18824195862
+p:  -36317.2381909 2.27939200401
+p:  -36317.2381909 2.11546421051
+p:  -36317.2381909 2.15674304962
+p:  p:  -36317.2381909 2.14297604561
+-36317.2381909 2.12425994873
+p:  -36317.2381909 2.13096213341
+p:  -36317.2381909 2.13010382652
+p:  -36317.2381909 2.1931450367
+p:  -36317.2381909 2.1770401001
+p:  -36317.2381909 2.21534705162
+p:  -36317.2381909 2.09042096138
+p:  -36317.2381909 2.18698096275
+p:  -36317.2381909 2.29890489578
+p:  -36317.2381909 2.15759110451
+p:  -36317.2381909 2.30845499039
+p:  -36317.2381909 2.16199302673
+p:  -36317.2381909 2.1913318634
+p:  -36317.2381909 2.21291899681
+p:  -36317.2381909 2.1942820549
+p:  -36317.2381909 2.23514294624
+p:  -36317.2381909 2.1483130455
+p:  -36317.2381909 2.109623909
+p:  -36317.2381909 2.24166917801
+p:  -36317.2381909 2.18179583549
+p:  -36317.2381909 2.2954659462
+p:  -36317.2381909 2.1372718811
+p:  -36317.2381909 2.17475390434
+p:  -36317.2381909 2.1624519825
+p:  -36317.2381909 2.11322402954
+p:  -36317.2381909 2.16419291496
+p:  -36317.2381909 2.13518595695
+p:  -36317.2381909 2.13582396507
+p:  -36317.2381909 2.19920110703
+p:  -36317.2381909 2.18112206459
+p:  -36317.2381909 2.19492316246
+p:  -36317.2381909 2.14470601082
+p:  -36317.2381909 2.13881492615
+p:  -36317.2381909 2.12550806999
+p:  -36317.2381909 2.10830783844
+p:  -36317.2381909 2.15229511261
+p:  -36317.2381909 2.15568590164
+p:  -36317.2381909 2.19996094704
+p:  -36317.2381909 2.17184400558
+p:  -36317.2381909 2.88175797462
+p:  -36317.2381909 2.18226099014
+p:  -36317.2381909 2.11662006378
+p:  -36317.2381909 2.22230386734
+p:  -36317.2381909 2.12042307854
+p:  -36317.2381909 2.20238399506
+p:  -36317.2381909 2.21008086205
+p:  -36317.2381909 2.15850996971
+p:  -36317.2381909 2.13364696503
+p:  -36317.2381909 2.15006995201
+p:  -36317.2381909 2.1652469635
+p:  -36317.2381909 2.16626596451
+p:  -36317.2381909 2.13620901108
+p:  -36317.2381909 2.13588190079
+p:  -36317.2381909 2.16956210136
+p:  -36317.2381909 2.15469908714
+p:  -36317.2381909 2.13088703156
+p:  -36317.2381909 2.24155879021
+p:  -36317.2381909 2.14099693298
+p:  -36317.2381909 2.23230099678
+p:  -36317.2381909 2.1583480835
+p:  -36317.2381909 2.18445396423
+p:  -36317.2381909 2.1182448864
+p:  -36317.2381909 2.14032411575
+p:  -36317.2381909 2.12304806709
+p:  -36317.2381909 2.20084905624
+p:  -36317.2381909 2.15582895279
+p:  -36317.2381909 2.18804383278
+p:  -36317.2381909 2.1454808712
+p:  -36317.2381909 2.17917895317
+p:  -36317.2381909 2.17810893059
+p:  -36317.2381909 2.17540693283
+p:  -36317.2381909 2.15737485886
+p:  -36317.2381909 2.1646668911
+p:  -36317.2381909 2.22711396217
+p:  -36317.2381909 2.14232206345
+p:  -36317.2381909 2.14160609245
+p:  -36317.2381909 2.13962817192
+p:  -36317.2381909 2.11998987198
+p:  -36317.2381909 2.11542510986
+p:  -36317.2381909 2.16736102104
+p:  -36317.2381909 2.10046601295
+p:  -36317.2381909 2.23557496071
+p:  -36317.2381909 2.32326698303
+p:  -36317.2381909 2.15940284729
+p:  -36317.2381909 2.18620085716
+p:  -36317.2381909 2.22836709023
+p:  -36317.2381909 2.12711381912
+p:  -36317.2381909 2.15995788574
+p:  -36317.2381909 2.13206005096
+p:  -36317.2381909 2.14244508743
+p:  -36317.2381909 2.16298890114
+p:  -36317.2381909 2.17759895325
+p:  -36317.2381909 2.14192295074
+p:  -36317.2381909 2.32480812073
+p:  -36317.2381909 2.21247696877
+p:  -36317.2381909 2.18215298653
+p:  -36317.2381909 2.22161698341
+p:  -36317.2381909 2.20166897774
+p:  -36317.2381909 2.13173413277
+p:  -36317.2381909 2.16864681244
+p:  -36317.2381909 2.12979888916
+p:  -36317.2381909 2.141258955
+p:  -36317.2381909 2.11473298073
+p:  -36317.2381909 2.13582205772
+p:  -36317.2381909 2.15287899971
+p:  -36317.2381909 2.24138307571
+p:  -36317.2381909 2.1202249527
+p:  -36317.2381909 2.12125015259
+p:  -36317.2381909 2.13743400574
+p:  -36317.2381909 2.11931180954
+p:  -36317.2381909 2.13329291344
+p:  -36317.2381909 2.11207199097
+p:  -36317.2381909 2.16119194031
+p:  -36317.2381909 2.1822719574
+p:  -36317.2381909 2.10973906517
+p:  -36317.2381909 2.10330986977
+p:  -36317.2381909 2.13129401207
+p:  -36317.2381909 2.17678689957
+p:  -36317.2381909 2.08992099762
+p:  -36317.2381909 2.18502187729
+p:  -36317.2381909 2.0566880703
+p:  -36317.2381909 2.09533977509
+p:  -36317.2381909 2.10319709778
+p:  -36317.2381909 2.13687896729
+p:  -36317.2381909 2.08935594559
+Imported PyMultiNest.
+>> Commencing integration...
+>> Estimating fractional hypervolume of the unit hypercube with finite prior density:
+Requiring 1E+05 draws from the prior support for Monte Carlo estimation.
+The support of the joint prior occupies an estimated fraction 0.4979 of the hypervolume within the unit hypercube.
+>> Fractional hypervolume estimated.
+Sampling efficiency set to: 0.6025
+ *****************************************************
+ MultiNest v3.11
+ Copyright Farhan Feroz & Mike Hobson
+ Release Apr 2018
+ 
+ no. of live points = 1000
+ dimensionality =   20
+ resuming from previous job
+ *****************************************************
+ Starting MultiNest
+Acceptance Rate:                        0.002383
+Replacements:                              31350
+Total Samples:                          13155771
+Nested Sampling ln(Z):             -36415.915695
+Acceptance Rate:                        0.002367
+Replacements:                              31400
+Total Samples:                          13264876
+Nested Sampling ln(Z):             -36415.386860
+Acceptance Rate:                        0.002353
+Replacements:                              31450
+Total Samples:                          13364225
+Nested Sampling ln(Z):             -36414.833333
+Acceptance Rate:                        0.002331
+Replacements:                              31500
+Total Samples:                          13513994
+Nested Sampling ln(Z):             -36414.177718
+Acceptance Rate:                        0.002313
+Replacements:                              31550
+Total Samples:                          13638226
+Nested Sampling ln(Z):             -36413.593921
+Acceptance Rate:                        0.002299
+Replacements:                              31600
+Total Samples:                          13746842
+Nested Sampling ln(Z):             -36413.035748
+Acceptance Rate:                        0.002285
+Replacements:                              31650
+Total Samples:                          13853093
+Nested Sampling ln(Z):             -36412.437989
+Acceptance Rate:                        0.002264
+Replacements:                              31700
+Total Samples:                          14000981
+Nested Sampling ln(Z):             -36411.875699
+Acceptance Rate:                        0.002245
+Replacements:                              31750
+Total Samples:                          14142590
+Nested Sampling ln(Z):             -36411.316518
+Acceptance Rate:                        0.002223
+Replacements:                              31800
+Total Samples:                          14306178
+Nested Sampling ln(Z):             -36410.791832
+Acceptance Rate:                        0.002207
+Replacements:                              31850
+Total Samples:                          14431859
+Nested Sampling ln(Z):             -36410.250250
+Acceptance Rate:                        0.002189
+Replacements:                              31900
+Total Samples:                          14569844
+Nested Sampling ln(Z):             -36409.724916
+Acceptance Rate:                        0.002175
+Replacements:                              31950
+Total Samples:                          14688973
+Nested Sampling ln(Z):             -36409.170823
+Acceptance Rate:                        0.002160
+Replacements:                              32000
+Total Samples:                          14814318
+Nested Sampling ln(Z):             -36408.615812
+Acceptance Rate:                        0.002145
+Replacements:                              32050
+Total Samples:                          14939862
+Nested Sampling ln(Z):             -36408.111156
+Acceptance Rate:                        0.002127
+Replacements:                              32100
+Total Samples:                          15093193
+Nested Sampling ln(Z):             -36407.615810
+Acceptance Rate:                        0.002113
+Replacements:                              32150
+Total Samples:                          15215721
+Nested Sampling ln(Z):             -36407.148552
+Acceptance Rate:                        0.002104
+Replacements:                              32200
+Total Samples:                          15303447
+Nested Sampling ln(Z):             -36406.692968
+Acceptance Rate:                        0.002092
+Replacements:                              32250
+Total Samples:                          15419368
+Nested Sampling ln(Z):             -36406.244250
+Acceptance Rate:                        0.002076
+Replacements:                              32300
+Total Samples:                          15562121
+Nested Sampling ln(Z):             -36405.771718
+Acceptance Rate:                        0.002056
+Replacements:                              32350
+Total Samples:                          15736729
+Nested Sampling ln(Z):             -36405.294765
+Acceptance Rate:                        0.002045
+Replacements:                              32400
+Total Samples:                          15841435
+Nested Sampling ln(Z):             -36404.837948
+Acceptance Rate:                        0.002031
+Replacements:                              32450
+Total Samples:                          15976709
+Nested Sampling ln(Z):             -36404.352411
+Acceptance Rate:                        0.002016
+Replacements:                              32500
+Total Samples:                          16119364
+Nested Sampling ln(Z):             -36403.880372
+Acceptance Rate:                        0.002004
+Replacements:                              32550
+Total Samples:                          16239322
+Nested Sampling ln(Z):             -36403.412033
+Acceptance Rate:                        0.001989
+Replacements:                              32600
+Total Samples:                          16390970
+Nested Sampling ln(Z):             -36402.954064
+Acceptance Rate:                        0.001978
+Replacements:                              32650
+Total Samples:                          16507299
+Nested Sampling ln(Z):             -36402.520861
+Acceptance Rate:                        0.001964
+Replacements:                              32700
+Total Samples:                          16651536
+Nested Sampling ln(Z):             -36402.089167
+Acceptance Rate:                        0.001950
+Replacements:                              32750
+Total Samples:                          16796875
+Nested Sampling ln(Z):             -36401.677642
+Acceptance Rate:                        0.001936
+Replacements:                              32800
+Total Samples:                          16943706
+Nested Sampling ln(Z):             -36401.258147
+Acceptance Rate:                        0.001924
+Replacements:                              32850
+Total Samples:                          17072352
+Nested Sampling ln(Z):             -36400.815486
+Acceptance Rate:                        0.001914
+Replacements:                              32900
+Total Samples:                          17186715
+Nested Sampling ln(Z):             -36400.388334
+Acceptance Rate:                        0.001900
+Replacements:                              32950
+Total Samples:                          17344252
+Nested Sampling ln(Z):             -36399.961001
+Acceptance Rate:                        0.001888
+Replacements:                              33000
+Total Samples:                          17478818
+Nested Sampling ln(Z):             -36399.528058
+Acceptance Rate:                        0.001877
+Replacements:                              33050
+Total Samples:                          17606231
+Nested Sampling ln(Z):             -36399.072940
+Acceptance Rate:                        0.001864
+Replacements:                              33100
+Total Samples:                          17761510
+Nested Sampling ln(Z):             -36398.627850
+Acceptance Rate:                        0.001848
+Replacements:                              33150
+Total Samples:                          17940992
+Nested Sampling ln(Z):             -36398.232149
+Acceptance Rate:                        0.001834
+Replacements:                              33200
+Total Samples:                          18101174
+Nested Sampling ln(Z):             -36397.854189
+Acceptance Rate:                        0.001820
+Replacements:                              33250
+Total Samples:                          18267191
+Nested Sampling ln(Z):             -36397.480606
+Acceptance Rate:                        0.001808
+Replacements:                              33300
+Total Samples:                          18422181
+Nested Sampling ln(Z):             -36397.121859
+Acceptance Rate:                        0.001795
+Replacements:                              33350
+Total Samples:                          18574455
+Nested Sampling ln(Z):             -36396.766486
+Acceptance Rate:                        0.001783
+Replacements:                              33400
+Total Samples:                          18729621
+Nested Sampling ln(Z):             -36396.406068
+Acceptance Rate:                        0.001771
+Replacements:                              33450
+Total Samples:                          18890062
+Nested Sampling ln(Z):             -36396.062150
+Acceptance Rate:                        0.001759
+Replacements:                              33500
+Total Samples:                          19043734
+Nested Sampling ln(Z):             -36395.720900
+Acceptance Rate:                        0.001750
+Replacements:                              33550
+Total Samples:                          19174970
+Nested Sampling ln(Z):             -36395.345615
+Acceptance Rate:                        0.001736
+Replacements:                              33600
+Total Samples:                          19357964
+Nested Sampling ln(Z):             -36394.969665
+Acceptance Rate:                        0.001722
+Replacements:                              33650
+Total Samples:                          19540077
+Nested Sampling ln(Z):             -36394.608288
+Acceptance Rate:                        0.001713
+Replacements:                              33700
+Total Samples:                          19673957
+Nested Sampling ln(Z):             -36394.251393
+Acceptance Rate:                        0.001705
+Replacements:                              33750
+Total Samples:                          19795349
+Nested Sampling ln(Z):             -36393.917719
+Acceptance Rate:                        0.001697
+Replacements:                              33800
+Total Samples:                          19921038
+Nested Sampling ln(Z):             -36393.591717
+Acceptance Rate:                        0.001686
+Replacements:                              33850
+Total Samples:                          20071542
+Nested Sampling ln(Z):             -36393.271509
+Acceptance Rate:                        0.001672
+Replacements:                              33900
+Total Samples:                          20280300
+Nested Sampling ln(Z):             -36392.969179
+Acceptance Rate:                        0.001659
+Replacements:                              33950
+Total Samples:                          20465312
+Nested Sampling ln(Z):             -36392.683505
+Acceptance Rate:                        0.001649
+Replacements:                              34000
+Total Samples:                          20618561
+Nested Sampling ln(Z):             -36392.401628
+Acceptance Rate:                        0.001640
+Replacements:                              34050
+Total Samples:                          20761208
+Nested Sampling ln(Z):             -36392.124386
+Acceptance Rate:                        0.001628
+Replacements:                              34100
+Total Samples:                          20940679
+Nested Sampling ln(Z):             -36391.852808
+Acceptance Rate:                        0.001617
+Replacements:                              34150
+Total Samples:                          21124030
+Nested Sampling ln(Z):             -36391.568742
+Acceptance Rate:                        0.001609
+Replacements:                              34200
+Total Samples:                          21257671
+Nested Sampling ln(Z):             -36391.282526
+Acceptance Rate:                        0.001600
+Replacements:                              34250
+Total Samples:                          21400099
+Nested Sampling ln(Z):             -36390.990859
+Acceptance Rate:                        0.001593
+Replacements:                              34300
+Total Samples:                          21536177
+Nested Sampling ln(Z):             -36390.689216
+Acceptance Rate:                        0.001580
+Replacements:                              34350
+Total Samples:                          21739853
+Nested Sampling ln(Z):             -36390.399364
+Acceptance Rate:                        0.001568
+Replacements:                              34400
+Total Samples:                          21931935
+Nested Sampling ln(Z):             -36390.125568
+Acceptance Rate:                        0.001557
+Replacements:                              34450
+Total Samples:                          22126222
+Nested Sampling ln(Z):             -36389.863920
+Acceptance Rate:                        0.001547
+Replacements:                              34500
+Total Samples:                          22297347
+Nested Sampling ln(Z):             -36389.595294
+Acceptance Rate:                        0.001537
+Replacements:                              34550
+Total Samples:                          22480409
+Nested Sampling ln(Z):             -36389.323996
+Acceptance Rate:                        0.001526
+Replacements:                              34600
+Total Samples:                          22677869
+Nested Sampling ln(Z):             -36389.054301
+Acceptance Rate:                        0.001515
+Replacements:                              34650
+Total Samples:                          22866129
+Nested Sampling ln(Z):             -36388.778961
+Acceptance Rate:                        0.001506
+Replacements:                              34700
+Total Samples:                          23040857
+Nested Sampling ln(Z):             -36388.488781
+Acceptance Rate:                        0.001495
+Replacements:                              34750
+Total Samples:                          23250937
+Nested Sampling ln(Z):             -36388.215580
+Acceptance Rate:                        0.001484
+Replacements:                              34800
+Total Samples:                          23455789
+Nested Sampling ln(Z):             -36387.962087
+Acceptance Rate:                        0.001477
+Replacements:                              34850
+Total Samples:                          23601671
+Nested Sampling ln(Z):             -36387.722865
+Acceptance Rate:                        0.001468
+Replacements:                              34900
+Total Samples:                          23777227
+Nested Sampling ln(Z):             -36387.470369
+Acceptance Rate:                        0.001456
+Replacements:                              34950
+Total Samples:                          23996314
+Nested Sampling ln(Z):             -36387.220240
+Acceptance Rate:                        0.001448
+Replacements:                              35000
+Total Samples:                          24168824
+Nested Sampling ln(Z):             -36386.980683
+Acceptance Rate:                        0.001439
+Replacements:                              35050
+Total Samples:                          24349963
+Nested Sampling ln(Z):             -36386.740952
+Acceptance Rate:                        0.001429
+Replacements:                              35100
+Total Samples:                          24554358
+Nested Sampling ln(Z):             -36386.503546
+Acceptance Rate:                        0.001417
+Replacements:                              35150
+Total Samples:                          24810881
+Nested Sampling ln(Z):             -36386.256098
+Acceptance Rate:                        0.001409
+Replacements:                              35200
+Total Samples:                          24977552
+Nested Sampling ln(Z):             -36385.999214
+Acceptance Rate:                        0.001401
+Replacements:                              35250
+Total Samples:                          25163347
+Nested Sampling ln(Z):             -36385.737675
+Acceptance Rate:                        0.001394
+Replacements:                              35300
+Total Samples:                          25322224
+Nested Sampling ln(Z):             -36385.489362
+Acceptance Rate:                        0.001386
+Replacements:                              35350
+Total Samples:                          25508003
+Nested Sampling ln(Z):             -36385.227196
+Acceptance Rate:                        0.001377
+Replacements:                              35400
+Total Samples:                          25713438
+Nested Sampling ln(Z):             -36384.970573
+Acceptance Rate:                        0.001370
+Replacements:                              35450
+Total Samples:                          25878530
+Nested Sampling ln(Z):             -36384.729650
+Acceptance Rate:                        0.001361
+Replacements:                              35500
+Total Samples:                          26081804
+Nested Sampling ln(Z):             -36384.494466
+Acceptance Rate:                        0.001349
+Replacements:                              35550
+Total Samples:                          26350282
+Nested Sampling ln(Z):             -36384.262443
+Acceptance Rate:                        0.001339
+Replacements:                              35600
+Total Samples:                          26582679
+Nested Sampling ln(Z):             -36384.040560
+Acceptance Rate:                        0.001332
+Replacements:                              35650
+Total Samples:                          26761714
+Nested Sampling ln(Z):             -36383.821830
+Acceptance Rate:                        0.001325
+Replacements:                              35700
+Total Samples:                          26937167
+Nested Sampling ln(Z):             -36383.610234
+Acceptance Rate:                        0.001318
+Replacements:                              35750
+Total Samples:                          27118840
+Nested Sampling ln(Z):             -36383.401908
+Acceptance Rate:                        0.001312
+Replacements:                              35800
+Total Samples:                          27285104
+Nested Sampling ln(Z):             -36383.195827
+Acceptance Rate:                        0.001302
+Replacements:                              35850
+Total Samples:                          27525114
+Nested Sampling ln(Z):             -36382.982482
+Acceptance Rate:                        0.001296
+Replacements:                              35900
+Total Samples:                          27692543
+Nested Sampling ln(Z):             -36382.764559
+Acceptance Rate:                        0.001287
+Replacements:                              35950
+Total Samples:                          27931675
+Nested Sampling ln(Z):             -36382.548832
+Acceptance Rate:                        0.001281
+Replacements:                              36000
+Total Samples:                          28105734
+Nested Sampling ln(Z):             -36382.332800
+Acceptance Rate:                        0.001271
+Replacements:                              36050
+Total Samples:                          28370844
+Nested Sampling ln(Z):             -36382.120635
+Acceptance Rate:                        0.001260
+Replacements:                              36100
+Total Samples:                          28656545
+Nested Sampling ln(Z):             -36381.905261
+Acceptance Rate:                        0.001247
+Replacements:                              36150
+Total Samples:                          28999725
+Nested Sampling ln(Z):             -36381.695859
+Acceptance Rate:                        0.001236
+Replacements:                              36200
+Total Samples:                          29284682
+Nested Sampling ln(Z):             -36381.488821
+Acceptance Rate:                        0.001227
+Replacements:                              36250
+Total Samples:                          29543344
+Nested Sampling ln(Z):             -36381.295927
+Acceptance Rate:                        0.001218
+Replacements:                              36300
+Total Samples:                          29803144
+Nested Sampling ln(Z):             -36381.112582
+Acceptance Rate:                        0.001206
+Replacements:                              36350
+Total Samples:                          30133609
+Nested Sampling ln(Z):             -36380.932164
+Acceptance Rate:                        0.001197
+Replacements:                              36400
+Total Samples:                          30401640
+Nested Sampling ln(Z):             -36380.752049
+Acceptance Rate:                        0.001188
+Replacements:                              36450
+Total Samples:                          30676006
+Nested Sampling ln(Z):             -36380.568640
+Acceptance Rate:                        0.001178
+Replacements:                              36500
+Total Samples:                          30979653
+Nested Sampling ln(Z):             -36380.384336
+Acceptance Rate:                        0.001169
+Replacements:                              36550
+Total Samples:                          31259669
+Nested Sampling ln(Z):             -36380.203807
+Acceptance Rate:                        0.001161
+Replacements:                              36600
+Total Samples:                          31521474
+Nested Sampling ln(Z):             -36380.021847
+Acceptance Rate:                        0.001152
+Replacements:                              36650
+Total Samples:                          31826649
+Nested Sampling ln(Z):             -36379.839384
+Acceptance Rate:                        0.001144
+Replacements:                              36700
+Total Samples:                          32071574
+Nested Sampling ln(Z):             -36379.661984
+Acceptance Rate:                        0.001137
+Replacements:                              36750
+Total Samples:                          32332554
+Nested Sampling ln(Z):             -36379.490715
+Acceptance Rate:                        0.001131
+Replacements:                              36800
+Total Samples:                          32545825
+Nested Sampling ln(Z):             -36379.320925
+Acceptance Rate:                        0.001122
+Replacements:                              36850
+Total Samples:                          32847807
+Nested Sampling ln(Z):             -36379.148255
+Acceptance Rate:                        0.001112
+Replacements:                              36900
+Total Samples:                          33196131
+Nested Sampling ln(Z):             -36378.973437
+Acceptance Rate:                        0.001106
+Replacements:                              36950
+Total Samples:                          33414758
+Nested Sampling ln(Z):             -36378.799906
+Acceptance Rate:                        0.001098
+Replacements:                              37000
+Total Samples:                          33712763
+Nested Sampling ln(Z):             -36378.629112
+Acceptance Rate:                        0.001091
+Replacements:                              37050
+Total Samples:                          33952308
+Nested Sampling ln(Z):             -36378.458813
+Acceptance Rate:                        0.001084
+Replacements:                              37100
+Total Samples:                          34227656
+Nested Sampling ln(Z):             -36378.284316
+Acceptance Rate:                        0.001077
+Replacements:                              37150
+Total Samples:                          34508474
+Nested Sampling ln(Z):             -36378.117725
+Acceptance Rate:                        0.001069
+Replacements:                              37200
+Total Samples:                          34794094
+Nested Sampling ln(Z):             -36377.951823
+Acceptance Rate:                        0.001062
+Replacements:                              37250
+Total Samples:                          35067610
+Nested Sampling ln(Z):             -36377.786885
+Acceptance Rate:                        0.001056
+Replacements:                              37300
+Total Samples:                          35330403
+Nested Sampling ln(Z):             -36377.623068
+Acceptance Rate:                        0.001048
+Replacements:                              37350
+Total Samples:                          35641235
+Nested Sampling ln(Z):             -36377.460068
+Acceptance Rate:                        0.001042
+Replacements:                              37400
+Total Samples:                          35895599
+Nested Sampling ln(Z):             -36377.300233
+Acceptance Rate:                        0.001035
+Replacements:                              37450
+Total Samples:                          36179700
+Nested Sampling ln(Z):             -36377.141794
+Acceptance Rate:                        0.001028
+Replacements:                              37500
+Total Samples:                          36464467
+Nested Sampling ln(Z):             -36376.985065
+Acceptance Rate:                        0.001020
+Replacements:                              37550
+Total Samples:                          36802590
+Nested Sampling ln(Z):             -36376.835242
+Acceptance Rate:                        0.001011
+Replacements:                              37600
+Total Samples:                          37186725
+Nested Sampling ln(Z):             -36376.691045
+Acceptance Rate:                        0.001006
+Replacements:                              37650
+Total Samples:                          37432272
+Nested Sampling ln(Z):             -36376.547953
+Acceptance Rate:                        0.000998
+Replacements:                              37700
+Total Samples:                          37788271
+Nested Sampling ln(Z):             -36376.406464
+Acceptance Rate:                        0.000990
+Replacements:                              37750
+Total Samples:                          38115314
+Nested Sampling ln(Z):             -36376.263346
+Acceptance Rate:                        0.000983
+Replacements:                              37800
+Total Samples:                          38436632
+Nested Sampling ln(Z):             -36376.120992
+Acceptance Rate:                        0.000977
+Replacements:                              37850
+Total Samples:                          38757071
+Nested Sampling ln(Z):             -36375.980834
+Acceptance Rate:                        0.000970
+Replacements:                              37900
+Total Samples:                          39077121
+Nested Sampling ln(Z):             -36375.846748
+Acceptance Rate:                        0.000962
+Replacements:                              37950
+Total Samples:                          39440380
+Nested Sampling ln(Z):             -36375.705423
+Acceptance Rate:                        0.000955
+Replacements:                              38000
+Total Samples:                          39781856
+Nested Sampling ln(Z):             -36375.565617
+Acceptance Rate:                        0.000947
+Replacements:                              38050
+Total Samples:                          40182144
+Nested Sampling ln(Z):             -36375.429803
+Acceptance Rate:                        0.000941
+Replacements:                              38100
+Total Samples:                          40501258
+Nested Sampling ln(Z):             -36375.295122
+Acceptance Rate:                        0.000935
+Replacements:                              38150
+Total Samples:                          40813629
+Nested Sampling ln(Z):             -36375.160327
+Acceptance Rate:                        0.000926
+Replacements:                              38200
+Total Samples:                          41255542
+Nested Sampling ln(Z):             -36375.026593
+Acceptance Rate:                        0.000920
+Replacements:                              38250
+Total Samples:                          41593177
+Nested Sampling ln(Z):             -36374.894537
+Acceptance Rate:                        0.000912
+Replacements:                              38300
+Total Samples:                          41980923
+Nested Sampling ln(Z):             -36374.760434
+Acceptance Rate:                        0.000905
+Replacements:                              38350
+Total Samples:                          42388197
+Nested Sampling ln(Z):             -36374.630825
+Acceptance Rate:                        0.000899
+Replacements:                              38400
+Total Samples:                          42714546
+Nested Sampling ln(Z):             -36374.503934
+Acceptance Rate:                        0.000893
+Replacements:                              38450
+Total Samples:                          43060289
+Nested Sampling ln(Z):             -36374.381515
+Acceptance Rate:                        0.000888
+Replacements:                              38500
+Total Samples:                          43340591
+Nested Sampling ln(Z):             -36374.258262
+Acceptance Rate:                        0.000880
+Replacements:                              38550
+Total Samples:                          43786317
+Nested Sampling ln(Z):             -36374.139339
+Acceptance Rate:                        0.000874
+Replacements:                              38600
+Total Samples:                          44147640
+Nested Sampling ln(Z):             -36374.024399
+Acceptance Rate:                        0.000868
+Replacements:                              38650
+Total Samples:                          44530214
+Nested Sampling ln(Z):             -36373.910246
+Acceptance Rate:                        0.000864
+Replacements:                              38700
+Total Samples:                          44788524
+Nested Sampling ln(Z):             -36373.798435
+Acceptance Rate:                        0.000857
+Replacements:                              38750
+Total Samples:                          45225702
+Nested Sampling ln(Z):             -36373.689514
+Acceptance Rate:                        0.000851
+Replacements:                              38800
+Total Samples:                          45608734
+Nested Sampling ln(Z):             -36373.580448
+Acceptance Rate:                        0.000846
+Replacements:                              38850
+Total Samples:                          45914260
+Nested Sampling ln(Z):             -36373.472510
+Acceptance Rate:                        0.000841
+Replacements:                              38900
+Total Samples:                          46231655
+Nested Sampling ln(Z):             -36373.367978
+Acceptance Rate:                        0.000837
+Replacements:                              38950
+Total Samples:                          46542316
+Nested Sampling ln(Z):             -36373.265234
+Acceptance Rate:                        0.000831
+Replacements:                              39000
+Total Samples:                          46910487
+Nested Sampling ln(Z):             -36373.165223
+Acceptance Rate:                        0.000826
+Replacements:                              39050
+Total Samples:                          47253088
+Nested Sampling ln(Z):             -36373.064816
+Acceptance Rate:                        0.000821
+Replacements:                              39100
+Total Samples:                          47597361
+Nested Sampling ln(Z):             -36372.965058
+Acceptance Rate:                        0.000816
+Replacements:                              39150
+Total Samples:                          47996754
+Nested Sampling ln(Z):             -36372.867340
+Acceptance Rate:                        0.000810
+Replacements:                              39200
+Total Samples:                          48414174
+Nested Sampling ln(Z):             -36372.769963
+Acceptance Rate:                        0.000804
+Replacements:                              39250
+Total Samples:                          48845037
+Nested Sampling ln(Z):             -36372.672854
+Acceptance Rate:                        0.000799
+Replacements:                              39300
+Total Samples:                          49192035
+Nested Sampling ln(Z):             -36372.577512
+Acceptance Rate:                        0.000795
+Replacements:                              39350
+Total Samples:                          49499805
+Nested Sampling ln(Z):             -36372.485410
+Acceptance Rate:                        0.000790
+Replacements:                              39400
+Total Samples:                          49891425
+Nested Sampling ln(Z):             -36372.395189
+Acceptance Rate:                        0.000785
+Replacements:                              39450
+Total Samples:                          50285698
+Nested Sampling ln(Z):             -36372.306267
+Acceptance Rate:                        0.000780
+Replacements:                              39500
+Total Samples:                          50625682
+Nested Sampling ln(Z):             -36372.219693
+Acceptance Rate:                        0.000776
+Replacements:                              39550
+Total Samples:                          50983193
+Nested Sampling ln(Z):             -36372.133664
+Acceptance Rate:                        0.000771
+Replacements:                              39600
+Total Samples:                          51360361
+Nested Sampling ln(Z):             -36372.048349
+Acceptance Rate:                        0.000766
+Replacements:                              39650
+Total Samples:                          51787222
+Nested Sampling ln(Z):             -36371.963713
+Acceptance Rate:                        0.000760
+Replacements:                              39700
+Total Samples:                          52263251
+Nested Sampling ln(Z):             -36371.878575
+Acceptance Rate:                        0.000755
+Replacements:                              39750
+Total Samples:                          52635581
+Nested Sampling ln(Z):             -36371.791811
+Acceptance Rate:                        0.000749
+Replacements:                              39800
+Total Samples:                          53124714
+Nested Sampling ln(Z):             -36371.705219
+Acceptance Rate:                        0.000744
+Replacements:                              39850
+Total Samples:                          53587187
+Nested Sampling ln(Z):             -36371.618034
+Acceptance Rate:                        0.000739
+Replacements:                              39900
+Total Samples:                          53989470
+Nested Sampling ln(Z):             -36371.530734

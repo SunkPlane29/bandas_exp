@@ -1,0 +1,679 @@
+/=============================================\
+| X-PSI: X-ray Pulse Simulation and Inference |
+|---------------------------------------------|
+|              Version: 1.0.0                 |
+\=============================================/
+
+Rank reporting: 135
+Rank reporting: 138
+Rank reporting: 12
+Rank reporting: 139
+Rank reporting: 140
+Rank reporting: 17
+Rank reporting: 141
+Rank reporting: 155
+Rank reporting: 37
+Rank reporting: 18
+Rank reporting: 157
+Rank reporting: 21
+Rank reporting: 44
+Rank reporting: 27
+Rank reporting: 29
+Rank reporting: 61
+Rank reporting: 1
+Rank reporting: 3
+Rank reporting: 68
+Rank reporting: 36
+Rank reporting: 9
+Rank reporting: 72
+Rank reporting: 143
+Rank reporting: 13
+Rank reporting: 48
+Rank reporting: 108
+Rank reporting: 19
+Rank reporting: 89
+Rank reporting: 26
+Rank reporting: 144
+Rank reporting: 49
+Rank reporting: 65
+Rank reporting: 30
+Rank reporting: 151
+Rank reporting: 53
+Rank reporting: 75
+Rank reporting: 4
+Rank reporting: 152
+Rank reporting: 57
+Rank reporting: 5
+Rank reporting: 154
+Rank reporting: 42
+Rank reporting: 14
+Rank reporting: 156
+Rank reporting: 51
+Rank reporting: 159
+Rank reporting: 56
+Rank reporting: 76
+Rank reporting: 15
+Rank reporting: 131
+Rank reporting: 59
+Rank reporting: 16
+Rank reporting: 147
+Rank reporting: 34
+Rank reporting: 95
+Rank reporting: 28
+Rank reporting: 146
+Rank reporting: 38
+Rank reporting: 94
+Rank reporting: 25
+Rank reporting: 145
+Rank reporting: 39
+Rank reporting: 71
+Rank reporting: 2
+Rank reporting: 148
+Rank reporting: 45
+Rank reporting: 90
+Rank reporting: 10
+Rank reporting: 149
+Rank reporting: 54
+Rank reporting: 11
+Rank reporting: 136
+Rank reporting: 58
+Rank reporting: 69
+Rank reporting: 22
+Rank reporting: 132
+Rank reporting: 40
+Rank reporting: 23
+Rank reporting: 130
+Rank reporting: 47
+Rank reporting: 7
+Rank reporting: 43
+Rank reporting: 20
+Rank reporting: 137
+Rank reporting: 8
+Rank reporting: 46
+Rank reporting: 67
+Rank reporting: 31
+Rank reporting: 158
+Rank reporting: 32
+Rank reporting: 24
+Rank reporting: 41
+Rank reporting: 6
+Rank reporting: 129
+Rank reporting: 60
+Rank reporting: 55
+Rank reporting: 86
+Rank reporting: 142
+Rank reporting: 62
+Rank reporting: 35
+Rank reporting: 50
+Rank reporting: 70
+Rank reporting: 52
+Rank reporting: 63
+Rank reporting: 64
+Rank reporting: 153
+Rank reporting: 33
+Rank reporting: 66
+Rank reporting: 128
+Rank reporting: 150
+Rank reporting: 85
+Rank reporting: 80
+Rank reporting: 134
+Rank reporting: 0
+Rank reporting: 133
+Rank reporting: 74
+Rank reporting: 84
+Rank reporting: 82
+Rank reporting: 83
+Rank reporting: 81
+Rank reporting: 77
+Rank reporting: 88
+Rank reporting: 87
+Rank reporting: 78
+Rank reporting: 93
+Rank reporting: 73
+Rank reporting: 79
+Rank reporting: 91
+Rank reporting: 92
+Rank reporting: 119
+Rank reporting: 121
+Rank reporting: 125
+Rank reporting: 126
+Rank reporting: 96
+Rank reporting: 97
+Rank reporting: 100
+Rank reporting: 109
+Rank reporting: 112
+Rank reporting: 122
+Rank reporting: 123
+Rank reporting: 117
+Rank reporting: 101
+Rank reporting: 110
+Rank reporting: 127
+Rank reporting: 114
+Rank reporting: 105
+Rank reporting: 107
+Rank reporting: 98
+Rank reporting: 99
+Rank reporting: 124
+Rank reporting: 102
+Rank reporting: 106
+Rank reporting: 120
+Rank reporting: 118
+Rank reporting: 104
+Rank reporting: 103
+Rank reporting: 115
+Rank reporting: 111
+Rank reporting: 116
+Rank reporting: 113
+p:  -37261.5469118 3.02381896973
+p:  -37261.5469118 2.96706604958
+p:  -37261.5469118 2.99668192863
+p:  -37261.5469118 3.03437805176
+p:  -37261.5469118 2.99663496017
+p:  -37261.5469118 3.01028800011
+p:  -37261.5469118 2.97397398949
+p:  -37261.5469118 2.95980906487
+p:  -37261.5469118 2.98813581467
+p:  -37261.5469118 3.00137996674
+p:  -37261.5469118 2.96065402031
+p:  -37261.5469118 2.9882581234
+p:  -37261.5469118 3.01155805588
+p:  -37261.5469118 2.97943806648
+p:  -37261.5469118 3.04676198959
+p:  -37261.5469118 2.99942588806
+p:  -37261.5469118 3.00620603561
+p:  -37261.5469118 2.96878409386
+p:  -37261.5469118 2.97626304626
+p:  -37261.5469118 2.96475982666
+p:  -37261.5469118 3.02990007401
+p:  -37261.5469118 3.00036501884
+p:  -37261.5469118 3.03730487823
+p:  -37261.5469118 2.996270895
+p:  -37261.5469118 3.00685691833
+p:  -37261.5469118 2.99494194984
+p:  -37261.5469118 2.99286699295
+p:  -37261.5469118 2.96090197563
+p:  -37261.5469118 2.98636102676
+p:  -37261.5469118 3.02189803123
+p:  -37261.5469118 3.04959702492
+p:  -37261.5469118 3.07107400894
+p:  -37261.5469118 2.95105314255
+p:  -37261.5469118 3.00624203682
+p:  -37261.5469118 2.94799089432
+p:  -37261.5469118 3.17011499405
+p:  -37261.5469118 2.94287586212
+p:  -37261.5469118 2.99259519577
+p:  -37261.5469118 2.99434185028
+p:  -37261.5469118 3.00672197342
+p:  -37261.5469118 2.97057700157
+p:  -37261.5469118 2.97683787346
+p:  -37261.5469118 3.0053589344
+p:  -37261.5469118 2.99663901329
+p:  -37261.5469118 2.9902510643
+p:  -37261.5469118 2.97219491005
+p:  -37261.5469118 2.96310400963
+p:  -37261.5469118 3.01361298561
+p:  -37261.5469118 2.99391698837
+p:  -37261.5469118 2.97081112862
+p:  -37261.5469118 2.98139500618
+p:  -37261.5469118 2.99005794525
+p:  -37261.5469118 3.00256705284
+p:  -37261.5469118 2.96389603615
+p:  -37261.5469118 2.93935608864
+p:  -37261.5469118 2.98007893562
+p:  -37261.5469118 2.9750919342
+p:  -37261.5469118 2.99602007866
+p:  -37261.5469118 2.98062705994
+p:  -37261.5469118 2.97504997253
+p:  -37261.5469118 2.98755097389
+p:  -37261.5469118 2.98473310471
+p:  -37261.5469118 2.96010494232
+p:  -37261.5469118 3.02326512337
+p:  -37261.5469118 2.95661497116
+p:  -37261.5469118 2.99219512939
+p:  -37261.5469118 2.99073314667
+p:  -37261.5469118 3.11740994453
+p:  -37261.5469118 2.96013712883
+p:  -37261.5469118 3.00048303604
+p:  -37261.5469118 2.9603600502
+p:  -37261.5469118 3.06139993668
+p:  -37261.5469118 3.12607598305
+p:  -37261.5469118 3.00087618828
+p:  -37261.5469118 2.99126696587
+p:  -37261.5469118 3.01291489601
+p:  -37261.5469118 3.00448608398
+p:  -37261.5469118 2.97280097008
+p:  -37261.5469118 3.05921888351
+p:  -37261.5469118 3.05324411392
+p:  -37261.5469118 3.02206397057
+p:  -37261.5469118 2.93304514885
+p:  -37261.5469118 2.95378780365
+p:  -37261.5469118 2.99605512619
+p:  -37261.5469118 2.93948292732
+p:  -37261.5469118 3.01407289505
+p:  -37261.5469118 2.99380993843
+p:  -37261.5469118 3.00641798973
+p:  -37261.5469118 2.9786670208
+p:  -37261.5469118 3.01510810852
+p:  -37261.5469118 2.93662595749
+p:  -37261.5469118 2.97568583488
+p:  -37261.5469118 2.95567297935
+p:  -37261.5469118 2.96790981293
+p:  -37261.5469118 2.96348404884
+p:  -37261.5469118 2.97525191307
+p:  -37261.5469118 2.97472310066
+p:  -37261.5469118 2.99989199638
+p:  -37261.5469118 2.96983718872
+p:  -37261.5469118 3.02544021606
+p:  -37261.5469118 2.97540402412
+p:  -37261.5469118 2.96193099022
+p:  -37261.5469118 2.99966311455
+p:  -37261.5469118 2.9856338501
+p:  -37261.5469118 3.10433912277
+p:  -37261.5469118 3.12550091743
+p:  -37261.5469118 3.01278495789
+p:  -37261.5469118 3.0340590477
+p:  -37261.5469118 2.94286704063
+p:  -37261.5469118 3.02226901054
+p:  -37261.5469118 2.98855996132
+p:  -37261.5469118 2.99519586563
+p:  -37261.5469118 2.9526488781
+p:  -37261.5469118 2.96734118462
+p:  -37261.5469118 2.98025393486
+p:  -37261.5469118 2.97959709167
+p:  -37261.5469118 3.00793123245
+p:  -37261.5469118 2.994161129
+p:  -37261.5469118 3.00234603882
+p:  -37261.5469118 2.99784803391
+p:  -37261.5469118 2.99798297882
+p:  -37261.5469118 2.99336504936
+p:  -37261.5469118 2.95508599281
+p:  -37261.5469118 2.98422288895
+p:  -37261.5469118 3.00656986237
+p:  -37261.5469118 2.96286702156
+p:  -37261.5469118 2.97719097137
+p:  -37261.5469118 3.01946496964
+p:  -37261.5469118 3.02566003799
+p:  -37261.5469118 3.02625608444
+p:  -37261.5469118 3.02805900574
+p:  -37261.5469118 3.0106651783
+p:  -37261.5469118 3.01631999016
+p:  -37261.5469118 3.03321003914
+p:  -37261.5469118 3.02976512909
+p:  -37261.5469118 3.00855898857
+p:  -37261.5469118 2.96611404419
+p:  -37261.5469118 3.03712487221
+p:  -37261.5469118 3.025411129
+p:  -37261.5469118 3.00827789307
+p:  -37261.5469118 3.01442289352
+p:  -37261.5469118 3.08180880547
+p:  -37261.5469118 3.08564305305
+p:  -37261.5469118 2.99291086197
+p:  -37261.5469118 3.10029506683
+p:  -37261.5469118 3.02498483658
+p:  -37261.5469118 2.99045801163
+p:  -37261.5469118 3.11434698105
+p:  -37261.5469118 3.08292889595
+p:  -37261.5469118 3.04516601562
+p:  -37261.5469118 3.07104182243
+p:  -37261.5469118 3.19701814651
+p:  -37261.5469118 3.09750914574
+p:  -37261.5469118 2.97349500656
+p:  -37261.5469118 2.9832868576
+p:  -37261.5469118 3.15694499016
+p:  -37261.5469118 3.00565505028
+p:  -37261.5469118 2.97119688988
+p:  -37261.5469118 2.98517894745
+p:  -37261.5469118 2.97666096687
+Imported PyMultiNest.
+>> Commencing integration...
+>> Estimating fractional hypervolume of the unit hypercube with finite prior density:
+Requiring 1E+05 draws from the prior support for Monte Carlo estimation.
+The support of the joint prior occupies an estimated fraction 0.6150 of the hypervolume within the unit hypercube.
+>> Fractional hypervolume estimated.
+Sampling efficiency set to: 0.4878
+ *****************************************************
+ MultiNest v3.11
+ Copyright Farhan Feroz & Mike Hobson
+ Release Apr 2018
+ 
+ no. of live points = 1000
+ dimensionality =   12
+ resuming from previous job
+ *****************************************************
+ Starting MultiNest
+Acceptance Rate:                        0.046762
+Replacements:                              42250
+Total Samples:                            903515
+Nested Sampling ln(Z):             -37211.524731
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.046669
+Replacements:                              42300
+Total Samples:                            906376
+Nested Sampling ln(Z):             -37211.522178
+Acceptance Rate:                        0.046586
+Replacements:                              42350
+Total Samples:                            909070
+Nested Sampling ln(Z):             -37211.519704
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.046487
+Replacements:                              42400
+Total Samples:                            912077
+Nested Sampling ln(Z):             -37211.517311
+Acceptance Rate:                        0.046405
+Replacements:                              42450
+Total Samples:                            914767
+Nested Sampling ln(Z):             -37211.514990
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.046284
+Replacements:                              42500
+Total Samples:                            918245
+Nested Sampling ln(Z):             -37211.512747
+Acceptance Rate:                        0.046167
+Replacements:                              42550
+Total Samples:                            921653
+Nested Sampling ln(Z):             -37211.510584
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.046077
+Replacements:                              42600
+Total Samples:                            924541
+Nested Sampling ln(Z):             -37211.508500
+Acceptance Rate:                        0.045962
+Replacements:                              42650
+Total Samples:                            927937
+Nested Sampling ln(Z):             -37211.506486
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.045853
+Replacements:                              42700
+Total Samples:                            931244
+Nested Sampling ln(Z):             -37211.504535
+Acceptance Rate:                        0.045755
+Replacements:                              42750
+Total Samples:                            934319
+Nested Sampling ln(Z):             -37211.502642
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.045668
+Replacements:                              42800
+Total Samples:                            937206
+Nested Sampling ln(Z):             -37211.500809
+Acceptance Rate:                        0.045502
+Replacements:                              42850
+Total Samples:                            941709
+Nested Sampling ln(Z):             -37211.499034
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.045358
+Replacements:                              42900
+Total Samples:                            945803
+Nested Sampling ln(Z):             -37211.497312
+Acceptance Rate:                        0.045229
+Replacements:                              42950
+Total Samples:                            949619
+Nested Sampling ln(Z):             -37211.495641
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.045141
+Replacements:                              43000
+Total Samples:                            952564
+Nested Sampling ln(Z):             -37211.494023
+Acceptance Rate:                        0.045040
+Replacements:                              43050
+Total Samples:                            955823
+Nested Sampling ln(Z):             -37211.492465
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.044896
+Replacements:                              43100
+Total Samples:                            960007
+Nested Sampling ln(Z):             -37211.490953
+Acceptance Rate:                        0.044800
+Replacements:                              43150
+Total Samples:                            963168
+Nested Sampling ln(Z):             -37211.489489
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.044705
+Replacements:                              43200
+Total Samples:                            966328
+Nested Sampling ln(Z):             -37211.488071
+Acceptance Rate:                        0.044599
+Replacements:                              43250
+Total Samples:                            969747
+Nested Sampling ln(Z):             -37211.486698
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.044523
+Replacements:                              43300
+Total Samples:                            972538
+Nested Sampling ln(Z):             -37211.485365
+Acceptance Rate:                        0.044437
+Replacements:                              43350
+Total Samples:                            975531
+Nested Sampling ln(Z):             -37211.484073
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.044348
+Replacements:                              43400
+Total Samples:                            978628
+Nested Sampling ln(Z):             -37211.482824
+Acceptance Rate:                        0.044230
+Replacements:                              43450
+Total Samples:                            982367
+Nested Sampling ln(Z):             -37211.481619
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.044142
+Replacements:                              43500
+Total Samples:                            985449
+Nested Sampling ln(Z):             -37211.480455
+Acceptance Rate:                        0.044037
+Replacements:                              43550
+Total Samples:                            988949
+Nested Sampling ln(Z):             -37211.479329
+ 
+ MultiNest Warning!
+ Parameter            8  of mode            1 
+  is converging towards the edge of the prior.
+Acceptance Rate:                        0.043932
+Replacements:                              43600
+Total Samples:                            992453
+Nested Sampling ln(Z):             -37211.478244
+Acceptance Rate:                        0.043928
+Replacements:                              43612
+Total Samples:                            992817
+Nested Sampling ln(Z):             -37211.477989
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+ ln(ev)=  -37211.4492199091      +/-  0.187936339709147     
+ Total Likelihood Evaluations:       992817
+ Sampling finished. Exiting MultiNest
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+  analysing data from ./run2_nlive1000_eff0.3_noCONST_noMM_noIS_tol-1.txt
+>> Integration completed.

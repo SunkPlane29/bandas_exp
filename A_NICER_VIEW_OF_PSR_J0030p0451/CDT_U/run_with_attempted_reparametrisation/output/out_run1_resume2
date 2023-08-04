@@ -1,0 +1,4939 @@
+/=============================================\
+| X-PSI: X-ray Pulse Simulation and Inference |
+|---------------------------------------------|
+|              Version: 1.0.0                 |
+\=============================================/
+
+Rank reporting: 2159
+Rank reporting: 2157
+Rank reporting: 2158
+Rank reporting: 2152
+Rank reporting: 2139
+Rank reporting: 2155
+Rank reporting: 2143
+Rank reporting: 2142
+Rank reporting: 2147
+Rank reporting: 2154
+Rank reporting: 2146
+Rank reporting: 2153
+Rank reporting: 2151
+Rank reporting: 2149
+Rank reporting: 2156
+Rank reporting: 2136
+Rank reporting: 2140
+Rank reporting: 2138
+Rank reporting: 2137
+Rank reporting: 2141
+Rank reporting: 2148
+Rank reporting: 2145
+Rank reporting: 2144
+Rank reporting: 2150
+Rank reporting: 109
+Rank reporting: 114
+Rank reporting: 97
+Rank reporting: 99
+Rank reporting: 100
+Rank reporting: 101
+Rank reporting: 102
+Rank reporting: 103
+Rank reporting: 104
+Rank reporting: 108
+Rank reporting: 110
+Rank reporting: 111
+Rank reporting: 112
+Rank reporting: 115
+Rank reporting: 116
+Rank reporting: 118
+Rank reporting: 119
+Rank reporting: 107
+Rank reporting: 117
+Rank reporting: 96
+Rank reporting: 98
+Rank reporting: 105
+Rank reporting: 113
+Rank reporting: 106
+Rank reporting: 214
+Rank reporting: 195
+Rank reporting: 210
+Rank reporting: 197
+Rank reporting: 206
+Rank reporting: 207
+Rank reporting: 215
+Rank reporting: 193
+Rank reporting: 199
+Rank reporting: 208
+Rank reporting: 209
+Rank reporting: 212
+Rank reporting: 192
+Rank reporting: 204
+Rank reporting: 202
+Rank reporting: 211
+Rank reporting: 198
+Rank reporting: 196
+Rank reporting: 194
+Rank reporting: 200
+Rank reporting: 201
+Rank reporting: 203
+Rank reporting: 205
+Rank reporting: 213
+Rank reporting: 2040
+Rank reporting: 2063
+Rank reporting: 2059
+Rank reporting: 2048
+Rank reporting: 2054
+Rank reporting: 2057
+Rank reporting: 2060
+Rank reporting: 2042
+Rank reporting: 2041
+Rank reporting: 2058
+Rank reporting: 2062
+Rank reporting: 2051
+Rank reporting: 2049
+Rank reporting: 2053
+Rank reporting: 2055
+Rank reporting: 2056
+Rank reporting: 2046
+Rank reporting: 2043
+Rank reporting: 2052
+Rank reporting: 2050
+Rank reporting: 2047
+Rank reporting: 2045
+Rank reporting: 2061
+Rank reporting: 2044
+Rank reporting: 493
+Rank reporting: 503
+Rank reporting: 482
+Rank reporting: 502
+Rank reporting: 488
+Rank reporting: 484
+Rank reporting: 489
+Rank reporting: 501
+Rank reporting: 495
+Rank reporting: 498
+Rank reporting: 486
+Rank reporting: 483
+Rank reporting: 499
+Rank reporting: 496
+Rank reporting: 480
+Rank reporting: 490
+Rank reporting: 491
+Rank reporting: 494
+Rank reporting: 485
+Rank reporting: 500
+Rank reporting: 481
+Rank reporting: 492
+Rank reporting: 497
+Rank reporting: 487
+Rank reporting: 1945
+Rank reporting: 1946
+Rank reporting: 1950
+Rank reporting: 1949
+Rank reporting: 1962
+Rank reporting: 1953
+Rank reporting: 1963
+Rank reporting: 1961
+Rank reporting: 1960
+Rank reporting: 1965
+Rank reporting: 1956
+Rank reporting: 1966
+Rank reporting: 1954
+Rank reporting: 1957
+Rank reporting: 1948
+Rank reporting: 1951
+Rank reporting: 1955
+Rank reporting: 1944
+Rank reporting: 1967
+Rank reporting: 1964
+Rank reporting: 1952
+Rank reporting: 1947
+Rank reporting: 1959
+Rank reporting: 1958
+Rank reporting: 1040
+Rank reporting: 1042
+Rank reporting: 1053
+Rank reporting: 1158
+Rank reporting: 1033
+Rank reporting: 1174
+Rank reporting: 1032
+Rank reporting: 1161
+Rank reporting: 1165
+Rank reporting: 1044
+Rank reporting: 1169
+Rank reporting: 1035
+Rank reporting: 1045
+Rank reporting: 1155
+Rank reporting: 1175
+Rank reporting: 1046
+Rank reporting: 1170
+Rank reporting: 1049
+Rank reporting: 1041
+Rank reporting: 1167
+Rank reporting: 1163
+Rank reporting: 1036
+Rank reporting: 1050
+Rank reporting: 1162
+Rank reporting: 1038
+Rank reporting: 1160
+Rank reporting: 1168
+Rank reporting: 1047
+Rank reporting: 1171
+Rank reporting: 1034
+Rank reporting: 1157
+Rank reporting: 1037
+Rank reporting: 1159
+Rank reporting: 1055
+Rank reporting: 1154
+Rank reporting: 1052
+Rank reporting: 1152
+Rank reporting: 1048
+Rank reporting: 1166
+Rank reporting: 1043
+Rank reporting: 1039
+Rank reporting: 1156
+Rank reporting: 1153
+Rank reporting: 1051
+Rank reporting: 1164
+Rank reporting: 1054
+Rank reporting: 1173
+Rank reporting: 1172
+Rank reporting: 1299
+Rank reporting: 2066
+Rank reporting: 2078
+Rank reporting: 2083
+Rank reporting: 2087
+Rank reporting: 2082
+Rank reporting: 2070
+Rank reporting: 2074
+Rank reporting: 2073
+Rank reporting: 2064
+Rank reporting: 2080
+Rank reporting: 2068
+Rank reporting: 2075
+Rank reporting: 2077
+Rank reporting: 2079
+Rank reporting: 2085
+Rank reporting: 2076
+Rank reporting: 2084
+Rank reporting: 2067
+Rank reporting: 2081
+Rank reporting: 2071
+Rank reporting: 7
+Rank reporting: 8
+Rank reporting: 21
+Rank reporting: 2065
+Rank reporting: 10
+Rank reporting: 2086
+Rank reporting: 3
+Rank reporting: 2072
+Rank reporting: 4
+Rank reporting: 2069
+Rank reporting: 5
+Rank reporting: 14
+Rank reporting: 12
+Rank reporting: 6
+Rank reporting: 15
+Rank reporting: 0
+Rank reporting: 16
+Rank reporting: 17
+Rank reporting: 19
+Rank reporting: 18
+Rank reporting: 9
+Rank reporting: 13
+Rank reporting: 1305
+Rank reporting: 1516
+Rank reporting: 1314
+Rank reporting: 1317
+Rank reporting: 1318
+Rank reporting: 1319
+Rank reporting: 1296
+Rank reporting: 1300
+Rank reporting: 1303
+Rank reporting: 20
+Rank reporting: 1304
+Rank reporting: 1308
+Rank reporting: 1311
+Rank reporting: 1312
+Rank reporting: 1316
+Rank reporting: 1298
+Rank reporting: 1306
+Rank reporting: 1313
+Rank reporting: 1309
+Rank reporting: 1307
+Rank reporting: 1315
+Rank reporting: 11
+Rank reporting: 1310
+Rank reporting: 1297
+Rank reporting: 1301
+Rank reporting: 1302
+Rank reporting: 1
+Rank reporting: 2
+Rank reporting: 22
+Rank reporting: 23
+Rank reporting: 558
+Rank reporting: 565
+Rank reporting: 560
+Rank reporting: 563
+Rank reporting: 557
+Rank reporting: 564
+Rank reporting: 570
+Rank reporting: 571
+Rank reporting: 554
+Rank reporting: 561
+Rank reporting: 568
+Rank reporting: 575
+Rank reporting: 569
+Rank reporting: 559
+Rank reporting: 556
+Rank reporting: 555
+Rank reporting: 553
+Rank reporting: 566
+Rank reporting: 562
+Rank reporting: 572
+Rank reporting: 567
+Rank reporting: 574
+Rank reporting: 573
+Rank reporting: 552
+Rank reporting: 914
+Rank reporting: 920
+Rank reporting: 935
+Rank reporting: 926
+Rank reporting: 913
+Rank reporting: 930
+Rank reporting: 917
+Rank reporting: 928
+Rank reporting: 1082
+Rank reporting: 1086
+Rank reporting: 1088
+Rank reporting: 915
+Rank reporting: 1096
+Rank reporting: 918
+Rank reporting: 1094
+Rank reporting: 933
+Rank reporting: 1081
+Rank reporting: 923
+Rank reporting: 1100
+Rank reporting: 929
+Rank reporting: 1097
+Rank reporting: 934
+Rank reporting: 1089
+Rank reporting: 912
+Rank reporting: 1085
+Rank reporting: 931
+Rank reporting: 1080
+Rank reporting: 916
+Rank reporting: 1102
+Rank reporting: 922
+Rank reporting: 1095
+Rank reporting: 932
+Rank reporting: 1093
+Rank reporting: 919
+Rank reporting: 1083
+Rank reporting: 927
+Rank reporting: 1103
+Rank reporting: 925
+Rank reporting: 1098
+Rank reporting: 1087
+Rank reporting: 924
+Rank reporting: 1091
+Rank reporting: 1523
+Rank reporting: 1526
+Rank reporting: 921
+Rank reporting: 1534
+Rank reporting: 1533
+Rank reporting: 1531
+Rank reporting: 1527
+Rank reporting: 1518
+Rank reporting: 1529
+Rank reporting: 1524
+Rank reporting: 1519
+Rank reporting: 1535
+Rank reporting: 1513
+Rank reporting: 1099
+Rank reporting: 1528
+Rank reporting: 1525
+Rank reporting: 1520
+Rank reporting: 1521
+Rank reporting: 1101
+Rank reporting: 1530
+Rank reporting: 1514
+Rank reporting: 1515
+Rank reporting: 1532
+Rank reporting: 1512
+Rank reporting: 1522
+Rank reporting: 1517
+Rank reporting: 1084
+Rank reporting: 1092
+Rank reporting: 1090
+Rank reporting: 829
+Rank reporting: 830
+Rank reporting: 831
+Rank reporting: 819
+Rank reporting: 833
+Rank reporting: 818
+Rank reporting: 839
+Rank reporting: 828
+Rank reporting: 832
+Rank reporting: 823
+Rank reporting: 826
+Rank reporting: 822
+Rank reporting: 838
+Rank reporting: 837
+Rank reporting: 816
+Rank reporting: 827
+Rank reporting: 817
+Rank reporting: 834
+Rank reporting: 820
+Rank reporting: 824
+Rank reporting: 835
+Rank reporting: 825
+Rank reporting: 821
+Rank reporting: 836
+Rank reporting: 2161
+Rank reporting: 2166
+Rank reporting: 2181
+Rank reporting: 2176
+Rank reporting: 2164
+Rank reporting: 2183
+Rank reporting: 2173
+Rank reporting: 2334
+Rank reporting: 2342
+Rank reporting: 2171
+Rank reporting: 2347
+Rank reporting: 2339
+Rank reporting: 2160
+Rank reporting: 2333
+Rank reporting: 2174
+Rank reporting: 2336
+Rank reporting: 2180
+Rank reporting: 2338
+Rank reporting: 2163
+Rank reporting: 2345
+Rank reporting: 2177
+Rank reporting: 2175
+Rank reporting: 2332
+Rank reporting: 2348
+Rank reporting: 2168
+Rank reporting: 2343
+Rank reporting: 2172
+Rank reporting: 2350
+Rank reporting: 2170
+Rank reporting: 2337
+Rank reporting: 2162
+Rank reporting: 2329
+Rank reporting: 2179
+Rank reporting: 2351
+Rank reporting: 2182
+Rank reporting: 2346
+Rank reporting: 2178
+Rank reporting: 2328
+Rank reporting: 2167
+Rank reporting: 2349
+Rank reporting: 2169
+Rank reporting: 2340
+Rank reporting: 2165
+Rank reporting: 2341
+Rank reporting: 2330
+Rank reporting: 2344
+Rank reporting: 2331
+Rank reporting: 2335
+Rank reporting: 1920
+Rank reporting: 1930
+Rank reporting: 1940
+Rank reporting: 1929
+Rank reporting: 1932
+Rank reporting: 1936
+Rank reporting: 1941
+Rank reporting: 1922
+Rank reporting: 1931
+Rank reporting: 1921
+Rank reporting: 1943
+Rank reporting: 1924
+Rank reporting: 1938
+Rank reporting: 1923
+Rank reporting: 1935
+Rank reporting: 1942
+Rank reporting: 1933
+Rank reporting: 1926
+Rank reporting: 1939
+Rank reporting: 1927
+Rank reporting: 1934
+Rank reporting: 1925
+Rank reporting: 1928
+Rank reporting: 1937
+Rank reporting: 1177
+Rank reporting: 1199
+Rank reporting: 1197
+Rank reporting: 1194
+Rank reporting: 1186
+Rank reporting: 1195
+Rank reporting: 1182
+Rank reporting: 1184
+Rank reporting: 1190
+Rank reporting: 1191
+Rank reporting: 1185
+Rank reporting: 1198
+Rank reporting: 1189
+Rank reporting: 1181
+Rank reporting: 1179
+Rank reporting: 1192
+Rank reporting: 1193
+Rank reporting: 1178
+Rank reporting: 1180
+Rank reporting: 1187
+Rank reporting: 1183
+Rank reporting: 1196
+Rank reporting: 1176
+Rank reporting: 1188
+Rank reporting: 258
+Rank reporting: 260
+Rank reporting: 261
+Rank reporting: 241
+Rank reporting: 254
+Rank reporting: 263
+Rank reporting: 248
+Rank reporting: 259
+Rank reporting: 250
+Rank reporting: 245
+Rank reporting: 262
+Rank reporting: 246
+Rank reporting: 255
+Rank reporting: 247
+Rank reporting: 249
+Rank reporting: 240
+Rank reporting: 252
+Rank reporting: 253
+Rank reporting: 244
+Rank reporting: 251
+Rank reporting: 242
+Rank reporting: 257
+Rank reporting: 243
+Rank reporting: 256
+Rank reporting: 432
+Rank reporting: 449
+Rank reporting: 453
+Rank reporting: 452
+Rank reporting: 435
+Rank reporting: 1975
+Rank reporting: 1982
+Rank reporting: 1986
+Rank reporting: 440
+Rank reporting: 1969
+Rank reporting: 433
+Rank reporting: 1976
+Rank reporting: 443
+Rank reporting: 1985
+Rank reporting: 444
+Rank reporting: 1983
+Rank reporting: 450
+Rank reporting: 1977
+Rank reporting: 451
+Rank reporting: 1988
+Rank reporting: 438
+Rank reporting: 436
+Rank reporting: 1990
+Rank reporting: 1970
+Rank reporting: 447
+Rank reporting: 1989
+Rank reporting: 441
+Rank reporting: 446
+Rank reporting: 1978
+Rank reporting: 1979
+Rank reporting: 434
+Rank reporting: 1972
+Rank reporting: 439
+Rank reporting: 1971
+Rank reporting: 442
+Rank reporting: 1973
+Rank reporting: 445
+Rank reporting: 1987
+Rank reporting: 437
+Rank reporting: 1968
+Rank reporting: 455
+Rank reporting: 1981
+Rank reporting: 454
+Rank reporting: 448
+Rank reporting: 1984
+Rank reporting: 1980
+Rank reporting: 1228
+Rank reporting: 1974
+Rank reporting: 1242
+Rank reporting: 1991
+Rank reporting: 1231
+Rank reporting: 1237
+Rank reporting: 1243
+Rank reporting: 1234
+Rank reporting: 1233
+Rank reporting: 1224
+Rank reporting: 1244
+Rank reporting: 1232
+Rank reporting: 1241
+Rank reporting: 1236
+Rank reporting: 1247
+Rank reporting: 1240
+Rank reporting: 1239
+Rank reporting: 1226
+Rank reporting: 1238
+Rank reporting: 1230
+Rank reporting: 1227
+Rank reporting: 1229
+Rank reporting: 1245
+Rank reporting: 1225
+Rank reporting: 1246
+Rank reporting: 1235
+Rank reporting: 26
+Rank reporting: 31
+Rank reporting: 40
+Rank reporting: 47
+Rank reporting: 44
+Rank reporting: 43
+Rank reporting: 25
+Rank reporting: 35
+Rank reporting: 45
+Rank reporting: 38
+Rank reporting: 37
+Rank reporting: 39
+Rank reporting: 32
+Rank reporting: 28
+Rank reporting: 42
+Rank reporting: 27
+Rank reporting: 29
+Rank reporting: 46
+Rank reporting: 33
+Rank reporting: 24
+Rank reporting: 30
+Rank reporting: 34
+Rank reporting: 36
+Rank reporting: 41
+Rank reporting: 147
+Rank reporting: 2023
+Rank reporting: 2025
+Rank reporting: 2028
+Rank reporting: 2027
+Rank reporting: 2022
+Rank reporting: 2031
+Rank reporting: 2037
+Rank reporting: 2026
+Rank reporting: 2020
+Rank reporting: 2039
+Rank reporting: 2017
+Rank reporting: 2034
+Rank reporting: 2038
+Rank reporting: 2035
+Rank reporting: 2030
+Rank reporting: 2029
+Rank reporting: 2021
+Rank reporting: 2024
+Rank reporting: 2036
+Rank reporting: 2032
+Rank reporting: 2018
+Rank reporting: 2033
+Rank reporting: 2019
+Rank reporting: 2016
+Rank reporting: 2284
+Rank reporting: 2294
+Rank reporting: 2300
+Rank reporting: 2295
+Rank reporting: 2299
+Rank reporting: 2285
+Rank reporting: 2290
+Rank reporting: 2280
+Rank reporting: 2301
+Rank reporting: 2293
+Rank reporting: 2296
+Rank reporting: 2298
+Rank reporting: 2291
+Rank reporting: 2281
+Rank reporting: 2282
+Rank reporting: 2283
+Rank reporting: 2288
+Rank reporting: 2289
+Rank reporting: 2303
+Rank reporting: 2286
+Rank reporting: 2297
+Rank reporting: 2302
+Rank reporting: 2292
+Rank reporting: 2287
+Rank reporting: 1431
+Rank reporting: 1438
+Rank reporting: 1424
+Rank reporting: 1436
+Rank reporting: 1418
+Rank reporting: 1420
+Rank reporting: 1432
+Rank reporting: 1429
+Rank reporting: 163
+Rank reporting: 164
+Rank reporting: 158
+Rank reporting: 155
+Rank reporting: 165
+Rank reporting: 145
+Rank reporting: 1439
+Rank reporting: 146
+Rank reporting: 144
+Rank reporting: 152
+Rank reporting: 162
+Rank reporting: 157
+Rank reporting: 166
+Rank reporting: 161
+Rank reporting: 154
+Rank reporting: 159
+Rank reporting: 1434
+Rank reporting: 150
+Rank reporting: 148
+Rank reporting: 1416
+Rank reporting: 151
+Rank reporting: 156
+Rank reporting: 160
+Rank reporting: 1427
+Rank reporting: 149
+Rank reporting: 167
+Rank reporting: 783
+Rank reporting: 153
+Rank reporting: 1421
+Rank reporting: 791
+Rank reporting: 770
+Rank reporting: 785
+Rank reporting: 1422
+Rank reporting: 784
+Rank reporting: 1423
+Rank reporting: 786
+Rank reporting: 1419
+Rank reporting: 771
+Rank reporting: 773
+Rank reporting: 1417
+Rank reporting: 782
+Rank reporting: 1435
+Rank reporting: 1437
+Rank reporting: 772
+Rank reporting: 1433
+Rank reporting: 768
+Rank reporting: 1428
+Rank reporting: 780
+Rank reporting: 1430
+Rank reporting: 776
+Rank reporting: 1426
+Rank reporting: 1425
+Rank reporting: 787
+Rank reporting: 788
+Rank reporting: 789
+Rank reporting: 775
+Rank reporting: 774
+Rank reporting: 777
+Rank reporting: 779
+Rank reporting: 790
+Rank reporting: 778
+Rank reporting: 769
+Rank reporting: 781
+Rank reporting: 1710
+Rank reporting: 1714
+Rank reporting: 1715
+Rank reporting: 1707
+Rank reporting: 1706
+Rank reporting: 1723
+Rank reporting: 1705
+Rank reporting: 1727
+Rank reporting: 1711
+Rank reporting: 506
+Rank reporting: 521
+Rank reporting: 1722
+Rank reporting: 525
+Rank reporting: 508
+Rank reporting: 1717
+Rank reporting: 523
+Rank reporting: 1721
+Rank reporting: 527
+Rank reporting: 1704
+Rank reporting: 518
+Rank reporting: 1708
+Rank reporting: 514
+Rank reporting: 1720
+Rank reporting: 520
+Rank reporting: 1709
+Rank reporting: 513
+Rank reporting: 526
+Rank reporting: 1724
+Rank reporting: 1713
+Rank reporting: 522
+Rank reporting: 1725
+Rank reporting: 519
+Rank reporting: 1726
+Rank reporting: 1719
+Rank reporting: 507
+Rank reporting: 1716
+Rank reporting: 516
+Rank reporting: 1718
+Rank reporting: 511
+Rank reporting: 517
+Rank reporting: 1712
+Rank reporting: 515
+Rank reporting: 524
+Rank reporting: 509
+Rank reporting: 510
+Rank reporting: 504
+Rank reporting: 505
+Rank reporting: 512
+Rank reporting: 1761
+Rank reporting: 1440
+Rank reporting: 1458
+Rank reporting: 1463
+Rank reporting: 1449
+Rank reporting: 1461
+Rank reporting: 1450
+Rank reporting: 1452
+Rank reporting: 1446
+Rank reporting: 1455
+Rank reporting: 1445
+Rank reporting: 1457
+Rank reporting: 1462
+Rank reporting: 1454
+Rank reporting: 1442
+Rank reporting: 1453
+Rank reporting: 1456
+Rank reporting: 1444
+Rank reporting: 1451
+Rank reporting: 1447
+Rank reporting: 1441
+Rank reporting: 1443
+Rank reporting: 1459
+Rank reporting: 1460
+Rank reporting: 1448
+Rank reporting: 51
+Rank reporting: 53
+Rank reporting: 56
+Rank reporting: 64
+Rank reporting: 71
+Rank reporting: 54
+Rank reporting: 66
+Rank reporting: 63
+Rank reporting: 57
+Rank reporting: 68
+Rank reporting: 58
+Rank reporting: 67
+Rank reporting: 50
+Rank reporting: 49
+Rank reporting: 65
+Rank reporting: 69
+Rank reporting: 55
+Rank reporting: 70
+Rank reporting: 60
+Rank reporting: 52
+Rank reporting: 62
+Rank reporting: 48
+Rank reporting: 61
+Rank reporting: 59
+Rank reporting: 721
+Rank reporting: 726
+Rank reporting: 733
+Rank reporting: 737
+Rank reporting: 736
+Rank reporting: 741
+Rank reporting: 735
+Rank reporting: 1771
+Rank reporting: 740
+Rank reporting: 1760
+Rank reporting: 722
+Rank reporting: 1758
+Rank reporting: 1773
+Rank reporting: 1762
+Rank reporting: 1772
+Rank reporting: 724
+Rank reporting: 1753
+Rank reporting: 1757
+Rank reporting: 1754
+Rank reporting: 1765
+Rank reporting: 1759
+Rank reporting: 1775
+Rank reporting: 1755
+Rank reporting: 1763
+Rank reporting: 1756
+Rank reporting: 1766
+Rank reporting: 727
+Rank reporting: 1769
+Rank reporting: 1767
+Rank reporting: 1768
+Rank reporting: 743
+Rank reporting: 1770
+Rank reporting: 1752
+Rank reporting: 1764
+Rank reporting: 728
+Rank reporting: 1774
+Rank reporting: 720
+Rank reporting: 2114
+Rank reporting: 729
+Rank reporting: 723
+Rank reporting: 739
+Rank reporting: 738
+Rank reporting: 731
+Rank reporting: 732
+Rank reporting: 725
+Rank reporting: 730
+Rank reporting: 742
+Rank reporting: 734
+Rank reporting: 964
+Rank reporting: 966
+Rank reporting: 979
+Rank reporting: 960
+Rank reporting: 963
+Rank reporting: 968
+Rank reporting: 976
+Rank reporting: 969
+Rank reporting: 974
+Rank reporting: 971
+Rank reporting: 982
+Rank reporting: 978
+Rank reporting: 981
+Rank reporting: 983
+Rank reporting: 973
+Rank reporting: 980
+Rank reporting: 965
+Rank reporting: 962
+Rank reporting: 977
+Rank reporting: 975
+Rank reporting: 972
+Rank reporting: 970
+Rank reporting: 967
+Rank reporting: 961
+Rank reporting: 2122
+Rank reporting: 2130
+Rank reporting: 2123
+Rank reporting: 2129
+Rank reporting: 2113
+Rank reporting: 2117
+Rank reporting: 2127
+Rank reporting: 2131
+Rank reporting: 2112
+Rank reporting: 2133
+Rank reporting: 2135
+Rank reporting: 2120
+Rank reporting: 2115
+Rank reporting: 2124
+Rank reporting: 2128
+Rank reporting: 2134
+Rank reporting: 2132
+Rank reporting: 2121
+Rank reporting: 2126
+Rank reporting: 2118
+Rank reporting: 2116
+Rank reporting: 2125
+Rank reporting: 2119
+Rank reporting: 186
+Rank reporting: 188
+Rank reporting: 189
+Rank reporting: 175
+Rank reporting: 191
+Rank reporting: 190
+Rank reporting: 174
+Rank reporting: 178
+Rank reporting: 168
+Rank reporting: 187
+Rank reporting: 183
+Rank reporting: 177
+Rank reporting: 179
+Rank reporting: 182
+Rank reporting: 169
+Rank reporting: 170
+Rank reporting: 171
+Rank reporting: 172
+Rank reporting: 176
+Rank reporting: 180
+Rank reporting: 173
+Rank reporting: 185
+Rank reporting: 181
+Rank reporting: 184
+Rank reporting: 625
+Rank reporting: 627
+Rank reporting: 637
+Rank reporting: 636
+Rank reporting: 642
+Rank reporting: 645
+Rank reporting: 646
+Rank reporting: 632
+Rank reporting: 635
+Rank reporting: 628
+Rank reporting: 629
+Rank reporting: 631
+Rank reporting: 639
+Rank reporting: 633
+Rank reporting: 647
+Rank reporting: 641
+Rank reporting: 321
+Rank reporting: 322
+Rank reporting: 624
+Rank reporting: 333
+Rank reporting: 326
+Rank reporting: 630
+Rank reporting: 2208
+Rank reporting: 332
+Rank reporting: 2210
+Rank reporting: 334
+Rank reporting: 634
+Rank reporting: 2218
+Rank reporting: 638
+Rank reporting: 2224
+Rank reporting: 2228
+Rank reporting: 643
+Rank reporting: 325
+Rank reporting: 2226
+Rank reporting: 335
+Rank reporting: 2220
+Rank reporting: 644
+Rank reporting: 2229
+Rank reporting: 317
+Rank reporting: 626
+Rank reporting: 2231
+Rank reporting: 318
+Rank reporting: 640
+Rank reporting: 2216
+Rank reporting: 316
+Rank reporting: 323
+Rank reporting: 2212
+Rank reporting: 2222
+Rank reporting: 312
+Rank reporting: 313
+Rank reporting: 2219
+Rank reporting: 2217
+Rank reporting: 331
+Rank reporting: 2230
+Rank reporting: 330
+Rank reporting: 2227
+Rank reporting: 327
+Rank reporting: 2214
+Rank reporting: 320
+Rank reporting: 2223
+Rank reporting: 324
+Rank reporting: 2215
+Rank reporting: 315
+Rank reporting: 2211
+Rank reporting: 329
+Rank reporting: 2221
+Rank reporting: 314
+Rank reporting: 2213
+Rank reporting: 319
+Rank reporting: 2225
+Rank reporting: 328
+Rank reporting: 2209
+Rank reporting: 578
+Rank reporting: 579
+Rank reporting: 586
+Rank reporting: 581
+Rank reporting: 582
+Rank reporting: 583
+Rank reporting: 588
+Rank reporting: 589
+Rank reporting: 594
+Rank reporting: 598
+Rank reporting: 584
+Rank reporting: 593
+Rank reporting: 577
+Rank reporting: 597
+Rank reporting: 599
+Rank reporting: 580
+Rank reporting: 596
+Rank reporting: 592
+Rank reporting: 585
+Rank reporting: 587
+Rank reporting: 591
+Rank reporting: 590
+Rank reporting: 595
+Rank reporting: 576
+Rank reporting: 940
+Rank reporting: 949
+Rank reporting: 955
+Rank reporting: 957
+Rank reporting: 938
+Rank reporting: 937
+Rank reporting: 947
+Rank reporting: 936
+Rank reporting: 939
+Rank reporting: 956
+Rank reporting: 946
+Rank reporting: 942
+Rank reporting: 945
+Rank reporting: 941
+Rank reporting: 948
+Rank reporting: 1609
+Rank reporting: 958
+Rank reporting: 953
+Rank reporting: 954
+Rank reporting: 952
+Rank reporting: 959
+Rank reporting: 943
+Rank reporting: 944
+Rank reporting: 950
+Rank reporting: 951
+Rank reporting: 1700
+Rank reporting: 1681
+Rank reporting: 1686
+Rank reporting: 1690
+Rank reporting: 1687
+Rank reporting: 1698
+Rank reporting: 1695
+Rank reporting: 1688
+Rank reporting: 1692
+Rank reporting: 1683
+Rank reporting: 1691
+Rank reporting: 1684
+Rank reporting: 1689
+Rank reporting: 1697
+Rank reporting: 1685
+Rank reporting: 1699
+Rank reporting: 1680
+Rank reporting: 1693
+Rank reporting: 1702
+Rank reporting: 396
+Rank reporting: 398
+Rank reporting: 395
+Rank reporting: 386
+Rank reporting: 1696
+Rank reporting: 384
+Rank reporting: 1682
+Rank reporting: 391
+Rank reporting: 1703
+Rank reporting: 405
+Rank reporting: 1694
+Rank reporting: 1701
+Rank reporting: 385
+Rank reporting: 404
+Rank reporting: 393
+Rank reporting: 390
+Rank reporting: 402
+Rank reporting: 392
+Rank reporting: 407
+Rank reporting: 401
+Rank reporting: 388
+Rank reporting: 389
+Rank reporting: 397
+Rank reporting: 399
+Rank reporting: 394
+Rank reporting: 403
+Rank reporting: 387
+Rank reporting: 406
+Rank reporting: 400
+Rank reporting: 1868
+Rank reporting: 1615
+Rank reporting: 1619
+Rank reporting: 1623
+Rank reporting: 1621
+Rank reporting: 1625
+Rank reporting: 1629
+Rank reporting: 1608
+Rank reporting: 1613
+Rank reporting: 1620
+Rank reporting: 1630
+Rank reporting: 1626
+Rank reporting: 1627
+Rank reporting: 1631
+Rank reporting: 1628
+Rank reporting: 1624
+Rank reporting: 1614
+Rank reporting: 1612
+Rank reporting: 1611
+Rank reporting: 1610
+Rank reporting: 1622
+Rank reporting: 1617
+Rank reporting: 1618
+Rank reporting: 1616
+Rank reporting: 1662
+Rank reporting: 1670
+Rank reporting: 1658
+Rank reporting: 1661
+Rank reporting: 1675
+Rank reporting: 1663
+Rank reporting: 746
+Rank reporting: 758
+Rank reporting: 749
+Rank reporting: 755
+Rank reporting: 1676
+Rank reporting: 757
+Rank reporting: 1673
+Rank reporting: 767
+Rank reporting: 1660
+Rank reporting: 761
+Rank reporting: 1657
+Rank reporting: 759
+Rank reporting: 1665
+Rank reporting: 763
+Rank reporting: 1679
+Rank reporting: 753
+Rank reporting: 1667
+Rank reporting: 762
+Rank reporting: 1668
+Rank reporting: 744
+Rank reporting: 1671
+Rank reporting: 751
+Rank reporting: 1659
+Rank reporting: 747
+Rank reporting: 1664
+Rank reporting: 765
+Rank reporting: 1666
+Rank reporting: 1669
+Rank reporting: 760
+Rank reporting: 748
+Rank reporting: 1678
+Rank reporting: 754
+Rank reporting: 1672
+Rank reporting: 756
+Rank reporting: 1674
+Rank reporting: 750
+Rank reporting: 1677
+Rank reporting: 766
+Rank reporting: 1656
+Rank reporting: 764
+Rank reporting: 745
+Rank reporting: 752
+Rank reporting: 1857
+Rank reporting: 1849
+Rank reporting: 1867
+Rank reporting: 1871
+Rank reporting: 1851
+Rank reporting: 1854
+Rank reporting: 1848
+Rank reporting: 1855
+Rank reporting: 1852
+Rank reporting: 1863
+Rank reporting: 1864
+Rank reporting: 1870
+Rank reporting: 1862
+Rank reporting: 1861
+Rank reporting: 1869
+Rank reporting: 1850
+Rank reporting: 1865
+Rank reporting: 1853
+Rank reporting: 1321
+Rank reporting: 1859
+Rank reporting: 1328
+Rank reporting: 1856
+Rank reporting: 1334
+Rank reporting: 1858
+Rank reporting: 1866
+Rank reporting: 1860
+Rank reporting: 1340
+Rank reporting: 1337
+Rank reporting: 1324
+Rank reporting: 1335
+Rank reporting: 1325
+Rank reporting: 1330
+Rank reporting: 1329
+Rank reporting: 1323
+Rank reporting: 1322
+Rank reporting: 1327
+Rank reporting: 1333
+Rank reporting: 1326
+Rank reporting: 1331
+Rank reporting: 1320
+Rank reporting: 1336
+Rank reporting: 1332
+Rank reporting: 1343
+Rank reporting: 1341
+Rank reporting: 1342
+Rank reporting: 1339
+Rank reporting: 1338
+Rank reporting: 1401
+Rank reporting: 1414
+Rank reporting: 1398
+Rank reporting: 1411
+Rank reporting: 1395
+Rank reporting: 1406
+Rank reporting: 1402
+Rank reporting: 1394
+Rank reporting: 1396
+Rank reporting: 1397
+Rank reporting: 1415
+Rank reporting: 1408
+Rank reporting: 1404
+Rank reporting: 1393
+Rank reporting: 1403
+Rank reporting: 1413
+Rank reporting: 1405
+Rank reporting: 1400
+Rank reporting: 1346
+Rank reporting: 1356
+Rank reporting: 1392
+Rank reporting: 1363
+Rank reporting: 1366
+Rank reporting: 1347
+Rank reporting: 1399
+Rank reporting: 1350
+Rank reporting: 1354
+Rank reporting: 1362
+Rank reporting: 1349
+Rank reporting: 1355
+Rank reporting: 1361
+Rank reporting: 1412
+Rank reporting: 1409
+Rank reporting: 1344
+Rank reporting: 1410
+Rank reporting: 1365
+Rank reporting: 1407
+Rank reporting: 1348
+Rank reporting: 1360
+Rank reporting: 1364
+Rank reporting: 1359
+Rank reporting: 1358
+Rank reporting: 1352
+Rank reporting: 1345
+Rank reporting: 1353
+Rank reporting: 1351
+Rank reporting: 1357
+Rank reporting: 1367
+Rank reporting: 1993
+Rank reporting: 1789
+Rank reporting: 1777
+Rank reporting: 1778
+Rank reporting: 1798
+Rank reporting: 1781
+Rank reporting: 1790
+Rank reporting: 1544
+Rank reporting: 1538
+Rank reporting: 1550
+Rank reporting: 1557
+Rank reporting: 1799
+Rank reporting: 1551
+Rank reporting: 1783
+Rank reporting: 1549
+Rank reporting: 1792
+Rank reporting: 1543
+Rank reporting: 1782
+Rank reporting: 1776
+Rank reporting: 1555
+Rank reporting: 1478
+Rank reporting: 1545
+Rank reporting: 1480
+Rank reporting: 1482
+Rank reporting: 1796
+Rank reporting: 1466
+Rank reporting: 1558
+Rank reporting: 1481
+Rank reporting: 1787
+Rank reporting: 1548
+Rank reporting: 1468
+Rank reporting: 1794
+Rank reporting: 1539
+Rank reporting: 1784
+Rank reporting: 1465
+Rank reporting: 1553
+Rank reporting: 1472
+Rank reporting: 1788
+Rank reporting: 1540
+Rank reporting: 1473
+Rank reporting: 1797
+Rank reporting: 1487
+Rank reporting: 1795
+Rank reporting: 1547
+Rank reporting: 1556
+Rank reporting: 1793
+Rank reporting: 1483
+Rank reporting: 1554
+Rank reporting: 1479
+Rank reporting: 1791
+Rank reporting: 1484
+Rank reporting: 1559
+Rank reporting: 1786
+Rank reporting: 1541
+Rank reporting: 1476
+Rank reporting: 1779
+Rank reporting: 1552
+Rank reporting: 1464
+Rank reporting: 1785
+Rank reporting: 1470
+Rank reporting: 1536
+Rank reporting: 1780
+Rank reporting: 1542
+Rank reporting: 1471
+Rank reporting: 1485
+Rank reporting: 1546
+Rank reporting: 1537
+Rank reporting: 1475
+Rank reporting: 1474
+Rank reporting: 1477
+Rank reporting: 1486
+Rank reporting: 1467
+Rank reporting: 1469
+Rank reporting: 852
+Rank reporting: 855
+Rank reporting: 860
+Rank reporting: 1996
+Rank reporting: 2007
+Rank reporting: 2015
+Rank reporting: 2014
+Rank reporting: 2009
+Rank reporting: 1994
+Rank reporting: 2012
+Rank reporting: 2008
+Rank reporting: 1998
+Rank reporting: 2013
+Rank reporting: 1992
+Rank reporting: 2011
+Rank reporting: 2003
+Rank reporting: 2010
+Rank reporting: 2004
+Rank reporting: 1997
+Rank reporting: 2005
+Rank reporting: 1999
+Rank reporting: 2000
+Rank reporting: 2006
+Rank reporting: 1995
+Rank reporting: 2001
+Rank reporting: 2002
+Rank reporting: 123
+Rank reporting: 131
+Rank reporting: 135
+Rank reporting: 134
+Rank reporting: 126
+Rank reporting: 121
+Rank reporting: 141
+Rank reporting: 127
+Rank reporting: 133
+Rank reporting: 137
+Rank reporting: 142
+Rank reporting: 125
+Rank reporting: 139
+Rank reporting: 130
+Rank reporting: 2261
+Rank reporting: 2263
+Rank reporting: 2274
+Rank reporting: 2275
+Rank reporting: 138
+Rank reporting: 2272
+Rank reporting: 132
+Rank reporting: 2259
+Rank reporting: 990
+Rank reporting: 129
+Rank reporting: 2257
+Rank reporting: 2276
+Rank reporting: 136
+Rank reporting: 122
+Rank reporting: 2264
+Rank reporting: 2268
+Rank reporting: 128
+Rank reporting: 2267
+Rank reporting: 124
+Rank reporting: 2258
+Rank reporting: 416
+Rank reporting: 140
+Rank reporting: 420
+Rank reporting: 426
+Rank reporting: 408
+Rank reporting: 424
+Rank reporting: 430
+Rank reporting: 143
+Rank reporting: 421
+Rank reporting: 2266
+Rank reporting: 2271
+Rank reporting: 120
+Rank reporting: 417
+Rank reporting: 2269
+Rank reporting: 410
+Rank reporting: 2260
+Rank reporting: 422
+Rank reporting: 2270
+Rank reporting: 409
+Rank reporting: 2256
+Rank reporting: 411
+Rank reporting: 2278
+Rank reporting: 423
+Rank reporting: 2277
+Rank reporting: 427
+Rank reporting: 2279
+Rank reporting: 413
+Rank reporting: 2273
+Rank reporting: 415
+Rank reporting: 2265
+Rank reporting: 429
+Rank reporting: 2262
+Rank reporting: 418
+Rank reporting: 412
+Rank reporting: 81
+Rank reporting: 82
+Rank reporting: 77
+Rank reporting: 78
+Rank reporting: 87
+Rank reporting: 86
+Rank reporting: 80
+Rank reporting: 414
+Rank reporting: 90
+Rank reporting: 425
+Rank reporting: 89
+Rank reporting: 419
+Rank reporting: 93
+Rank reporting: 428
+Rank reporting: 88
+Rank reporting: 431
+Rank reporting: 94
+Rank reporting: 72
+Rank reporting: 91
+Rank reporting: 92
+Rank reporting: 73
+Rank reporting: 95
+Rank reporting: 602
+Rank reporting: 609
+Rank reporting: 614
+Rank reporting: 76
+Rank reporting: 610
+Rank reporting: 85
+Rank reporting: 623
+Rank reporting: 83
+Rank reporting: 622
+Rank reporting: 612
+Rank reporting: 79
+Rank reporting: 1913
+Rank reporting: 1897
+Rank reporting: 1915
+Rank reporting: 1919
+Rank reporting: 74
+Rank reporting: 618
+Rank reporting: 1908
+Rank reporting: 601
+Rank reporting: 84
+Rank reporting: 1905
+Rank reporting: 606
+Rank reporting: 75
+Rank reporting: 1901
+Rank reporting: 617
+Rank reporting: 1902
+Rank reporting: 603
+Rank reporting: 1904
+Rank reporting: 608
+Rank reporting: 1914
+Rank reporting: 613
+Rank reporting: 1896
+Rank reporting: 605
+Rank reporting: 1912
+Rank reporting: 615
+Rank reporting: 1903
+Rank reporting: 604
+Rank reporting: 1918
+Rank reporting: 607
+Rank reporting: 1899
+Rank reporting: 621
+Rank reporting: 1917
+Rank reporting: 620
+Rank reporting: 600
+Rank reporting: 1916
+Rank reporting: 1909
+Rank reporting: 611
+Rank reporting: 619
+Rank reporting: 1910
+Rank reporting: 616
+Rank reporting: 1906
+Rank reporting: 1898
+Rank reporting: 1900
+Rank reporting: 1911
+Rank reporting: 1907
+Rank reporting: 1000
+Rank reporting: 1006
+Rank reporting: 1007
+Rank reporting: 988
+Rank reporting: 996
+Rank reporting: 984
+Rank reporting: 986
+Rank reporting: 985
+Rank reporting: 1004
+Rank reporting: 998
+Rank reporting: 1001
+Rank reporting: 989
+Rank reporting: 991
+Rank reporting: 999
+Rank reporting: 1002
+Rank reporting: 992
+Rank reporting: 997
+Rank reporting: 995
+Rank reporting: 987
+Rank reporting: 1005
+Rank reporting: 1003
+Rank reporting: 994
+Rank reporting: 993
+Rank reporting: 807
+Rank reporting: 814
+Rank reporting: 812
+Rank reporting: 798
+Rank reporting: 811
+Rank reporting: 805
+Rank reporting: 797
+Rank reporting: 795
+Rank reporting: 793
+Rank reporting: 802
+Rank reporting: 803
+Rank reporting: 813
+Rank reporting: 810
+Rank reporting: 809
+Rank reporting: 801
+Rank reporting: 794
+Rank reporting: 796
+Rank reporting: 799
+Rank reporting: 792
+Rank reporting: 804
+Rank reporting: 800
+Rank reporting: 808
+Rank reporting: 815
+Rank reporting: 806
+Rank reporting: 2322
+Rank reporting: 2323
+Rank reporting: 2324
+Rank reporting: 2315
+Rank reporting: 2317
+Rank reporting: 2320
+Rank reporting: 2326
+Rank reporting: 2307
+Rank reporting: 2319
+Rank reporting: 2314
+Rank reporting: 2321
+Rank reporting: 2308
+Rank reporting: 2313
+Rank reporting: 710
+Rank reporting: 717
+Rank reporting: 697
+Rank reporting: 703
+Rank reporting: 2311
+Rank reporting: 2304
+Rank reporting: 706
+Rank reporting: 699
+Rank reporting: 2327
+Rank reporting: 704
+Rank reporting: 2318
+Rank reporting: 700
+Rank reporting: 2309
+Rank reporting: 231
+Rank reporting: 217
+Rank reporting: 229
+Rank reporting: 718
+Rank reporting: 2312
+Rank reporting: 218
+Rank reporting: 719
+Rank reporting: 2325
+Rank reporting: 239
+Rank reporting: 701
+Rank reporting: 2306
+Rank reporting: 227
+Rank reporting: 708
+Rank reporting: 2310
+Rank reporting: 224
+Rank reporting: 709
+Rank reporting: 216
+Rank reporting: 715
+Rank reporting: 225
+Rank reporting: 714
+Rank reporting: 238
+Rank reporting: 713
+Rank reporting: 235
+Rank reporting: 696
+Rank reporting: 230
+Rank reporting: 712
+Rank reporting: 234
+Rank reporting: 702
+Rank reporting: 233
+Rank reporting: 707
+Rank reporting: 711
+Rank reporting: 226
+Rank reporting: 220
+Rank reporting: 716
+Rank reporting: 236
+Rank reporting: 698
+Rank reporting: 219
+Rank reporting: 705
+Rank reporting: 221
+Rank reporting: 228
+Rank reporting: 222
+Rank reporting: 223
+Rank reporting: 232
+Rank reporting: 237
+Rank reporting: 2192
+Rank reporting: 2193
+Rank reporting: 2204
+Rank reporting: 2198
+Rank reporting: 2205
+Rank reporting: 2207
+Rank reporting: 2206
+Rank reporting: 2195
+Rank reporting: 2191
+Rank reporting: 2190
+Rank reporting: 2202
+Rank reporting: 2197
+Rank reporting: 2201
+Rank reporting: 2194
+Rank reporting: 2199
+Rank reporting: 2185
+Rank reporting: 2189
+Rank reporting: 2090
+Rank reporting: 2091
+Rank reporting: 2092
+Rank reporting: 2094
+Rank reporting: 2186
+Rank reporting: 2097
+Rank reporting: 2107
+Rank reporting: 2088
+Rank reporting: 2089
+Rank reporting: 2096
+Rank reporting: 2184
+Rank reporting: 2098
+Rank reporting: 2101
+Rank reporting: 2105
+Rank reporting: 2095
+Rank reporting: 2102
+Rank reporting: 2106
+Rank reporting: 2111
+Rank reporting: 2104
+Rank reporting: 2200
+Rank reporting: 2099
+Rank reporting: 2110
+Rank reporting: 2196
+Rank reporting: 2093
+Rank reporting: 2109
+Rank reporting: 2188
+Rank reporting: 2187
+Rank reporting: 2103
+Rank reporting: 2203
+Rank reporting: 2108
+Rank reporting: 2100
+Rank reporting: 1063
+Rank reporting: 1070
+Rank reporting: 1057
+Rank reporting: 1071
+Rank reporting: 1067
+Rank reporting: 1060
+Rank reporting: 1065
+Rank reporting: 1066
+Rank reporting: 1062
+Rank reporting: 1073
+Rank reporting: 1064
+Rank reporting: 1079
+Rank reporting: 853
+Rank reporting: 1077
+Rank reporting: 862
+Rank reporting: 858
+Rank reporting: 1076
+Rank reporting: 1074
+Rank reporting: 861
+Rank reporting: 1058
+Rank reporting: 1072
+Rank reporting: 851
+Rank reporting: 856
+Rank reporting: 1056
+Rank reporting: 857
+Rank reporting: 840
+Rank reporting: 1069
+Rank reporting: 1061
+Rank reporting: 846
+Rank reporting: 1075
+Rank reporting: 842
+Rank reporting: 850
+Rank reporting: 1078
+Rank reporting: 1068
+Rank reporting: 859
+Rank reporting: 1059
+Rank reporting: 843
+Rank reporting: 854
+Rank reporting: 845
+Rank reporting: 847
+Rank reporting: 849
+Rank reporting: 863
+Rank reporting: 844
+Rank reporting: 841
+Rank reporting: 848
+Rank reporting: 536
+Rank reporting: 546
+Rank reporting: 528
+Rank reporting: 541
+Rank reporting: 540
+Rank reporting: 547
+Rank reporting: 539
+Rank reporting: 535
+Rank reporting: 545
+Rank reporting: 543
+Rank reporting: 551
+Rank reporting: 538
+Rank reporting: 544
+Rank reporting: 534
+Rank reporting: 533
+Rank reporting: 548
+Rank reporting: 537
+Rank reporting: 1130
+Rank reporting: 1145
+Rank reporting: 550
+Rank reporting: 1140
+Rank reporting: 1128
+Rank reporting: 530
+Rank reporting: 1147
+Rank reporting: 531
+Rank reporting: 1139
+Rank reporting: 549
+Rank reporting: 1144
+Rank reporting: 542
+Rank reporting: 1151
+Rank reporting: 532
+Rank reporting: 1131
+Rank reporting: 529
+Rank reporting: 1141
+Rank reporting: 1142
+Rank reporting: 1133
+Rank reporting: 1148
+Rank reporting: 1150
+Rank reporting: 1143
+Rank reporting: 1138
+Rank reporting: 1146
+Rank reporting: 1137
+Rank reporting: 1135
+Rank reporting: 1129
+Rank reporting: 1149
+Rank reporting: 1132
+Rank reporting: 1136
+Rank reporting: 1134
+Rank reporting: 1800
+Rank reporting: 1817
+Rank reporting: 1819
+Rank reporting: 1822
+Rank reporting: 1818
+Rank reporting: 1812
+Rank reporting: 1823
+Rank reporting: 1805
+Rank reporting: 1814
+Rank reporting: 1803
+Rank reporting: 1808
+Rank reporting: 1801
+Rank reporting: 1820
+Rank reporting: 1810
+Rank reporting: 1816
+Rank reporting: 1807
+Rank reporting: 887
+Rank reporting: 865
+Rank reporting: 1811
+Rank reporting: 878
+Rank reporting: 864
+Rank reporting: 1809
+Rank reporting: 868
+Rank reporting: 1806
+Rank reporting: 882
+Rank reporting: 1813
+Rank reporting: 873
+Rank reporting: 1802
+Rank reporting: 866
+Rank reporting: 1815
+Rank reporting: 881
+Rank reporting: 1804
+Rank reporting: 867
+Rank reporting: 1821
+Rank reporting: 870
+Rank reporting: 877
+Rank reporting: 872
+Rank reporting: 871
+Rank reporting: 876
+Rank reporting: 883
+Rank reporting: 875
+Rank reporting: 2316
+Rank reporting: 2305
+Rank reporting: 680
+Rank reporting: 682
+Rank reporting: 672
+Rank reporting: 673
+Rank reporting: 691
+Rank reporting: 674
+Rank reporting: 683
+Rank reporting: 689
+Rank reporting: 688
+Rank reporting: 678
+Rank reporting: 695
+Rank reporting: 686
+Rank reporting: 685
+Rank reporting: 690
+Rank reporting: 693
+Rank reporting: 679
+Rank reporting: 694
+Rank reporting: 677
+Rank reporting: 676
+Rank reporting: 692
+Rank reporting: 687
+Rank reporting: 675
+Rank reporting: 684
+Rank reporting: 681
+Rank reporting: 459
+Rank reporting: 464
+Rank reporting: 467
+Rank reporting: 468
+Rank reporting: 461
+Rank reporting: 479
+Rank reporting: 460
+Rank reporting: 472
+Rank reporting: 466
+Rank reporting: 478
+Rank reporting: 457
+Rank reporting: 458
+Rank reporting: 473
+Rank reporting: 476
+Rank reporting: 474
+Rank reporting: 475
+Rank reporting: 469
+Rank reporting: 456
+Rank reporting: 465
+Rank reporting: 463
+Rank reporting: 462
+Rank reporting: 470
+Rank reporting: 471
+Rank reporting: 477
+Rank reporting: 1286
+Rank reporting: 1282
+Rank reporting: 1284
+Rank reporting: 1292
+Rank reporting: 1287
+Rank reporting: 1288
+Rank reporting: 1279
+Rank reporting: 1278
+Rank reporting: 1274
+Rank reporting: 1283
+Rank reporting: 886
+Rank reporting: 885
+Rank reporting: 880
+Rank reporting: 869
+Rank reporting: 879
+Rank reporting: 884
+Rank reporting: 874
+Rank reporting: 1597
+Rank reporting: 1602
+Rank reporting: 1604
+Rank reporting: 1594
+Rank reporting: 1606
+Rank reporting: 1591
+Rank reporting: 1588
+Rank reporting: 1599
+Rank reporting: 1589
+Rank reporting: 1605
+Rank reporting: 1601
+Rank reporting: 1587
+Rank reporting: 1598
+Rank reporting: 1590
+Rank reporting: 1586
+Rank reporting: 1585
+Rank reporting: 1607
+Rank reporting: 1592
+Rank reporting: 1593
+Rank reporting: 1595
+Rank reporting: 1603
+Rank reporting: 1596
+Rank reporting: 1584
+Rank reporting: 1600
+Rank reporting: 2382
+Rank reporting: 2383
+Rank reporting: 2387
+Rank reporting: 2390
+Rank reporting: 2379
+Rank reporting: 2399
+Rank reporting: 2394
+Rank reporting: 2378
+Rank reporting: 2386
+Rank reporting: 2377
+Rank reporting: 2388
+Rank reporting: 2393
+Rank reporting: 2392
+Rank reporting: 2397
+Rank reporting: 2384
+Rank reporting: 2376
+Rank reporting: 2380
+Rank reporting: 2381
+Rank reporting: 2396
+Rank reporting: 2395
+Rank reporting: 2398
+Rank reporting: 2391
+Rank reporting: 2385
+Rank reporting: 2389
+Rank reporting: 341
+Rank reporting: 349
+Rank reporting: 354
+Rank reporting: 352
+Rank reporting: 356
+Rank reporting: 339
+Rank reporting: 338
+Rank reporting: 336
+Rank reporting: 351
+Rank reporting: 359
+Rank reporting: 345
+Rank reporting: 337
+Rank reporting: 348
+Rank reporting: 357
+Rank reporting: 346
+Rank reporting: 355
+Rank reporting: 350
+Rank reporting: 340
+Rank reporting: 343
+Rank reporting: 342
+Rank reporting: 347
+Rank reporting: 358
+Rank reporting: 344
+Rank reporting: 353
+Rank reporting: 1280
+Rank reporting: 1293
+Rank reporting: 1289
+Rank reporting: 1294
+Rank reporting: 1290
+Rank reporting: 1285
+Rank reporting: 1277
+Rank reporting: 1276
+Rank reporting: 1272
+Rank reporting: 1295
+Rank reporting: 1281
+Rank reporting: 1273
+Rank reporting: 1275
+Rank reporting: 1291
+Rank reporting: 1728
+Rank reporting: 1736
+Rank reporting: 1751
+Rank reporting: 1745
+Rank reporting: 1739
+Rank reporting: 1729
+Rank reporting: 1738
+Rank reporting: 1749
+Rank reporting: 1747
+Rank reporting: 1746
+Rank reporting: 1748
+Rank reporting: 1730
+Rank reporting: 1737
+Rank reporting: 1744
+Rank reporting: 1743
+Rank reporting: 1735
+Rank reporting: 1731
+Rank reporting: 1750
+Rank reporting: 1742
+Rank reporting: 1734
+Rank reporting: 1732
+Rank reporting: 1733
+Rank reporting: 1741
+Rank reporting: 1740
+Rank reporting: 1370
+Rank reporting: 1383
+Rank reporting: 1388
+Rank reporting: 1376
+Rank reporting: 1377
+Rank reporting: 1374
+Rank reporting: 1390
+Rank reporting: 1378
+Rank reporting: 1368
+Rank reporting: 1381
+Rank reporting: 1380
+Rank reporting: 1384
+Rank reporting: 1372
+Rank reporting: 1375
+Rank reporting: 1373
+Rank reporting: 1371
+Rank reporting: 1382
+Rank reporting: 1389
+Rank reporting: 1379
+Rank reporting: 1386
+Rank reporting: 1391
+Rank reporting: 1385
+Rank reporting: 1387
+Rank reporting: 1369
+Rank reporting: 1257
+Rank reporting: 1263
+Rank reporting: 1266
+Rank reporting: 1269
+Rank reporting: 1256
+Rank reporting: 1261
+Rank reporting: 1262
+Rank reporting: 1264
+Rank reporting: 1265
+Rank reporting: 1252
+Rank reporting: 1270
+Rank reporting: 1271
+Rank reporting: 1255
+Rank reporting: 1253
+Rank reporting: 1260
+Rank reporting: 1251
+Rank reporting: 1250
+Rank reporting: 1249
+Rank reporting: 1248
+Rank reporting: 1267
+Rank reporting: 1254
+Rank reporting: 1258
+Rank reporting: 1259
+Rank reporting: 1268
+Rank reporting: 289
+Rank reporting: 299
+Rank reporting: 308
+Rank reporting: 311
+Rank reporting: 292
+Rank reporting: 301
+Rank reporting: 309
+Rank reporting: 288
+Rank reporting: 305
+Rank reporting: 298
+Rank reporting: 300
+Rank reporting: 296
+Rank reporting: 303
+Rank reporting: 297
+Rank reporting: 294
+Rank reporting: 306
+Rank reporting: 310
+Rank reporting: 304
+Rank reporting: 307
+Rank reporting: 295
+Rank reporting: 291
+Rank reporting: 302
+Rank reporting: 290
+Rank reporting: 293
+Rank reporting: 1200
+Rank reporting: 1213
+Rank reporting: 1208
+Rank reporting: 1209
+Rank reporting: 1206
+Rank reporting: 1207
+Rank reporting: 1217
+Rank reporting: 1215
+Rank reporting: 1218
+Rank reporting: 1219
+Rank reporting: 1205
+Rank reporting: 1222
+Rank reporting: 1220
+Rank reporting: 1221
+Rank reporting: 1212
+Rank reporting: 1210
+Rank reporting: 1204
+Rank reporting: 1216
+Rank reporting: 1201
+Rank reporting: 1203
+Rank reporting: 1223
+Rank reporting: 1202
+Rank reporting: 1214
+Rank reporting: 1211
+Rank reporting: 2357
+Rank reporting: 2362
+Rank reporting: 2369
+Rank reporting: 2375
+Rank reporting: 2354
+Rank reporting: 2371
+Rank reporting: 2359
+Rank reporting: 2374
+Rank reporting: 2370
+Rank reporting: 2356
+Rank reporting: 2368
+Rank reporting: 2363
+Rank reporting: 2372
+Rank reporting: 2365
+Rank reporting: 2367
+Rank reporting: 2353
+Rank reporting: 2355
+Rank reporting: 2360
+Rank reporting: 2358
+Rank reporting: 2361
+Rank reporting: 2373
+Rank reporting: 2352
+Rank reporting: 2364
+Rank reporting: 2366
+Rank reporting: 2242
+Rank reporting: 2244
+Rank reporting: 2250
+Rank reporting: 2249
+Rank reporting: 2248
+Rank reporting: 2253
+Rank reporting: 2245
+Rank reporting: 2252
+Rank reporting: 2236
+Rank reporting: 2232
+Rank reporting: 2247
+Rank reporting: 2246
+Rank reporting: 2239
+Rank reporting: 2240
+Rank reporting: 2243
+Rank reporting: 2255
+Rank reporting: 2241
+Rank reporting: 2238
+Rank reporting: 2237
+Rank reporting: 2233
+Rank reporting: 2235
+Rank reporting: 2254
+Rank reporting: 2234
+Rank reporting: 2251
+Rank reporting: 277
+Rank reporting: 284
+Rank reporting: 286
+Rank reporting: 280
+Rank reporting: 282
+Rank reporting: 266
+Rank reporting: 272
+Rank reporting: 267
+Rank reporting: 274
+Rank reporting: 281
+Rank reporting: 268
+Rank reporting: 279
+Rank reporting: 270
+Rank reporting: 283
+Rank reporting: 265
+Rank reporting: 287
+Rank reporting: 273
+Rank reporting: 271
+Rank reporting: 264
+Rank reporting: 275
+Rank reporting: 276
+Rank reporting: 285
+Rank reporting: 269
+Rank reporting: 278
+Rank reporting: 1021
+Rank reporting: 1027
+Rank reporting: 1031
+Rank reporting: 1026
+Rank reporting: 1010
+Rank reporting: 1017
+Rank reporting: 1030
+Rank reporting: 1022
+Rank reporting: 1019
+Rank reporting: 1023
+Rank reporting: 1029
+Rank reporting: 1025
+Rank reporting: 1014
+Rank reporting: 1028
+Rank reporting: 1011
+Rank reporting: 1024
+Rank reporting: 1018
+Rank reporting: 1016
+Rank reporting: 1015
+Rank reporting: 1020
+Rank reporting: 1012
+Rank reporting: 890
+Rank reporting: 892
+Rank reporting: 1013
+Rank reporting: 905
+Rank reporting: 903
+Rank reporting: 1008
+Rank reporting: 910
+Rank reporting: 1009
+Rank reporting: 898
+Rank reporting: 909
+Rank reporting: 901
+Rank reporting: 911
+Rank reporting: 900
+Rank reporting: 894
+Rank reporting: 897
+Rank reporting: 906
+Rank reporting: 904
+Rank reporting: 889
+Rank reporting: 893
+Rank reporting: 908
+Rank reporting: 896
+Rank reporting: 888
+Rank reporting: 907
+Rank reporting: 891
+Rank reporting: 895
+Rank reporting: 899
+Rank reporting: 902
+Rank reporting: 1651
+Rank reporting: 1112
+Rank reporting: 1632
+Rank reporting: 1652
+Rank reporting: 1641
+Rank reporting: 1653
+Rank reporting: 1635
+Rank reporting: 1636
+Rank reporting: 1634
+Rank reporting: 1650
+Rank reporting: 1645
+Rank reporting: 1646
+Rank reporting: 1654
+Rank reporting: 1642
+Rank reporting: 1648
+Rank reporting: 1637
+Rank reporting: 1633
+Rank reporting: 1655
+Rank reporting: 1649
+Rank reporting: 1644
+Rank reporting: 1640
+Rank reporting: 1647
+Rank reporting: 1638
+Rank reporting: 1643
+Rank reporting: 1639
+Rank reporting: 1116
+Rank reporting: 1127
+Rank reporting: 1107
+Rank reporting: 1106
+Rank reporting: 1125
+Rank reporting: 1108
+Rank reporting: 1118
+Rank reporting: 1120
+Rank reporting: 1124
+Rank reporting: 1113
+Rank reporting: 1111
+Rank reporting: 1121
+Rank reporting: 1119
+Rank reporting: 1123
+Rank reporting: 1117
+Rank reporting: 1110
+Rank reporting: 1115
+Rank reporting: 1104
+Rank reporting: 1109
+Rank reporting: 1126
+Rank reporting: 1122
+Rank reporting: 1105
+Rank reporting: 1114
+Rank reporting: 1836
+Rank reporting: 1847
+Rank reporting: 1838
+Rank reporting: 1835
+Rank reporting: 1829
+Rank reporting: 1826
+Rank reporting: 1830
+Rank reporting: 1825
+Rank reporting: 1837
+Rank reporting: 1831
+Rank reporting: 1839
+Rank reporting: 1843
+Rank reporting: 1828
+Rank reporting: 1833
+Rank reporting: 1834
+Rank reporting: 1846
+Rank reporting: 1840
+Rank reporting: 1845
+Rank reporting: 1841
+Rank reporting: 1824
+Rank reporting: 1827
+Rank reporting: 1844
+Rank reporting: 1842
+Rank reporting: 1832
+Rank reporting: 654
+Rank reporting: 664
+Rank reporting: 669
+Rank reporting: 671
+Rank reporting: 659
+Rank reporting: 670
+Rank reporting: 653
+Rank reporting: 656
+Rank reporting: 665
+Rank reporting: 661
+Rank reporting: 666
+Rank reporting: 648
+Rank reporting: 650
+Rank reporting: 651
+Rank reporting: 667
+Rank reporting: 662
+Rank reporting: 658
+Rank reporting: 660
+Rank reporting: 655
+Rank reporting: 649
+Rank reporting: 668
+Rank reporting: 663
+Rank reporting: 652
+Rank reporting: 657
+Rank reporting: 1884
+Rank reporting: 1886
+Rank reporting: 1892
+Rank reporting: 1888
+Rank reporting: 1874
+Rank reporting: 1877
+Rank reporting: 1882
+Rank reporting: 1883
+Rank reporting: 1879
+Rank reporting: 1873
+Rank reporting: 1878
+Rank reporting: 1880
+Rank reporting: 1876
+Rank reporting: 1894
+Rank reporting: 1885
+Rank reporting: 1872
+Rank reporting: 1875
+Rank reporting: 1893
+Rank reporting: 1887
+Rank reporting: 1890
+Rank reporting: 1889
+Rank reporting: 1881
+Rank reporting: 1895
+Rank reporting: 1891
+Rank reporting: 1494
+Rank reporting: 1506
+Rank reporting: 1508
+Rank reporting: 1492
+Rank reporting: 1499
+Rank reporting: 1507
+Rank reporting: 1500
+Rank reporting: 1491
+Rank reporting: 1489
+Rank reporting: 1498
+Rank reporting: 1496
+Rank reporting: 1490
+Rank reporting: 1488
+Rank reporting: 1497
+Rank reporting: 1504
+Rank reporting: 1509
+Rank reporting: 1501
+Rank reporting: 1493
+Rank reporting: 1505
+Rank reporting: 1503
+Rank reporting: 1495
+Rank reporting: 1510
+Rank reporting: 1511
+Rank reporting: 1502
+Rank reporting: 363
+Rank reporting: 364
+Rank reporting: 371
+Rank reporting: 375
+Rank reporting: 381
+Rank reporting: 382
+Rank reporting: 377
+Rank reporting: 365
+Rank reporting: 372
+Rank reporting: 360
+Rank reporting: 366
+Rank reporting: 368
+Rank reporting: 373
+Rank reporting: 380
+Rank reporting: 376
+Rank reporting: 369
+Rank reporting: 379
+Rank reporting: 361
+Rank reporting: 374
+Rank reporting: 362
+Rank reporting: 383
+Rank reporting: 378
+Rank reporting: 370
+Rank reporting: 367
+Rank reporting: 1564
+Rank reporting: 1578
+Rank reporting: 1570
+Rank reporting: 1577
+Rank reporting: 1573
+Rank reporting: 1563
+Rank reporting: 1565
+Rank reporting: 1572
+Rank reporting: 1575
+Rank reporting: 1574
+Rank reporting: 1571
+Rank reporting: 1581
+Rank reporting: 1568
+Rank reporting: 1579
+Rank reporting: 1567
+Rank reporting: 1569
+Rank reporting: 1580
+Rank reporting: 1582
+Rank reporting: 1561
+Rank reporting: 1560
+Rank reporting: 1562
+Rank reporting: 1576
+Rank reporting: 1566
+Rank reporting: 1583
+p:  -36317.2381909 2.34705996513
+p:  -36317.2381909 2.31556582451
+p:  -36317.2381909 2.2138299942
+p:  -36317.2381909 2.40229797363
+p:  -36317.2381909 2.2476348877
+p:  -36317.2381909 2.25687599182
+p:  -36317.2381909 2.33395695686
+p:  -36317.2381909 2.30124616623
+p:  -36317.2381909 2.31092596054
+p:  -36317.2381909 2.30556607246
+p:  -36317.2381909 2.2878010273
+p:  -36317.2381909 2.29206705093
+p:  -36317.2381909 2.26309704781
+p:  -36317.2381909 2.29476118088
+p:  -36317.2381909 2.28117799759
+p:  -36317.2381909 2.26307296753
+p:  -36317.2381909 2.20609617233
+p:  -36317.2381909 2.27657008171
+p:  -36317.2381909 2.24292302132
+p:  -36317.2381909 2.24948215485
+p:  -36317.2381909 2.24372911453
+p:  -36317.2381909 2.27331399918
+p:  -36317.2381909 2.24620985985
+p:  -36317.2381909 2.27919697762
+p:  p:  -36317.2381909 2.24717307091
+p:  -36317.2381909 2.26864099503
+p:  p:  -36317.2381909 2.22500109673
+p:  -36317.2381909 2.31775593758
+-36317.2381909 2.28313088417
+p:  -36317.2381909 2.30264592171
+p:  -36317.2381909 2.24277186394
+-36317.2381909 2.2959830761
+p:  -36317.2381909 2.2188141346
+p:  -36317.2381909 2.26117300987
+p:  -36317.2381909 2.30014300346
+p:  -36317.2381909 2.29485487938
+p:  -36317.2381909 2.27276992798
+p:  -36317.2381909 2.23854207993
+p:  -36317.2381909 2.2523829937
+p:  -36317.2381909p:  -36317.2381909 2.29960584641
+p:  -36317.2381909 2.2865421772
+p:  -36317.2381909 2.24791908264
+p:  -36317.2381909 2.33646702766
+p:  -36317.2381909 2.29817581177
+p:  -36317.2381909 2.25488495827
+p:  -36317.2381909 2.22695183754
+ 2.26824498177
+p:  -36317.2381909 2.30349302292
+p:  -36317.2381909p:  -36317.2381909 2.24968791008
+p:  -36317.2381909 2.24077391624
+p:  -36317.2381909 2.26547694206
+p:  -36317.2381909 2.26722002029
+p:  -36317.2381909p:  -36317.2381909 2.24963307381
+p:  -36317.2381909 2.30245399475
+p:  p:  -36317.2381909 2.26329112053
+ 2.27514410019
+p:  -36317.2381909 2.22647714615
+p:  -36317.2381909p:  -36317.2381909 2.19576716423
+p:  -36317.2381909 2.27600884438
+p:  -36317.2381909 2.22508978844
+p:  -36317.2381909 2.25996088982
+ 2.24647879601
+p:  -36317.2381909 2.25140309334
+p:  -36317.2381909 2.23799490929
+p:  -36317.2381909 2.25254797935
+p:  -36317.2381909 2.28078198433
+p:  -36317.2381909 2.26720309258
+ 2.28710603714
+p:  -36317.2381909 2.27615094185
+p:  -36317.2381909 2.25685405731
+p:  -36317.2381909 2.27777695656
+p:  -36317.2381909 2.25432109833
+-36317.2381909 2.29964280128
+p:  -36317.2381909 2.2517209053
+p:  p:  -36317.2381909 2.2626979351
+p:  -36317.2381909 2.33995604515
+p:  -36317.2381909 2.22496008873
+p:  -36317.2381909 2.23090100288
+p:  -36317.2381909 p:  -36317.2381909 2.24177908897
+p:  -36317.2381909 2.2300901413
+p:  -36317.2381909 2.24808716774
+p:  -36317.2381909 2.23953509331
+-36317.2381909 2.26140904427
+p:  -36317.2381909 2.25653505325
+p:  -36317.2381909 2.21757984161
+2.27517795563
+p:  -36317.2381909p:  -36317.2381909 2.24279308319
+p:  -36317.2381909 2.2500629425
+p:  -36317.2381909 p:  -36317.2381909 p:  p:  -36317.2381909 2.26138401031
+p:  -36317.2381909 2.25964808464
+p:  -36317.2381909 2.21301007271
+2.28775501251
+2.2759270668
+-36317.2381909 2.30934214592
+ 2.2710518837
+p:  -36317.2381909 2.24640083313
+p:  -36317.2381909 2.23173308372
+p:  -36317.2381909 p:  -36317.2381909 2.24458813667
+p:  -36317.2381909 2.28370094299
+p:  -36317.2381909 2.22846221924p:  -36317.2381909 2.21448707581
+p:  -36317.2381909 2.22779798508
+2.22683691978
+p:  
+p:  -36317.2381909 2.25305604935
+p:  -36317.2381909 2.29208111763
+p:  -36317.2381909 2.24757194519
+p:  -36317.2381909 2.25518488884
+-36317.2381909 2.29230093956
+p:  -36317.2381909 2.24013018608
+p:  -36317.2381909 2.27071785927
+p:  -36317.2381909 2.23795199394
+p:  -36317.2381909 2.26594901085
+p:  -36317.2381909 2.24884200096
+p:  -36317.2381909 2.28521203995
+p:  -36317.2381909 2.24358892441
+p:  -36317.2381909 2.2778339386
+p:  -36317.2381909 2.25771808624
+p:  -36317.2381909 2.22739887238
+p:  -36317.2381909 2.2223470211
+p:  -36317.2381909 2.30200386047
+p:  -36317.2381909 2.24058699608
+p:  -36317.2381909 2.27431297302
+p:  -36317.2381909 2.2377538681
+p:  -36317.2381909 2.23847007751
+p:  -36317.2381909 2.33132100105
+p:  -36317.2381909 2.25294399261
+p:  -36317.2381909 2.21783208847
+p:  -36317.2381909 2.25678610802p:  p:  -36317.2381909 2.25547790527
+p:  -36317.2381909 2.26541495323
+p:  -36317.2381909 2.29099798203
+p:  -36317.2381909 2.26327514648
+p:  -36317.2381909 p:  -36317.2381909 2.2721221447
+
+-36317.2381909 2.236358881
+p:  -36317.2381909 2.26982808113
+p:  -36317.23819092.24578905106
+p:  -36317.2381909 2.24718689919
+p:   2.23546004295
+p:  -36317.2381909 2.25961589813
+p:  -36317.2381909 2.22802209854
+-36317.2381909 2.23834991455
+p:  -36317.2381909 2.2681889534p:  -36317.2381909 2.25412607193
+p:  -36317.2381909 2.23466706276
+
+p:  -36317.2381909 p:  -36317.2381909 2.25854587555
+2.2260890007
+p:  -36317.2381909 2.31066012383
+p:  -36317.2381909 2.23025202751
+p:  -36317.2381909 2.24083089828
+p:  p:  -36317.2381909 2.24393105507
+p:  -36317.2381909 2.22873497009
+-36317.2381909 2.27734208107
+p:  -36317.2381909 2.26176404953
+p:  -36317.2381909 2.22297787666p:  -36317.2381909 2.22438406944
+p:  -36317.2381909 2.22989702225
+
+p:  -36317.2381909p:  -36317.2381909 2.30282592773
+p:  -36317.2381909 2.26286292076
+p:  -36317.2381909 2.31305193901
+ 2.24403905869
+p:  -36317.2381909 2.23561286926
+p:  -36317.2381909 2.24592590332
+p:  -36317.2381909 2.2787129879
+p:  -36317.2381909 2.26691818237
+p:  -36317.2381909 2.22293877602
+p:  -36317.2381909 2.29214501381
+p:  -36317.2381909 2.23714494705
+p:  -36317.2381909 2.28870105743
+p:  -36317.2381909 2.25895190239
+p:  -36317.2381909 2.24092316628
+p:  -36317.2381909 2.28963208199
+p:  -36317.2381909 2.24614405632
+p:  -36317.2381909 2.24977684021
+p:  -36317.2381909 2.22452688217
+p:  -36317.2381909 2.24196004868
+p:  -36317.2381909 2.21978497505
+p:  -36317.2381909 2.25998783112
+p:  -36317.2381909 2.31868100166
+p:  -36317.2381909p:  -36317.2381909 2.26563191414
+p:  -36317.2381909 2.2959189415
+p:  -36317.2381909 2.21554303169
+p:  -36317.2381909 2.24539780617
+p:  -36317.2381909 2.22592711449
+p:  -36317.2381909 2.30648088455
+p:  -36317.2381909 2.24533009529
+p:  -36317.2381909 2.24986886978
+ 2.21048402786
+p:  -36317.2381909 2.26741480827
+p:  -36317.2381909 2.28189992905
+p:  -36317.2381909 2.25166201591
+p:  -36317.2381909 2.245429039
+p:  -36317.2381909 2.22500705719
+p:  -36317.2381909 2.25833702087
+p:  -36317.2381909 2.21136593819
+p:  -36317.2381909 2.27464199066
+p:  -36317.2381909 2.26356601715
+p:  -36317.2381909 2.26595187187
+p:  -36317.2381909 2.21787405014
+p:  -36317.2381909 2.29219818115
+p:  -36317.2381909 2.30460095406
+p:  -36317.2381909 2.27395892143
+p:  -36317.2381909 2.25635790825
+p:  -36317.2381909 2.33599209785
+p:  -36317.2381909 2.24071502686
+p:  -36317.2381909 2.28014302254
+p:  -36317.2381909 2.24873304367
+p:  -36317.2381909 2.23082494736
+p:  -36317.2381909 2.25306510925
+p:  -36317.2381909 2.27072715759
+p:  -36317.2381909 2.25653815269
+p:  -36317.2381909 2.26824617386
+p:  -36317.2381909 2.36604595184
+p:  -36317.2381909 2.20933699608
+p:  -36317.2381909 2.22485804558
+p:  -36317.2381909 2.27752280235
+p:  -36317.2381909 2.2772591114
+p:  p:  -36317.2381909 2.30599117279
+p:  p:  -36317.2381909 2.26326704025
+-36317.2381909 2.24141812325
+p:  -36317.2381909 2.24356508255
+-36317.2381909 2.29329419136
+p:  -36317.2381909p:  -36317.2381909 2.29768109322
+p:  -36317.2381909 2.26690793037
+ 2.28920793533
+p:  -36317.2381909 2.28102207184
+p:  p:  -36317.2381909-36317.2381909 2.33622312546
+ 2.24437189102
+p:  -36317.2381909 2.25086402893
+p:  -36317.2381909 p:  -36317.2381909 2.2771589756
+2.24983787537
+p:  -36317.2381909 2.25962400436
+p:  -36317.2381909 2.25106906891
+p:  -36317.2381909 2.22352695465
+p:  -36317.2381909 2.27110815048
+p:  -36317.2381909p:   2.25105595589
+-36317.2381909 2.26162695885
+p:  -36317.2381909 2.25806689262
+p:  -36317.2381909 2.2538061142
+p:  -36317.2381909 2.25893783569
+p:  -36317.2381909 2.21776509285
+p:  -36317.2381909 2.30881690979
+p:  -36317.2381909 2.25577092171
+p:  -36317.2381909 2.24580001831
+p:  -36317.2381909 2.36513185501
+p:  -36317.2381909 2.31370592117
+p:  -36317.2381909 2.30333399773
+p:  -36317.2381909 2.24773406982
+p:  -36317.2381909 2.27496290207
+p:  -36317.2381909 2.32797002792
+p:  -36317.2381909 2.2795689106
+p:  -36317.2381909 2.24540495872
+p:  -36317.2381909 2.28190207481
+p:  -36317.2381909 2.34106397629
+p:  -36317.2381909 2.26485896111p:  -36317.2381909 2.26720499992
+p:  -36317.2381909 2.38539099693
+p:  -36317.2381909 2.25723981857
+p:  -36317.2381909 2.25327897072
+p:  -36317.2381909 2.30053782463
+
+p:  -36317.2381909 2.28075408936
+p:  p:  -36317.2381909p:  -36317.2381909 2.36284089088
+-36317.2381909 2.24778294563
+ 2.33533096313
+p:  p:  -36317.2381909 2.24287796021
+p:  -36317.2381909 2.22925305367
+-36317.2381909 2.21833086014
+p:  -36317.2381909 2.27066206932
+p:  -36317.2381909 2.26822113991
+p:  -36317.2381909 2.25566196442
+p:  -36317.2381909 2.26209688187
+p:  -36317.2381909 2.3057551384
+p:  -36317.2381909 2.25118398666p:  -36317.2381909 2.28036212921
+p:  -36317.2381909 2.36300611496
+p:  -36317.2381909 2.23854899406
+p:  -36317.2381909 2.21766090393
+p:  -36317.2381909 2.23688602448
+
+p:  -36317.2381909 2.33255410194
+p:  -36317.2381909 2.31335186958
+p:  -36317.2381909 2.26971721649
+p:  -36317.2381909p:  -36317.2381909  2.30599689484
+p:  -36317.2381909 2.29258084297
+p:  -36317.2381909p:  -36317.2381909 2.27001214027
+2.23440098763
+p:  -36317.2381909 2.3780708313
+ 2.29730892181
+p:  -36317.2381909 2.31324982643
+p:  -36317.2381909 2.27555584908
+p:  -36317.2381909 2.25130391121
+p:  -36317.2381909 2.2562789917
+p:  -36317.2381909 2.33908390999
+p:  -36317.2381909 2.25749897957
+p:  -36317.2381909 2.2730281353
+p:  -36317.2381909 2.22717285156
+p:  -36317.2381909 2.25839686394p:  -36317.2381909p:  -36317.2381909 2.20876908302
+p:  -36317.2381909 2.2313709259
+p:  -36317.2381909 2.32436108589
+p:  -36317.2381909 2.42527604103
+ 2.24481701851
+p:  -36317.2381909 2.27781891823
+
+p:  -36317.2381909 2.25900006294
+p:  -36317.2381909 2.23251390457
+p:  -36317.2381909 2.25584292412
+p:  -36317.2381909 2.28272986412
+p:  -36317.2381909 2.21692991257
+p:  -36317.2381909 2.27046394348p:  -36317.2381909 2.23026394844
+
+p:  -36317.2381909 2.2478351593
+p:  -36317.2381909 2.25496506691
+p:  -36317.2381909 2.29706311226
+p:  -36317.2381909p:  -36317.2381909 2.2470998764
+ 2.28887200356
+p:  -36317.2381909 2.2347548008
+p:  -36317.2381909 p:  -36317.2381909 2.28651595116
+p:  -36317.2381909 2.34406089783
+p:  -36317.2381909 2.26778507233
+p:  -36317.2381909 2.28717184067
+2.24752211571
+p:  -36317.2381909 2.55729579926
+p:  -36317.2381909 2.2288620472
+p:  -36317.2381909p:  -36317.2381909 2.40985798836
+ 2.23633909225
+p:  p:  -36317.2381909 2.3570728302
+p:  -36317.2381909 2.2341029644
+-36317.2381909 2.20402884483
+p:  -36317.2381909p:  -36317.2381909 2.25902795792
+p:  -36317.2381909 2.25042009354
+ 2.5023560524
+p:  -36317.2381909 2.52337098122
+p:  -36317.2381909 2.27868580818
+p:  -36317.2381909p:  -36317.2381909 2.4635219574
+p:  -36317.2381909 2.24941301346
+ 2.22830486298
+p:  -36317.2381909 2.23324394226
+p:  -36317.2381909p:  -36317.2381909 2.46781086922
+p:   2.2590098381
+p:  -36317.2381909 2.23834991455
+p:  -36317.2381909 2.26047992706
+p:  -36317.2381909 2.2727458477
+p:  -36317.2381909 2.24866890907
+-36317.2381909 2.51233410835
+p:  -36317.2381909 2.35578298569
+p:  -36317.2381909p:  p:  -36317.2381909 2.44338488579
+p:  -36317.2381909 2.2861790657
+-36317.2381909 2.25132489204
+ 2.21982884407
+p:  -36317.2381909 p:  -36317.2381909 2.50722694397
+2.59616994858
+p:  -36317.2381909 2.28755283356
+p:  p:  -36317.2381909 2.22889685631
+p:  -36317.2381909 2.25993895531
+p:  -36317.2381909 2.31791996956
+-36317.2381909 2.43597102165
+p:  -36317.2381909 2.26571393013
+p:  -36317.2381909p:  -36317.2381909 2.27586197853
+ 2.57743597031
+p:  p:  -36317.2381909 2.2360470295
+-36317.2381909 2.48639798164
+p:  -36317.2381909 2.26992917061
+p:  -36317.2381909 2.29203414917
+p:  -36317.2381909 2.23686408997
+p:  -36317.2381909 2.25588011742
+p:  -36317.2381909 2.2484998703
+p:  -36317.2381909p:  -36317.2381909 2.26141214371
+p:  -36317.2381909 2.22835588455
+ 2.49414801598
+p:  -36317.2381909 2.23920106888
+p:  -36317.2381909 p:  -36317.2381909 2.28553581238
+p:  -36317.2381909 2.22443985939
+2.25674390793
+p:  -36317.2381909 2.22304391861
+p:  -36317.2381909 2.25827503204
+p:  -36317.2381909 2.43822097778
+p:  -36317.2381909 p:  -36317.2381909 2.226300001142.39246892929
+
+p:  -36317.2381909 2.25385904312
+p:  -36317.2381909 2.26240897179
+p:  -36317.2381909 2.24623203278
+p:  -36317.2381909 2.20936703682
+p:  -36317.2381909 p:  -36317.23819092.26776099205
+ 2.26589417458
+p:  -36317.2381909 2.22026109695
+p:  -36317.2381909 2.23748087883
+p:  -36317.2381909 2.30106902122
+p:  -36317.2381909 2.29788398743
+p:  -36317.2381909 2.26960015297
+p:  -36317.2381909 2.34424805641
+p:  p:  -36317.2381909 2.23722600937
+p:  -36317.2381909 2.32286095619
+p:  -36317.2381909 2.23233485222
+-36317.2381909 2.26118683815
+p:  -36317.2381909 2.27878594398
+p:  -36317.2381909 2.28203201294
+p:  -36317.2381909 2.27275300026
+p:  -36317.2381909 2.23090791702
+p:  -36317.2381909 2.2143008709
+p:  -36317.2381909 2.29284906387
+p:  -36317.2381909 2.28272891045
+p:  -36317.2381909 2.21616911888
+p:  -36317.2381909 2.3355588913
+p:  -36317.2381909 2.28220796585
+p:  -36317.2381909 2.26106595993
+p:  -36317.2381909 p:  -36317.2381909 2.29368901253
+p:  2.33473992348
+p:  -36317.2381909 2.23555994034
+-36317.2381909 2.2945420742
+p:  -36317.2381909 2.24089193344
+p:  -36317.2381909 2.24011611938
+p:  p:  -36317.2381909 2.18333411217
+p:  -36317.2381909 2.22371602058
+p:  -36317.2381909 2.29537010193
+-36317.2381909 2.27481913567
+p:  -36317.2381909 2.32900810242
+p:  -36317.2381909 2.24688410759
+p:  p:  -36317.2381909 2.24910187721
+-36317.2381909 2.29247713089
+p:  -36317.2381909 2.28110289574
+p:  -36317.2381909 2.2720580101
+p:  -36317.2381909p:  -36317.2381909 2.2351231575
+ 2.28244686127
+p:  -36317.2381909 2.22216010094
+p:  -36317.2381909 2.25863289833
+p:  -36317.2381909p:  -36317.2381909 2.28462505341
+p:  -36317.2381909 2.26128411293
+p:  -36317.2381909 2.23316001892
+p:  -36317.2381909 2.25313806534 2.25934815407
+
+p:  -36317.2381909 2.32142782211
+p:  -36317.2381909 2.23816800117
+p:  -36317.2381909 2.31696987152
+p:  -36317.2381909 2.22978496552
+p:  -36317.2381909 2.23072218895
+p:  -36317.2381909p:  -36317.2381909 2.22625803947
+ 2.31751012802
+p:  -36317.2381909 2.2505800724
+p:  -36317.2381909 2.25140619278
+p:  -36317.2381909 2.21581697464
+p:  -36317.2381909 2.26505303383p:  -36317.2381909 
+2.2754240036
+p:  -36317.2381909p:  p:  -36317.2381909 2.28245091438
+ 2.2773771286
+p:  -36317.2381909 2.29623794556
+-36317.2381909 2.25667881966
+p:  -36317.2381909 2.24681282043
+p:  -36317.2381909 2.22093009949
+p:  -36317.2381909 2.25162792206
+p:  -36317.2381909 2.25329208374
+p:  -36317.2381909 2.25641608238
+p:  -36317.2381909 2.21263194084
+p:  -36317.2381909 2.2447078228
+p:  -36317.2381909 2.32414793968
+p:  -36317.2381909 2.30013608932
+p:  -36317.2381909 2.30117988586
+p:  -36317.2381909 p:  -36317.2381909 2.2707669735
+p:  2.30136704445
+p:  -36317.2381909 2.26060009003
+-36317.2381909 2.31225800514
+p:  -36317.2381909 2.27940106392
+p:  -36317.2381909 2.26282000542
+p:  -36317.2381909 2.23661398888
+p:  -36317.2381909 2.28906607628
+p:  -36317.2381909 2.23327803612
+p:  -36317.2381909 2.26122498512
+p:  -36317.2381909 p:  -36317.2381909 2.25399899483p:  2.24610185623
+
+-36317.2381909 2.26354813576
+p:  -36317.2381909 2.22985291481
+p:  -36317.2381909 2.21883392334
+p:  -36317.2381909 2.26297807693
+p:  -36317.2381909 2.26391005516
+p:  -36317.2381909 2.36849617958
+p:  -36317.2381909 2.29133820534
+p:  -36317.2381909 2.23649382591
+p:  -36317.2381909 2.25077295303
+p:  -36317.2381909 2.24466300011
+p:  -36317.2381909 2.21907901764
+p:  -36317.2381909 2.24556183815
+p:  p:  -36317.2381909 p:  -36317.2381909 2.27897000313
+-36317.2381909 2.39184498787
+p:  -36317.2381909 2.27971601486
+2.31852221489
+p:  -36317.2381909 2.24669289589
+p:  p:  -36317.2381909 2.24502491951
+p:  -36317.2381909 -36317.2381909 2.33362412453
+p:  -36317.2381909 2.246203184132.29280400276
+
+p:  -36317.2381909p:  -36317.2381909 2.3861310482
+ 2.29354214668
+p:  -36317.2381909 2.44306612015
+p:  -36317.2381909 p:  -36317.2381909p:  -36317.2381909 2.25080394745
+ 2.31048107147
+2.25970005989
+p:  -36317.2381909 2.2437851429
+p:  -36317.2381909 2.22237682343
+p:  -36317.2381909 2.26136994362
+p:  -36317.2381909 2.25588512421
+p:  p:  -36317.2381909 2.2669210434
+p:  -36317.2381909 2.26259899139
+-36317.2381909 2.30550885201
+p:  p:  -36317.2381909 2.30712199211
+p:  -36317.2381909 2.24910998344
+-36317.2381909 2.29444789886
+p:  -36317.2381909 2.26106095314
+p:  -36317.2381909 2.25384497643
+p:  -36317.2381909 2.35092401505
+p:  -36317.2381909 2.26481580734
+p:  -36317.2381909p:  -36317.2381909 2.2573029995
+p:  -36317.2381909  2.3479950428
+2.39873790741
+p:  -36317.2381909 2.26991796494
+p:  -36317.2381909 2.24499678612
+p:  -36317.2381909 2.32961702347
+p:  -36317.2381909 2.3518269062
+p:  -36317.2381909 2.26327991486
+p:  -36317.2381909 2.24796390533
+p:  -36317.2381909 2.27628517151
+p:  -36317.2381909 2.22735190392
+p:  -36317.2381909 p:  -36317.2381909 2.2272939682
+2.28859400749
+p:  -36317.2381909 2.22205305099
+p:  -36317.2381909 2.25057911873
+p:  -36317.2381909 2.35110378265
+p:  -36317.2381909 2.2766520977
+p:  -36317.2381909 2.28372907639
+p:  p:  -36317.2381909 2.32171416283
+p:  -36317.2381909 2.22638988495
+-36317.2381909 2.24217915535
+p:  -36317.2381909 2.23211979866
+p:  -36317.2381909 2.22986793518
+p:  -36317.2381909 2.33678889275
+p:  -36317.2381909 2.23982000351
+p:  -36317.2381909p:  -36317.2381909 2.27177381516
+ 2.33466100693
+p:  -36317.2381909 2.27824997902
+p:  -36317.2381909 2.25929903984
+p:  -36317.2381909 2.24983096123
+p:  -36317.2381909 2.31711792946
+p:  -36317.2381909 2.2722799778p:  -36317.2381909 2.34935998917
+p:  -36317.2381909 2.26400399208
+p:  -36317.2381909 2.28649997711
+p:  -36317.2381909 2.27110505104
+
+p:  -36317.2381909 2.25243997574
+p:  p:  -36317.2381909 2.29565095901
+-36317.2381909 2.26913905144
+p:  -36317.2381909 2.30846595764
+p:  -36317.2381909 2.21874499321
+p:  -36317.2381909p:  -36317.2381909 2.26973795891 2.2581551075
+p:  -36317.2381909 2.2558889389
+
+p:  -36317.2381909 2.25028300285
+p:  -36317.2381909 2.29671788216
+p:  -36317.2381909 2.26555609703
+p:  -36317.2381909 2.42587900162
+p:  -36317.2381909 2.25740885735
+p:  -36317.2381909 2.26255607605
+p:  -36317.2381909 2.29225516319
+p:  -36317.2381909 2.29769682884
+p:  -36317.2381909 2.46876311302
+p:  -36317.2381909 2.2744538784
+p:  -36317.2381909 2.26558113098
+p:  -36317.2381909p:  -36317.2381909 2.21920585632
+p:  -36317.2381909 2.26172494888
+ 2.23804688454
+p:  -36317.2381909 2.28618597984
+p:  -36317.2381909 2.36318182945
+p:  -36317.2381909 2.26665401459
+p:  -36317.2381909 2.22249698639
+p:  -36317.2381909 2.21516299248
+p:  -36317.2381909 2.29037499428
+p:  -36317.2381909 2.49086093903
+p:  -36317.2381909 2.30198788643
+p:  -36317.2381909 2.26582407951
+p:  -36317.2381909 2.22948813438
+p:  -36317.2381909 2.24385809898
+p:  -36317.2381909 2.23442983627
+p:  -36317.2381909 2.26641607285
+p:  -36317.2381909 2.26745200157
+p:  p:  -36317.2381909 2.25495696068
+p:  -36317.2381909-36317.2381909 2.44056987762
+p:  -36317.2381909 2.25740814209
+p:  -36317.2381909 2.29364895821
+ 2.32296204567
+p:  -36317.2381909 2.24944090843
+p:  -36317.2381909 2.25291395187
+p:  -36317.2381909 2.24845695496
+p:  -36317.2381909 2.27237391472
+p:  p:  -36317.2381909 2.28335595131
+p:  p:  -36317.2381909 2.24829506874
+-36317.2381909 2.33951497078
+-36317.2381909 2.31957697868
+p:  -36317.2381909p:  -36317.2381909 2.34992194176
+p:  -36317.2381909 2.29271101952
+p:  p:  -36317.2381909 2.22953081131
+ 2.26439213753
+-36317.2381909 2.23064303398
+p:  -36317.2381909 2.23333716393
+p:  -36317.2381909 2.24336004257p:  -36317.2381909 2.45815086365
+p:  p:  -36317.2381909 
+p:  -36317.2381909 2.29435896873
+-36317.2381909 2.30045700073
+p:  -36317.2381909 2.26714301109
+p:  -36317.2381909 2.27065420151p:  -36317.2381909 p:  -36317.2381909 2.38425993919
+p:  
+2.26348614693
+2.29033303261
+p:  -36317.2381909 2.31973385811
+p:  -36317.2381909 2.21946406364
+-36317.2381909 2.26688408852
+p:  -36317.2381909 2.25998711586
+p:  -36317.2381909 2.26442408562
+p:  -36317.2381909 2.49079418182
+p:  -36317.2381909 2.27599692345
+p:  -36317.2381909 2.34879493713
+p:  -36317.2381909 p:  -36317.2381909 2.29199981689
+p:  -36317.2381909 2.30342793465
+p:  -36317.2381909 2.41422891617
+2.26139211655
+p:  -36317.2381909 2.26742100716
+p:  -36317.2381909p:  p:  -36317.2381909 2.24278903008
+ 2.38215613365
+-36317.2381909 2.26584291458
+p:  -36317.2381909 2.24650096893
+p:  -36317.2381909 2.23744606972
+p:  -36317.2381909 2.47364807129
+p:  -36317.2381909 2.2570400238
+p:  -36317.2381909 2.31903386116
+p:  -36317.2381909 2.29993700981
+p:  -36317.2381909 p:  -36317.2381909p:  -36317.23819092.25384187698
+p:  -36317.2381909 2.28022289276
+p:  -36317.2381909 2.32037115097
+p:  -36317.2381909 2.27890515327
+ 2.27952003479
+ 2.29468607903
+p:  p:  -36317.2381909 2.43313288689
+-36317.2381909 2.2690820694
+p:  -36317.2381909 2.20438718796
+p:  -36317.2381909 2.24565601349
+p:  -36317.2381909 p:  -36317.2381909 2.21937608719p:  2.27681803703
+
+p:  -36317.2381909 2.23066210747
+p:  -36317.2381909 2.22924184799
+-36317.2381909 2.41754221916
+p:  p:  -36317.2381909 2.31968808174
+p:  -36317.2381909 2.34519004822
+p:  -36317.2381909 2.21320796013
+-36317.2381909 2.38198399544
+p:  -36317.2381909 2.24008703232
+p:  -36317.2381909 2.41398882866
+p:  -36317.2381909 2.24829101562
+p:  -36317.2381909 2.50689101219
+p:  -36317.2381909 2.28304696083
+p:  -36317.2381909 2.30802202225
+p:  -36317.2381909 p:  -36317.2381909 2.22302222252
+2.28811788559
+p:  -36317.2381909 2.32835102081
+p:  -36317.2381909 2.27013492584
+p:  -36317.2381909 2.23114204407
+p:  -36317.2381909 2.29869794846
+p:  -36317.2381909 2.2178208828
+p:  -36317.2381909 2.28084206581
+p:  -36317.2381909 2.35048484802
+p:  -36317.2381909 2.39280700684
+p:  -36317.2381909 2.29204297066
+p:  -36317.2381909 2.28942489624
+p:  -36317.2381909 2.24793100357
+p:  -36317.2381909 2.28378510475
+p:  -36317.2381909 2.24281692505
+p:  -36317.2381909 2.24457716942
+p:  -36317.2381909 2.33337211609
+p:  -36317.2381909 2.25044393539
+p:  -36317.2381909 2.27276110649
+p:  -36317.2381909 2.21600103378
+p:  -36317.2381909 2.27965807915
+p:  -36317.2381909 2.28007721901
+p:  -36317.2381909 2.25183701515
+p:  -36317.2381909 2.22234201431
+p:  -36317.2381909 p:  -36317.2381909 2.30633687973
+2.23202300072
+p:  -36317.2381909 2.25525212288
+p:  -36317.2381909 2.23346805573
+p:  -36317.2381909 2.29216599464
+p:  -36317.2381909 2.29068398476
+p:  -36317.2381909 2.26649904251
+p:  -36317.2381909 2.29928207397
+p:  -36317.2381909 2.30570411682
+p:  -36317.2381909 2.23235583305
+p:  -36317.2381909p:  -36317.2381909 2.24773478508
+p:  -36317.2381909 2.26051902771
+p:  -36317.2381909 2.29616689682
+p:   2.31888389587
+p:  -36317.2381909 2.35666704178
+-36317.2381909 2.33980107307
+p:  -36317.2381909p:   2.30574989319
+p:  -36317.2381909 2.32057094574
+-36317.2381909 2.27042508125
+p:  -36317.2381909 2.24819993973
+p:  -36317.2381909 2.26377010345
+p:  -36317.2381909 2.23261809349
+p:  -36317.2381909 2.28014206886
+p:  -36317.2381909 2.2678000927
+p:  -36317.2381909 2.27523303032
+p:  -36317.2381909 2.31825900078
+p:  -36317.2381909 2.31714105606
+p:  -36317.2381909 2.27073597908
+p:  -36317.2381909 2.32271194458
+p:  -36317.2381909 2.3124871254
+p:  -36317.2381909 2.26234984398
+p:  -36317.2381909 2.25159883499
+p:  -36317.2381909 2.34039711952
+p:  -36317.2381909 2.26499199867
+p:  -36317.2381909 2.27003788948
+p:  -36317.2381909 2.25395989418
+p:  -36317.2381909 2.24551796913
+p:  -36317.2381909 2.25249481201
+p:  -36317.2381909 2.2646780014
+p:  -36317.2381909 2.25999999046
+p:  -36317.2381909p:  -36317.2381909 2.25576496124
+p:  -36317.2381909 2.26292490959
+p:  -36317.2381909 2.2399559021
+ 2.23440098763
+p:  -36317.2381909 2.29166698456
+p:  -36317.2381909 2.25747609138
+p:  -36317.2381909 2.30311512947
+p:  -36317.2381909 2.2318520546
+p:  -36317.2381909 2.28803801537
+p:  -36317.2381909 2.39585804939
+p:  -36317.2381909 2.26183605194
+p:  -36317.2381909 2.27975177765
+p:  -36317.2381909 2.27991819382
+p:  p:  -36317.2381909 2.2457780838
+-36317.2381909 2.24281287193
+p:  -36317.2381909 2.27193713188
+p:  -36317.2381909 2.3222630024
+p:  -36317.2381909 2.28140687943
+p:  -36317.2381909 2.22341704369
+p:  p:  -36317.2381909 2.34218001366
+p:  -36317.2381909 2.26384305954
+p:  -36317.2381909 2.28268408775
+-36317.2381909 2.26173996925
+p:  -36317.2381909 2.28727006912
+p:  -36317.2381909 2.35598516464
+p:  -36317.2381909 2.33373212814
+p:  -36317.2381909 2.25404691696
+p:  -36317.2381909 p:  -36317.2381909 2.27223300934
+p:  -36317.2381909 2.24454307556
+2.27956700325
+p:  -36317.2381909 2.22890305519
+p:  -36317.2381909 2.25893497467
+p:  -36317.2381909 2.23788881302
+p:  -36317.2381909 p:  -36317.2381909 2.25178408623
+p:  -36317.2381909 2.25307297707
+p:  -36317.2381909 2.230045080182.30181217194
+p:  -36317.2381909 2.30522012711
+p:  -36317.2381909 2.28700113297
+p:  -36317.2381909 2.26994514465
+
+p:  -36317.2381909 2.26035189629
+p:  -36317.2381909 2.2555398941
+p:  -36317.2381909 2.27463817596
+p:  -36317.2381909 2.28410077095p:  -36317.2381909 2.28339791298
+p:  -36317.2381909 2.2829580307
+
+p:  -36317.2381909 2.25559091568
+p:  -36317.2381909 2.24163603783
+p:  -36317.2381909 2.28528690338
+p:  -36317.2381909 2.28164792061
+p:  -36317.2381909 2.25734496117
+p:  -36317.2381909p:  -36317.2381909 2.21040701866
+p:  -36317.2381909 2.23286509514
+ 2.3048620224
+p:  -36317.2381909 2.22396302223
+p:  -36317.2381909p:  -36317.2381909 2.29294300079
+p:  -36317.2381909 2.35512900352
+ 2.23811292648
+p:  -36317.2381909 p:  -36317.2381909 2.23468899727
+2.25347590446
+p:  -36317.2381909 2.34724187851
+p:  -36317.2381909 p:  -36317.2381909 2.28710794449
+p:  -36317.2381909 2.25658488274
+p:  -36317.2381909 2.36733007431
+p:  -36317.2381909 2.4443731308
+2.25627088547
+p:  p:  -36317.2381909 2.41347098351
+-36317.2381909 2.31411409378
+p:  -36317.2381909 2.30838012695
+p:  -36317.2381909 p:  -36317.2381909 2.33062911034
+p:  -36317.2381909 2.26617312431
+2.27665185928
+p:  -36317.2381909 2.21194601059
+p:  -36317.2381909 2.28749489784
+p:  p:  -36317.2381909 2.37699007988
+p:  -36317.2381909 2.44167613983
+-36317.2381909 2.22213792801
+p:  p:  -36317.2381909 p:  -36317.2381909p:  p:  -36317.2381909 2.30520510674-36317.2381909 2.29920697212
+2.24193000793
+ 2.25127196312
+p:  -36317.2381909 p:  -36317.2381909 2.4344830513
+-36317.2381909 2.35721707344
+
+p:  -36317.2381909 p:  -36317.2381909 2.27309894562
+2.25458693504
+p:  -36317.2381909 2.26493406296
+p:  -36317.2381909 2.26530599594
+p:  -36317.2381909 2.25159811974
+p:  -36317.2381909 2.31628489494
+2.35278201103
+p:  -36317.2381909 2.24378299713
+p:  p:  -36317.2381909 2.26572012901
+p:  -36317.2381909 2.38638806343
+p:  p:  -36317.2381909 2.23146510124
+p:  -36317.2381909 -36317.2381909 2.28667211533
+p:  -36317.2381909 2.40449404716
+-36317.2381909 2.34365797043
+p:  -36317.2381909 2.2868449688
+2.49581384659
+p:  -36317.2381909 2.32158708572
+p:  -36317.2381909p:  -36317.2381909 2.4136300087
+p:  -36317.2381909 p:  -36317.2381909 2.32974791527
+p:  -36317.2381909 2.23764204979
+ 2.24771595001
+p:  -36317.2381909 2.23239398003
+p:  2.22414302826
+p:  -36317.2381909 2.23977303505
+-36317.2381909 2.40131998062
+p:  -36317.2381909 2.2182970047
+p:  -36317.2381909 2.23629808426
+p:  -36317.2381909 2.26073503494
+p:  -36317.2381909 2.2385559082
+p:  -36317.2381909 2.25824785233
+p:  -36317.2381909 2.28424191475
+p:  -36317.2381909 2.28304696083
+p:  -36317.2381909 2.26159214973
+p:  -36317.2381909 2.24942302704
+p:  -36317.2381909 2.29750013351
+p:  -36317.2381909 2.29733300209
+p:  -36317.2381909 2.26334500313
+p:  -36317.2381909 p:  -36317.2381909 2.31614780426
+2.25043201447
+p:  -36317.2381909 2.28146791458
+p:  -36317.2381909 2.26985502243
+p:  p:  -36317.2381909 2.28028297424
+p:  -36317.2381909 2.2303571701
+-36317.2381909 2.23589801788
+p:  -36317.2381909 2.30367398262
+p:  -36317.2381909 2.252202034
+p:  -36317.2381909 2.22410488129
+p:  -36317.2381909 2.23152208328
+p:  -36317.2381909p:  -36317.2381909 2.23102688789
+ 2.25558996201
+p:  -36317.2381909 2.24367690086
+p:  -36317.2381909 2.28111100197
+p:  -36317.2381909 2.28572201729
+p:  -36317.2381909 2.29062700272
+p:  -36317.2381909 2.28521513939
+p:  p:  -36317.2381909 2.26628804207
+-36317.2381909 2.25338292122
+p:  -36317.2381909 2.27897691727
+p:  p:  -36317.2381909 2.25041890144
+p:  -36317.2381909 2.31788301468
+p:  -36317.2381909 2.25011706352
+-36317.2381909 2.32442903519
+p:  -36317.2381909 2.24114608765
+p:  -36317.2381909 2.24559593201
+p:  -36317.2381909 p:  -36317.2381909 2.24250888824
+p:  -36317.2381909 2.28285002708
+2.24156999588
+p:  -36317.2381909 2.24833679199
+p:  -36317.2381909 2.28046679497
+p:  -36317.2381909p:  -36317.2381909 2.25635504723
+p:  -36317.2381909 2.38641095161
+p:  -36317.2381909 2.24210786819
+ 2.24750900269
+p:  -36317.2381909 2.26771092415
+p:  -36317.2381909 2.28787207603
+p:  -36317.2381909 2.30898094177
+p:  -36317.2381909 2.2479839325
+p:  -36317.2381909 2.25536704063
+p:  -36317.2381909p:  -36317.2381909 2.25155282021
+p:  -36317.2381909 2.23208403587
+p:  -36317.2381909 2.31267404556
+ 2.27539396286
+p:  -36317.2381909 2.25163698196
+p:  p:  -36317.2381909 2.30079388618
+p:  -36317.2381909 2.24138784409
+-36317.2381909 2.2791159153
+p:  -36317.2381909 2.280367136
+p:  -36317.2381909 2.27037096024
+p:  -36317.2381909 2.22023391724
+p:  -36317.2381909 2.24338388443
+p:  p:  -36317.2381909 2.25259184837
+-36317.2381909 2.27173614502
+p:  -36317.2381909 p:  -36317.2381909 2.27981209755
+p:  -36317.2381909 2.28559613228
+p:  -36317.2381909 2.30955195427
+2.24707698822
+p:  -36317.2381909 2.35658311844
+p:  -36317.2381909 2.24354410172
+p:  -36317.2381909 2.2221429348
+p:  -36317.2381909 2.25664401054
+p:  -36317.2381909 2.22920489311
+p:  -36317.2381909 2.25617098808
+p:  -36317.2381909 2.23210597038
+p:  -36317.2381909 2.28014111519
+p:  -36317.2381909 2.28396296501
+p:  -36317.2381909 2.24915790558
+p:  -36317.2381909 2.2614710331
+p:  -36317.2381909 2.29852890968
+p:  -36317.2381909 2.25883698463
+p:  -36317.2381909 2.27283883095p:  p:  -36317.2381909 2.2674908638
+
+-36317.2381909 2.26156282425
+p:  -36317.2381909 2.28275704384
+p:  -36317.2381909 2.30261421204
+p:  -36317.2381909 2.29680490494
+p:  -36317.2381909 2.26213979721
+p:  -36317.2381909 2.29522514343
+p:  -36317.2381909 2.32517504692
+p:  -36317.2381909 2.27264785767
+p:  -36317.2381909 2.26412892342
+p:  -36317.2381909p:  -36317.2381909p:  -36317.2381909 2.27573490143
+ 2.29099988937
+p:  -36317.2381909 2.23651194572
+ 2.32377505302
+p:  -36317.2381909 2.22870182991
+p:  p:  -36317.2381909p:  -36317.2381909 p:  -36317.2381909 2.2372379303 2.25749492645
+p:  -36317.2381909 2.47892999649
+-36317.2381909 2.27546906471
+p:  -36317.2381909 2.26039195061
+2.21800088882
+
+p:  -36317.2381909 2.26990389824
+p:  -36317.2381909 2.26570892334
+p:  -36317.2381909 2.27256512642
+p:  -36317.2381909 2.23697805405
+p:  -36317.2381909 2.24493598938
+p:  p:  -36317.2381909 2.27675104141
+p:  p:  -36317.2381909 2.30029606819
+p:  -36317.2381909 2.2429060936
+-36317.2381909 2.27337503433
+-36317.2381909 2.34918999672
+p:  -36317.2381909 2.22191095352
+p:  p:  -36317.2381909 2.26116609573
+-36317.2381909 2.42184495926
+p:  p:  -36317.2381909 2.26565909386
+p:  -36317.2381909 2.20303893089
+p:  -36317.2381909 2.4695789814
+-36317.2381909 2.23019099236
+p:  -36317.2381909 2.52227091789
+p:  -36317.2381909 2.28706717491
+p:  -36317.2381909 2.34900307655
+p:  -36317.2381909 2.26261615753
+p:  -36317.2381909 2.33629012108
+p:  -36317.2381909 2.37540197372
+p:  p:  -36317.2381909 2.23880505562
+p:  -36317.2381909 2.28295993805
+p:  -36317.2381909 2.27510499954
+-36317.2381909 2.46867704391
+p:  -36317.2381909 2.27973198891
+p:  -36317.2381909 2.28647589684
+p:  p:  -36317.2381909 2.25171804428
+p:  -36317.2381909 2.24028611183
+-36317.2381909 2.3539018631
+p:  -36317.2381909 2.34182691574
+p:  -36317.2381909 2.27066588402p:  p:  -36317.2381909 2.24335694313
+p:  -36317.2381909 2.25542402267
+
+-36317.2381909 2.47592782974
+p:  -36317.2381909 2.23205208778
+p:  -36317.2381909 2.28718090057
+p:  -36317.2381909 2.30826592445
+p:  -36317.2381909 2.27463507652p:  -36317.2381909 2.27654790878
+p:  -36317.2381909 2.44843101501
+p:  -36317.2381909 2.27101993561
+p:  p:  
+p:  -36317.2381909 2.28575801849
+-36317.2381909 2.29197692871
+-36317.2381909 2.30223798752
+p:  -36317.2381909 2.24586200714
+p:  -36317.2381909 2.40021705627
+p:  -36317.2381909 2.22619605064
+p:  -36317.2381909 2.2342851162
+p:  -36317.2381909 2.3045899868
+p:  -36317.2381909 2.27297401428
+p:  p:  -36317.2381909 2.32710003853
+p:  -36317.2381909 2.23305082321
+p:  -36317.2381909 2.27746391296
+-36317.2381909 2.23279714584
+p:  -36317.2381909 2.26988101006p:  -36317.2381909 2.38698911667
+p:  -36317.2381909 2.24252009392
+
+p:  -36317.2381909 2.31370306015
+p:  -36317.2381909 2.29373502731
+p:  p:  -36317.2381909p:  -36317.2381909 2.27145600319
+p:  -36317.2381909 2.27140498161
+-36317.2381909 2.37600302696
+ 2.26457285881
+p:  -36317.2381909 2.29994797707
+p:  -36317.2381909 2.40322804451
+p:  -36317.2381909 2.2580769062
+p:  -36317.2381909 2.27862286568
+p:  p:  -36317.2381909 2.27733612061
+p:  -36317.2381909 2.27781105042
+p:  -36317.2381909p:  -36317.2381909 2.35701990128
+-36317.2381909 2.29989790916
+p:  -36317.2381909 2.31167197227
+ 2.29500484467
+p:  -36317.2381909 2.2128880024
+p:  -36317.2381909 2.32343697548
+p:  p:  -36317.2381909 2.31597495079
+p:  -36317.2381909 2.25952792168
+p:  -36317.2381909 2.25629901886
+-36317.2381909 2.21062397957
+p:  -36317.2381909 2.24964594841
+p:  -36317.2381909p:  -36317.2381909 2.23393082619
+p:  -36317.2381909 2.21110510826p:  p:  -36317.2381909 2.32534193993
+ 2.29821896553
+p:  -36317.2381909
+p:  -36317.2381909 2.27393007278
+-36317.2381909 2.34260487556
+p:  -36317.2381909 2.30227804184
+p:  -36317.2381909 2.34965395927
+ 2.26704406738
+p:  -36317.2381909 2.29196500778p:  -36317.2381909 2.24304699898
+p:  -36317.2381909 2.26290011406
+p:  -36317.2381909 2.34146595001
+p:  -36317.2381909 2.36694788933
+p:  -36317.2381909 2.28653001785
+p:  -36317.2381909
+p:  p:  -36317.2381909 2.39671993256
+ 2.26431894302
+p:  p:  -36317.2381909 2.27777314186
+p:  -36317.2381909 2.28865790367
+-36317.2381909 2.34995102882
+p:  -36317.2381909 2.23248195648
+p:  -36317.2381909 2.33360815048p:  -36317.2381909 2.34289884567
+p:  -36317.2381909 2.31544780731
+p:  -36317.2381909 2.27690291405
+-36317.2381909 2.23887586594
+p:  
+p:  -36317.2381909 2.25809812546
+-36317.2381909 2.31733798981
+p:  p:  -36317.2381909 2.31954407692
+p:  -36317.2381909 2.3556098938
+p:  -36317.2381909 2.29231214523
+-36317.2381909 2.4176030159
+p:  -36317.2381909 2.29877090454
+p:  -36317.2381909 2.22649097443
+p:  p:  -36317.2381909 2.3323071003
+p:  -36317.2381909 2.20576882362
+p:  -36317.2381909 2.27671694756
+p:  -36317.2381909 2.23734092712
+-36317.2381909 2.23761987686
+p:  -36317.2381909 2.25116991997
+p:  -36317.2381909 2.2350590229
+p:  -36317.2381909 2.34655380249
+p:  p:  -36317.2381909 2.23313188553
+p:  -36317.2381909 2.22669410706
+p:  -36317.2381909 2.40724396706
+-36317.2381909 2.21408295631
+p:  -36317.2381909 2.34831881523
+p:  -36317.2381909 2.20705699921
+p:  p:  -36317.2381909p:  -36317.2381909 2.29014086723
+-36317.2381909 2.37698817253
+ 2.43656587601
+p:  p:  -36317.2381909 2.64082407951
+p:  -36317.2381909 2.27944588661
+p:  -36317.2381909 2.36308598518
+-36317.2381909 2.23180890083
+p:  -36317.2381909 2.3358039856
+p:  -36317.2381909 2.2671649456
+p:  -36317.2381909 2.36470293999
+p:  -36317.2381909 2.37018799782
+p:  p:  -36317.2381909p:  -36317.2381909 2.22803688049
+p:  -36317.2381909 2.40782999992
+p:  -36317.2381909 2.3510351181
+p:  -36317.2381909 2.22026085854
+-36317.2381909 2.37518715858
+ 2.26187491417
+p:  -36317.2381909 2.25247192383
+p:  -36317.2381909 2.2444088459
+p:  -36317.2381909 2.280397892
+p:  -36317.2381909 2.26322197914
+p:  -36317.2381909 2.3292620182
+p:  -36317.2381909 2.24793410301
+p:  -36317.2381909 2.40672898293
+p:  -36317.2381909p:  -36317.2381909 2.44403195381
+p:  -36317.2381909 2.24217605591
+ 2.22561311722
+p:  -36317.2381909 2.24253106117
+p:  -36317.2381909 2.46391391754
+p:  -36317.2381909 2.27162194252
+p:  -36317.2381909 p:  p:  -36317.2381909 2.38982105255
+p:  -36317.2381909 2.28280091286
+2.29777693748
+-36317.2381909 2.37788200378
+p:  p:  p:  -36317.2381909 2.31272888184
+p:  -36317.2381909 2.26305484772
+p:  -36317.2381909 2.32110095024
+p:  -36317.2381909 2.29060602188
+p:  -36317.2381909-36317.2381909 2.26100492477
+-36317.2381909 2.59268212318
+p:  p:  -36317.2381909 2.24577403069
+p:  -36317.2381909 2.59691596031
+p:  -36317.2381909 2.28116297722
+p:  -36317.2381909p:  -36317.2381909 2.34099912643
+p:  -36317.2381909 2.27415895462
+ 2.40219402313
+p:  -36317.2381909 2.61609983444
+-36317.2381909 2.2650179863
+p:  -36317.2381909 2.35680699348
+ 2.23593497276
+p:  -36317.2381909 2.2955160141
+p:  -36317.2381909 2.25229501724
+p:  -36317.2381909 2.37041687965
+p:  -36317.2381909 2.32693099976
+p:  -36317.2381909 2.26397204399
+p:  p:  -36317.2381909p:  p:  -36317.2381909 2.37130904198
+-36317.2381909 2.61492204666
+p:  -36317.2381909 2.29392290115
+ 2.45774507523
+p:  -36317.2381909-36317.2381909 2.30257582664
+p:  -36317.2381909 2.30654597282
+p:  -36317.2381909 2.27645611763
+p:  -36317.2381909 p:  p:  -36317.2381909 2.46072506905
+ 2.2544901371
+p:  p:  -36317.2381909 2.39819788933
+p:  p:  -36317.2381909 2.25859999657
+p:  2.23919892311
+-36317.2381909 2.22681999207
+p:  -36317.2381909-36317.2381909 2.23466587067
+p:  -36317.2381909 2.48609399796
+-36317.2381909 2.38567590714
+ 2.52315211296
+p:  -36317.2381909 2.29382205009
+-36317.2381909 2.33167910576
+p:  -36317.2381909 2.33981108665
+p:  -36317.2381909 2.51994085312
+p:  -36317.2381909 2.53756284714
+p:  p:  -36317.2381909 2.22857904434
+p:  -36317.2381909 2.21479511261
+p:  -36317.2381909 2.2283539772
+p:  -36317.2381909 2.31932115555
+p:  -36317.2381909 2.20752692223
+p:  -36317.2381909 2.34836411476
+p:  p:  p:  -36317.2381909p:  -36317.2381909-36317.2381909 2.30219697952
+p:  -36317.2381909 2.25248408318
+p:  -36317.2381909 2.23206210136
+p:  -36317.2381909p:  -36317.2381909 2.38657188416
+-36317.2381909 2.24788093567
+-36317.2381909 2.65737104416
+ 2.23642396927
+ 2.49916219711
+p:  -36317.2381909 2.27213907242
+ 2.24734592438
+p:  p:  p:  p:  -36317.2381909 2.230656147
+p:  -36317.2381909 2.26182198524
+p:  -36317.2381909 2.31337714195
+-36317.2381909 2.3319299221
+-36317.2381909 2.3036878109
+-36317.2381909 2.33323907852
+p:  p:  -36317.2381909 2.34398293495p:  -36317.2381909 2.27981901169
+p:  -36317.2381909 2.53625607491
+p:  -36317.2381909 2.29196214676
+-36317.2381909 2.37285017967
+p:  -36317.2381909 2.29650592804
+
+p:  -36317.2381909 2.27874207497
+p:  -36317.2381909 2.23287510872
+p:  -36317.2381909 2.39890098572
+p:  -36317.2381909 2.3230779171
+p:  p:  -36317.2381909 2.33347392082
+p:  -36317.2381909 2.25689888
+-36317.2381909 2.26529097557
+p:  -36317.2381909 2.23048210144
+p:  -36317.2381909 2.23844003677
+p:  -36317.2381909 2.25518202782
+p:  -36317.2381909 2.28833413124
+p:  -36317.2381909p:  -36317.2381909  2.36789917946
+2.23211193085
+p:  -36317.2381909 2.27942800522
+p:  -36317.2381909 2.21740818024
+p:  -36317.2381909 2.25647783279
+p:  -36317.2381909 2.28390407562
+p:  p:  -36317.2381909 2.22385597229
+p:  -36317.2381909 2.27770495415
+-36317.2381909 2.24212813377
+p:  -36317.2381909 2.25645089149
+p:  -36317.2381909 2.28728604317
+p:  p:  p:  p:  -36317.2381909 -36317.2381909 2.48089885712
+p:  -36317.2381909 2.35010409355
+p:  -36317.2381909 2.3529279232
+p:  -36317.2381909 2.24881601334
+p:  -36317.2381909 2.22650194168
+-36317.2381909 2.27239584923
+2.25633406639
+p:  -36317.2381909 2.28227996826
+-36317.2381909 2.3227391243
+p:  -36317.2381909 2.27972912788
+p:  -36317.2381909 2.35370898247
+p:  -36317.2381909 p:  -36317.2381909 2.54442095757
+2.29253792763
+p:  p:  -36317.2381909 2.24031090736
+p:  -36317.2381909 2.54137015343
+p:  p:  p:  -36317.2381909 2.2493429184
+-36317.2381909 2.28420305252
+-36317.2381909 2.2876598835
+p:  -36317.2381909 2.26679587364
+-36317.2381909 2.47232198715
+p:  -36317.2381909 2.20623493195
+p:  -36317.2381909 2.38834691048
+p:  -36317.2381909 2.43381714821
+p:  p:  -36317.2381909 2.48158097267
+p:  -36317.2381909 2.26930618286
+p:  -36317.2381909 2.27860784531
+-36317.2381909 2.30787682533
+p:  -36317.2381909 2.31816792488
+p:  -36317.2381909 2.29721093178
+p:  -36317.2381909 2.4673268795
+p:  p:  -36317.2381909p:  -36317.2381909 2.43417406082
+p:  -36317.2381909p:  -36317.2381909 2.40577602386
+p:  -36317.2381909 2.33495306969
+-36317.2381909 2.30552697182
+p:   2.22960305214
+p:  -36317.2381909 2.21961283684
+p:  -36317.2381909 2.23028111458
+p:  -36317.2381909 2.40324401855
+p:  -36317.2381909 2.22644209862
+ 2.31704592705
+p:  -36317.2381909 2.29864621162
+p:  -36317.2381909 2.27479481697
+-36317.2381909 2.26510691643
+p:  -36317.2381909 2.29017996788
+p:  -36317.2381909 2.23261785507
+p:  -36317.2381909p:  p:  p:  -36317.2381909 2.30181503296
+p:  -36317.2381909 -36317.2381909 2.34484195709
+-36317.2381909 2.36057901382
+p:   2.25470709801
+p:  -36317.2381909 2.255714178092.27343297005
+p:  -36317.2381909 2.30454897881
+p:  -36317.2381909 2.41932892799
+-36317.2381909 2.42828702927
+
+p:  -36317.2381909 2.26156377792
+p:  -36317.2381909 2.25456905365
+p:  p:  -36317.2381909 2.50671100616
+p:  p:  -36317.2381909 2.21942305565
+p:  -36317.2381909 2.27829217911
+p:  -36317.2381909 2.50948882103
+-36317.2381909 2.4153881073
+p:  -36317.2381909 2.26042103767
+p:  p:  -36317.2381909 2.24370002747
+-36317.2381909 2.25233602524
+p:  -36317.2381909 2.43623900414
+p:  -36317.2381909-36317.2381909 2.42267584801
+p:  p:   2.34478187561
+-36317.2381909 2.5135281086
+p:  -36317.2381909 p:  -36317.2381909-36317.2381909 2.25141096115
+p:  -36317.2381909 2.26695418358
+p:  p:  -36317.2381909 2.2964758873
+p:  -36317.2381909 2.2552819252
+p:  -36317.23819092.30099010468
+ 2.33802509308
+p:  -36317.2381909 2.37091398239
+p:  -36317.2381909 2.24247407913
+-36317.2381909 2.27223587036
+ 2.29372096062
+p:  -36317.2381909 2.27392196655
+p:  -36317.2381909 2.25371599197
+p:  -36317.2381909 2.23136997223
+p:  -36317.2381909 2.30542492867
+p:  p:  -36317.2381909 p:  -36317.2381909 2.39387607574
+-36317.2381909 2.26153087616
+p:  -36317.2381909 2.22338104248
+2.24740815163
+p:  p:  -36317.2381909 2.53542113304
+p:  -36317.2381909-36317.2381909 2.25808119774
+p:  -36317.2381909 2.37017083168
+ 2.41997909546
+p:  p:  -36317.2381909 2.34583187103
+-36317.2381909 2.25940108299
+p:  -36317.2381909 2.27560687065
+p:  -36317.2381909p:  -36317.2381909 2.27770090103
+p:  -36317.2381909 2.3329539299 2.22471904755
+
+p:  -36317.2381909 2.26439404488
+p:  -36317.2381909 2.49062585831
+p:  -36317.2381909 2.3701031208
+p:  -36317.2381909 2.29726314545
+p:  -36317.2381909p:  -36317.2381909 2.28199315071
+p:  -36317.2381909 2.3531601429
+ 2.24900102615
+p:  -36317.2381909 2.28591489792
+p:  -36317.2381909 p:  -36317.2381909 2.5695130825
+p:  -36317.2381909 2.25954604149
+2.23773789406
+p:  p:  -36317.2381909 -36317.2381909 2.24153208733
+p:  -36317.23819092.29275608063
+p:  -36317.2381909 2.31209278107
+p:  -36317.2381909 2.28190684319
+ 2.22932600975
+p:  -36317.2381909 2.26292896271
+p:  -36317.2381909 2.25839710236
+p:  p:  -36317.2381909 2.29695391655
+p:  -36317.2381909 2.3254840374
+-36317.2381909 2.25359201431
+p:  -36317.2381909 p:  -36317.2381909 2.3392560482
+p:  -36317.2381909 2.39029717445
+p:  -36317.2381909 2.42979288101
+p:  -36317.2381909 p:  -36317.2381909 2.277520895
+2.2338681221
+p:  -36317.2381909 2.28053092957
+p:  -36317.2381909 2.32721209526
+p:  -36317.2381909 2.29248595238
+2.25995397568
+p:  -36317.2381909 2.280616045
+p:  -36317.2381909 2.2353541851
+p:  -36317.2381909 p:  -36317.2381909 2.26350712776
+p:  p:  p:  p:  -36317.2381909 2.24463605881
+2.23485708237
+-36317.2381909 2.32142210007
+p:  -36317.2381909 2.26382803917
+-36317.2381909 2.30788111687
+p:  -36317.2381909 2.27300810814
+p:  -36317.2381909 2.24507904053p:  -36317.2381909 2.27742815018
+-36317.2381909 2.24553894997
+p:  -36317.2381909 2.2204451561
+p:  -36317.2381909 2.24308681488
+p:  -36317.2381909 2.30660700798
+p:  -36317.2381909 2.25131320953
+p:  -36317.2381909 2.24321293831
+
+p:  -36317.2381909 2.26556015015
+p:  -36317.2381909p:  -36317.2381909 2.23744297028
+p:  -36317.2381909  2.27191996574
+p:  -36317.2381909 2.38214802742
+2.24076700211
+p:  -36317.2381909 2.2646780014
+p:  -36317.2381909 p:  -36317.2381909 2.30281019211
+p:  -36317.2381909 p:  p:  -36317.2381909 2.23608016968
+2.22058391571
+2.24268603325
+-36317.2381909 2.35297298431
+p:  -36317.2381909 2.34540104866
+p:  -36317.2381909p:  -36317.2381909 2.23422503471
+p:  -36317.2381909p:  -36317.2381909 2.26187610626
+ 2.24056601524
+ 2.37178087234
+p:  -36317.2381909 2.26888990402
+p:  -36317.2381909 2.24773788452
+p:  -36317.2381909 2.24274015427
+p:  -36317.2381909 2.30805683136p:  -36317.2381909 2.2648370266
+
+p:  -36317.2381909p:  -36317.2381909 2.25094008446
+p:  -36317.2381909 2.27919793129
+p:  p:  p:  -36317.2381909 2.30192399025
+ 2.27926588058
+p:  -36317.2381909 2.25228786469
+-36317.2381909 2.29028511047
+-36317.2381909 2.23395681381
+p:  -36317.2381909 2.3093149662
+p:  p:  -36317.2381909 p:  -36317.2381909 2.25790500641
+p:  p:  -36317.2381909 2.26176309586
+-36317.2381909 2.2596988678
+2.25785493851
+-36317.2381909 2.306661129
+p:  -36317.2381909 2.28472900391
+p:  -36317.2381909 2.24706506729p:  -36317.2381909 3.02733588219
+p:  -36317.2381909 2.33124899864
+
+p:  -36317.2381909 2.25173306465
+p:  -36317.2381909 2.25589394569
+p:  -36317.2381909 2.2887160778
+p:  -36317.2381909 2.33728289604
+p:  p:  -36317.2381909 2.25889897346p:  -36317.2381909 2.29992294312-36317.2381909 2.24494481087
+
+
+p:  -36317.2381909 2.41090893745
+p:  -36317.2381909 2.31486392021
+p:  -36317.2381909 2.30812907219
+p:  p:  -36317.2381909 2.32721805573
+-36317.2381909 2.32819318771
+p:  -36317.2381909 2.22323799133
+p:  p:  -36317.2381909 2.30765604973
+p:  -36317.2381909 2.25207209587
+p:  p:  -36317.2381909 2.26085495949
+-36317.2381909 2.31796216965
+p:  -36317.2381909 2.25573992729
+p:  -36317.2381909 2.25082921982
+p:  -36317.2381909 2.2339360714
+-36317.2381909 2.36265301704
+p:  p:  -36317.2381909 2.25706720352p:  -36317.2381909 2.27518701553
+
+-36317.2381909 2.23186898232
+p:  -36317.2381909 2.26270699501
+p:  -36317.2381909 2.31264185905
+p:  -36317.2381909 2.35731911659
+p:  -36317.2381909 2.25727891922
+p:  -36317.2381909p:  -36317.2381909 2.27795886993
+p:  -36317.2381909 2.26306390762
+p:  -36317.2381909 2.25406599045
+ 2.24078893661
+p:  -36317.2381909 2.38867306709
+p:  -36317.2381909 2.30112099648
+p:  -36317.2381909 2.24317193031
+p:  -36317.2381909 2.26280784607
+p:  -36317.2381909 2.34018397331
+p:  -36317.2381909 2.232421875
+p:  -36317.2381909p:  -36317.2381909 2.26638007164
+p:  -36317.2381909p:  -36317.2381909 2.2372739315p:  -36317.2381909 2.27441191673
+p:  -36317.2381909 2.38473200798
+ 2.26909995079
+p:  -36317.2381909p:  -36317.2381909 2.2382941246
+ 2.2267138958
+
+p:  -36317.2381909 2.22226715088
+p:  -36317.2381909 2.36305618286
+ 2.28059506416
+p:  -36317.2381909p:  -36317.2381909 2.23666381836
+p:  -36317.2381909 2.40741109848
+p:  -36317.2381909 p:  -36317.2381909 2.22849798203
+ 2.3546230793
+p:  2.26946806908
+p:  -36317.2381909 2.27053594589
+p:  -36317.2381909 2.27018213272
+-36317.2381909 2.21367502213
+p:  -36317.2381909 2.31682515144
+p:  -36317.2381909 2.23912787437
+p:  -36317.2381909 2.36796212196
+p:  -36317.2381909 2.67623090744
+p:  -36317.2381909 2.41123485565
+p:  p:  -36317.2381909 2.21332502365
+p:  -36317.2381909 2.37963104248
+p:  -36317.2381909 2.29084396362
+p:  -36317.2381909 2.22884511948
+p:  -36317.2381909 2.29426693916
+p:  -36317.2381909 2.21590709686
+p:  -36317.2381909 2.20468306541
+-36317.2381909 2.38776803017
+p:  -36317.2381909 2.73979401588
+p:  -36317.2381909p:  -36317.2381909 2.25818395615
+p:  p:  -36317.2381909 2.83049798012
+ 2.44682908058
+-36317.2381909 2.3384950161
+p:  -36317.2381909 2.67970585823
+p:  -36317.2381909 2.29308485985
+p:  -36317.2381909 2.33025407791
+p:  -36317.2381909 2.24911117554
+p:  -36317.2381909 2.3978908062
+p:  -36317.2381909 p:  -36317.2381909 2.29324793816
+p:  -36317.2381909p:  -36317.2381909 2.27626085281
+p:  -36317.2381909 2.3785378933
+2.76112914085
+ 2.26178479195
+p:  -36317.2381909 2.29410600662
+p:  -36317.2381909 2.52111101151
+p:  -36317.2381909 2.31758594513
+p:  -36317.2381909 2.27830505371
+p:  p:  p:  -36317.2381909 2.23636388779
+p:  -36317.2381909 2.53585314751
+-36317.2381909 2.28096008301
+-36317.2381909 2.38319993019
+p:  -36317.2381909 2.79033207893
+p:  -36317.2381909 2.26049280167
+p:  -36317.2381909p:  p:  -36317.2381909 2.29549002647
+ 2.45564699173
+p:  -36317.2381909 2.4061820507
+-36317.2381909 2.26702404022
+p:  -36317.2381909 2.26645588875
+p:  -36317.2381909 2.38353085518
+p:  -36317.2381909 2.23752093315
+p:  -36317.2381909 2.509100914
+p:  -36317.2381909 2.3800599575
+p:  -36317.2381909 2.22870707512
+p:  p:  -36317.2381909 2.25670695305
+p:  p:  -36317.2381909 2.24074816704
+p:  -36317.2381909 2.24801898003
+p:  -36317.2381909 2.29285120964
+-36317.2381909 2.63620996475
+p:  -36317.2381909p:  -36317.2381909 2.24506092072
+-36317.2381909 2.29571199417
+p:  -36317.2381909 2.51292300224
+p:  -36317.2381909 2.29275012016
+p:  -36317.2381909 2.24498510361
+p:  -36317.2381909 2.39761805534
+p:  p:  -36317.2381909 2.26012802124
+p:  -36317.2381909p:  -36317.2381909 2.23687505722
+p:  -36317.2381909 2.22223687172
+p:  -36317.2381909 2.24764990807
+-36317.2381909 2.57498192787
+ 2.28390479088
+p:  -36317.2381909 2.29771113396 2.34542298317
+p:  -36317.2381909 2.29522800446
+p:  -36317.2381909p:  
+p:  -36317.2381909 2.25083804131
+p:  -36317.2381909 2.25860404968
+ 2.31691813469
+-36317.2381909 2.17954492569
+p:  p:  -36317.2381909 2.61056613922
+p:  -36317.2381909 2.44909906387p:  -36317.2381909 2.25523304939
+p:  -36317.2381909 2.23918890953
+p:  -36317.2381909 2.65926909447
+-36317.2381909 2.2393848896
+p:  -36317.2381909 2.42009091377
+p:  -36317.2381909 2.26103615761
+p:  -36317.2381909 2.24627399445
+
+p:  -36317.2381909 p:  -36317.2381909 2.3383500576
+p:  -36317.2381909 2.77521681786
+p:  -36317.2381909 2.29608988762
+p:  p:  p:  2.27497005463
+p:  -36317.2381909 2.66837382317
+-36317.2381909 2.46105909348
+-36317.2381909 2.25315403938
+p:  -36317.2381909 -36317.2381909 2.46465706825
+p:  p:  -36317.2381909 2.23401784897
+p:  -36317.2381909p:  -36317.2381909 2.27348804474
+p:  -36317.2381909 2.6783220768
+p:  -36317.2381909 2.25142788887
+2.23978710175
+p:  -36317.2381909 2.27751994133
+-36317.2381909 2.35946702957
+ 2.2869489193
+p:  -36317.2381909 2.61791992188
+p:  -36317.2381909 2.25405812263
+p:  -36317.2381909 2.30461406708
+p:  p:  -36317.2381909 2.24486994743
+p:  p:  -36317.2381909 2.29773783684
+p:  -36317.2381909 2.35800385475
+p:  -36317.2381909 2.89341902733
+-36317.2381909 2.23811388016
+p:  p:  -36317.2381909 2.25311589241
+-36317.2381909 2.41797709465
+p:  -36317.2381909 2.63894605637
+p:  -36317.2381909 2.33870410919
+p:  -36317.2381909 2.28388309479
+-36317.2381909 2.30441713333
+p:  -36317.2381909 2.27081203461
+p:  -36317.2381909 2.26128983498
+p:  -36317.2381909 2.67891693115
+p:  -36317.2381909 2.57426381111
+p:  p:  -36317.2381909 2.25981903076
+p:  -36317.2381909 2.24904894829
+p:  -36317.2381909 2.20925498009
+p:  -36317.2381909 2.28943109512
+p:  -36317.2381909 2.24187612534
+-36317.2381909 2.25196790695
+p:  -36317.2381909p:  p:  -36317.2381909 2.25870800018
+ 2.28963017464
+-36317.2381909 2.4015250206
+p:  -36317.2381909 2.29729700089
+p:  -36317.2381909 2.24601101875
+p:  -36317.2381909 2.23962903023
+p:  -36317.2381909 2.52757787704
+p:  p:  -36317.2381909 2.32321476936
+p:  -36317.2381909 2.37571406364
+p:  -36317.2381909 2.22998309135-36317.2381909 2.33231902122
+p:  -36317.2381909p:  -36317.2381909 p:  -36317.2381909 
+p:  -36317.2381909 2.31837105751 2.69623398781
+2.25448203087
+2.2226319313
+
+p:  p:  -36317.2381909 2.2322499752
+p:  -36317.2381909 2.27723097801
+-36317.2381909 2.26029801369
+p:  -36317.2381909 2.20496797562
+p:  -36317.2381909 2.29377889633
+p:  -36317.2381909 2.28096103668
+p:  -36317.2381909 2.26745510101
+p:  -36317.2381909 2.26384687424
+p:  -36317.2381909 2.25782704353
+p:  -36317.2381909 2.30691313744
+p:  p:  p:  -36317.2381909 -36317.2381909 2.35659718513
+-36317.2381909 2.28119802475
+p:  -36317.2381909 2.20902705193
+2.87664318085
+p:  -36317.2381909 2.2370660305
+p:  -36317.2381909 2.21479892731
+p:  -36317.2381909 2.2774579525p:  -36317.2381909 2.31848907471
+p:  -36317.2381909 2.27260994911
+p:  -36317.2381909 2.2852139473
+p:  -36317.2381909 2.22231912613
+p:  -36317.2381909 2.29931497574
+
+p:  -36317.2381909 2.26013207436
+p:  -36317.2381909 2.21646118164
+p:  -36317.2381909 2.24799418449
+p:  p:  -36317.2381909 2.23088002205
+p:  p:  -36317.2381909 2.22038888931
+p:  -36317.2381909 2.34279417992-36317.2381909 2.23353981972
+p:  -36317.2381909 2.214646101
+p:  -36317.2381909 2.25767493248
+-36317.2381909 2.29539394379
+
+p:  p:  -36317.2381909p:  -36317.2381909 p:  -36317.2381909 2.40723991394
+p:  -36317.2381909 2.25306606293
+p:  -36317.2381909 2.20896792412
+p:  -36317.2381909 2.27787804604
+-36317.2381909 2.29495000839
+p:  -36317.2381909 2.30858707428
+ 2.29528403282
+2.30439710617
+p:  -36317.2381909 2.28690195084
+p:  p:  -36317.2381909 2.245221138
+p:  -36317.2381909 2.2667491436
+-36317.2381909 2.3551068306
+p:  -36317.2381909 2.26428198814
+p:  -36317.2381909 2.24626302719
+p:  -36317.2381909 2.27117705345
+p:  -36317.2381909 2.34057307243
+p:  -36317.2381909 2.26741099358
+p:  -36317.2381909 2.26077890396
+p:  -36317.2381909 2.22959208488
+p:  p:  -36317.2381909 2.25878596306
+p:  p:  -36317.2381909 2.25368309021
+p:  -36317.2381909 2.25558304787
+p:  -36317.2381909 2.3206319809
+-36317.2381909 2.26086401939
+p:  -36317.2381909 2.25850296021
+p:  -36317.2381909 2.26557803154
+p:  -36317.2381909 2.2477710247
+-36317.2381909 2.28776788712
+p:  -36317.2381909 2.21298122406
+p:  -36317.2381909 2.26719903946
+p:  -36317.2381909 2.34394717216
+p:  -36317.2381909 2.26968407631
+p:  -36317.2381909 2.23633885384
+p:  -36317.2381909 2.27012395859
+p:  -36317.2381909 2.25389885902
+p:  -36317.2381909 2.25520992279
+p:  -36317.2381909p:  -36317.2381909 2.24615907669
+p:  -36317.2381909p:  -36317.2381909 2.25073814392
+p:  -36317.2381909 2.21732616425
+ 2.2654709816
+ 2.24466300011
+p:  -36317.2381909 2.34316110611
+p:  -36317.2381909 2.29142284393
+p:  -36317.2381909 p:  -36317.2381909p:  -36317.2381909 2.22633194923
+p:  -36317.2381909 2.28391718864
+p:  -36317.2381909 2.25673508644
+p:  -36317.2381909 2.23740506172
+p:  -36317.2381909 2.40314292908
+2.26032495499
+ 2.35340595245
+p:  -36317.2381909 2.2813680172
+p:  -36317.2381909 2.28569102287
+p:  p:  -36317.2381909 2.31434679031
+p:  p:  p:  -36317.2381909 2.37715101242
+p:  -36317.2381909 2.34085202217
+-36317.2381909 2.33832192421
+-36317.2381909 2.31266498566
+p:  -36317.2381909 2.25201797485
+-36317.2381909 2.31811594963
+p:  p:  -36317.2381909 2.23867607117
+p:  -36317.2381909 2.28119015694
+p:  p:  p:  -36317.2381909 2.23901987076
+-36317.2381909 2.28982496262
+-36317.2381909 2.23525285721
+p:  -36317.2381909 2.2463991642
+p:  -36317.2381909 2.27826094627
+-36317.2381909 2.28397893906
+p:  p:  -36317.2381909 2.26450300217
+-36317.2381909 2.370677948
+p:  -36317.2381909 2.2507109642
+p:  -36317.2381909 2.26298594475
+p:  -36317.2381909 2.24080181122
+p:  -36317.2381909 2.28175187111
+p:  -36317.2381909 2.23001694679
+p:  p:  -36317.2381909 2.26296186447
+p:  -36317.2381909 2.97260499001
+p:  -36317.2381909 2.27084088326
+p:  -36317.2381909 2.29318404198
+p:  -36317.2381909 2.24033999443
+p:  -36317.2381909 2.33036208153
+p:  -36317.2381909 2.47461390495
+p:  -36317.2381909 2.23553395271
+-36317.2381909 2.39740395546
+p:  -36317.2381909 2.26079511642
+p:  -36317.2381909 2.34814810753
+p:  -36317.2381909 2.25429391861
+p:  -36317.2381909p:  -36317.2381909 2.27267885208
+p:  -36317.2381909 2.27307105064
+p:  -36317.2381909 2.24820613861
+ 2.47816801071
+p:  -36317.2381909p:  -36317.2381909 2.28308916092
+p:  -36317.2381909 2.2595038414
+p:  -36317.2381909 2.28569698334
+p:  -36317.2381909 2.23954200745
+p:  -36317.2381909 2.22335505486
+ 2.50327014923
+p:  -36317.2381909 2.26106286049
+p:  -36317.2381909 2.23585700989
+p:  -36317.2381909 2.40811896324
+p:  -36317.2381909 2.28410291672
+p:  -36317.2381909 2.29472780228
+p:  -36317.2381909 2.26069712639
+p:  -36317.2381909 2.25735282898
+p:  -36317.2381909 2.46472406387
+p:  -36317.2381909 2.26378202438
+p:  -36317.2381909 2.33914113045
+p:  -36317.2381909 2.22680997849
+p:  -36317.2381909 2.25979113579
+p:  -36317.2381909 2.27680015564
+p:  -36317.2381909 2.56460595131
+p:  -36317.2381909 2.26169013977
+p:  p:  -36317.2381909 2.58301591873
+p:  -36317.2381909 2.24924993515
+p:  -36317.2381909 2.22861599922
+-36317.2381909 2.2511920929
+p:  p:  -36317.2381909 2.2632818222
+p:  -36317.2381909 2.25091695786
+p:  -36317.2381909p:  -36317.2381909 2.24105906487
+-36317.2381909 2.37054800987
+p:  -36317.2381909 2.238052845
+p:  -36317.2381909 2.27674293518
+ 2.26662182808
+p:  -36317.2381909p:  -36317.2381909 2.57625484467
+p:  -36317.2381909 2.26834392548
+ 2.2975859642
+p:  -36317.2381909 2.48368406296
+p:  -36317.2381909p:  -36317.2381909 2.24184012413
+p:  -36317.2381909 2.20891904831
+ 2.2186729908
+p:  -36317.2381909 2.29860091209
+p:  -36317.2381909 2.52921295166
+p:  p:  -36317.2381909 2.59698414803
+p:  -36317.2381909 2.28101491928
+p:  -36317.2381909 2.32719302177
+p:  -36317.2381909 2.26159000397
+p:  -36317.2381909 2.33744096756
+-36317.2381909 2.2341299057
+p:  -36317.2381909 2.58274912834
+p:  -36317.2381909 2.25065922737
+p:  -36317.2381909 2.24057102203
+p:  p:  -36317.2381909 2.27684593201
+p:  -36317.2381909 2.27587604523
+-36317.2381909 2.51188397408
+p:  p:  -36317.2381909 2.47308397293
+p:  -36317.2381909 2.29516196251
+p:  -36317.2381909 2.464209795
+-36317.2381909 2.24897289276
+p:  -36317.2381909 2.28970599174
+p:  -36317.2381909 p:  -36317.2381909 2.4844019413
+p:  p:  -36317.2381909 2.33982586861
+p:  -36317.2381909 2.24414992332
+-36317.2381909 2.2869451046
+2.33264708519
+p:  -36317.2381909 2.28326106071
+p:  -36317.2381909 2.26660990715
+p:  -36317.2381909 2.28108286858
+p:  p:  -36317.2381909 2.2965760231
+p:  -36317.2381909 p:  p:  -36317.2381909 2.2754240036
+p:  -36317.2381909 2.22287011147
+p:  -36317.2381909 2.27361392975
+-36317.2381909 2.24755883217
+-36317.2381909 2.250259161
+p:  -36317.2381909 2.22176504135
+p:  p:  -36317.2381909 2.26835012436
+2.4085149765
+p:  -36317.2381909 2.29548597336
+-36317.2381909 2.24942708015
+p:  -36317.2381909 2.27390789986
+p:  p:  -36317.2381909 2.28047299385
+p:  p:  -36317.2381909 2.24369382858
+p:  -36317.2381909 2.27135300636
+-36317.2381909 2.28261113167
+p:  -36317.2381909 2.28047180176
+p:  -36317.2381909 2.23542189598
+-36317.2381909 2.23773097992
+p:  -36317.2381909 2.29201197624
+p:  p:  -36317.2381909 2.26930403709
+p:  -36317.2381909 2.24510288239
+p:  -36317.2381909 -36317.2381909 2.26129007339
+p:  -36317.2381909 2.25421714783
+p:  -36317.2381909 2.255865097052.26773691177
+p:  
+p:  -36317.2381909 2.27588701248
+p:  -36317.2381909 2.23882508278-36317.2381909 2.26459383965
+p:  -36317.2381909 2.25547289848
+p:  -36317.2381909 2.2716460228
+
+p:  -36317.2381909 2.24559092522
+p:  -36317.2381909 2.24338698387
+p:  -36317.2381909 2.3000690937
+p:  -36317.2381909 2.31016302109
+p:  -36317.2381909p:  -36317.2381909 2.25837492943
+ 2.24531412125
+p:  p:  -36317.2381909 p:  -36317.2381909 2.29417800903
+p:  -36317.2381909 2.26121401787
+p:  -36317.2381909 2.34057497978
+p:  -36317.2381909 2.26083087921
+p:  -36317.2381909p:  -36317.2381909 2.24563193321
+-36317.2381909 2.28317904472
+2.26446795464
+p:  -36317.2381909 2.24903416634
+p:  -36317.2381909 2.23762583733
+ 2.2340669632
+p:  -36317.2381909 p:  -36317.2381909 2.58418107033
+p:  -36317.2381909 2.26563596725
+p:  -36317.2381909 2.23683810234
+p:  -36317.2381909 2.28104996681
+2.2939760685
+p:  -36317.2381909 2.24970507622
+p:  -36317.2381909 2.27729392052
+p:  -36317.2381909 2.25151205063
+p:  p:  -36317.2381909 2.32718896866
+-36317.2381909 2.29168391228
+p:  -36317.2381909 2.28195810318
+p:  -36317.2381909 2.25892305374
+p:  -36317.2381909 2.22930288315
+p:  -36317.2381909 2.25031685829
+p:  -36317.2381909 2.27918291092
+p:  -36317.2381909 2.22926616669
+p:  -36317.2381909 2.23618912697
+p:  -36317.2381909 2.29616379738
+p:  p:  -36317.2381909 2.23568701744
+p:  -36317.2381909p:  -36317.2381909 2.23952698708
+p:  -36317.2381909 2.37516307831
+-36317.2381909 2.23761487007
+p:  -36317.2381909 2.24150013924
+ 2.262144804
+p:  -36317.2381909 2.2665309906
+p:  -36317.2381909 2.25182986259
+p:  -36317.2381909 2.23428106308
+p:  p:  -36317.2381909 2.24437999725
+p:  -36317.2381909 2.24364590645
+p:  -36317.2381909 2.25723290443
+p:  -36317.2381909 2.22773313522
+-36317.2381909 2.3004591465
+p:  -36317.2381909 2.26705503464p:  -36317.2381909 2.28648400307
+
+p:  -36317.2381909 2.37294197083
+p:  -36317.2381909 2.42808890343
+p:  -36317.2381909 2.23340201378
+p:  -36317.2381909 2.31685996056
+p:  -36317.2381909 2.25862002373
+p:  -36317.2381909 2.36410498619
+p:  -36317.2381909 2.31803798676
+p:  p:  -36317.2381909 2.30851006508
+p:  p:  -36317.2381909 2.35680294037
+-36317.2381909 2.22048902512
+-36317.2381909 2.26322793961
+p:  -36317.2381909 2.25860095024
+p:  -36317.2381909 2.26668095589
+p:  -36317.2381909 2.28734898567
+p:  -36317.2381909 2.32198596001
+p:  -36317.2381909 2.2819879055
+p:  -36317.2381909 2.24962592125
+p:  -36317.2381909 2.21481108665
+p:  p:  -36317.2381909 2.25971221924
+p:  -36317.2381909 2.26294279099
+-36317.2381909 2.21445512772
+p:  p:  -36317.2381909 2.29935312271
+p:  -36317.2381909 2.23654413223
+-36317.2381909 2.30671215057
+p:  -36317.2381909 2.2435259819
+p:  -36317.2381909 2.33666396141
+p:  p:  -36317.2381909 2.28501582146
+p:  -36317.2381909 2.23605895042
+p:  -36317.2381909 2.26293587685
+-36317.2381909 2.25553703308
+p:  -36317.2381909 2.25600790977
+p:  -36317.2381909 2.25051903725
+p:  -36317.2381909 2.26435112953
+p:  -36317.2381909 p:  2.24486589432
+p:  -36317.2381909 2.23241400719
+p:  -36317.2381909 2.2672829628
+p:  -36317.2381909 2.28285813332
+p:  -36317.2381909 2.25395584106
+p:  -36317.2381909 2.25531792641
+-36317.2381909 2.22162294388
+p:  -36317.2381909 p:  p:  p:  -36317.2381909 2.22062587738
+p:  -36317.2381909 2.25283503532
+2.22771310806
+p:  -36317.2381909 2.23954892159
+-36317.2381909 2.26424193382
+-36317.2381909 2.28826093674
+p:  -36317.2381909 2.26622486115
+p:  p:  -36317.2381909 2.25494909286
+p:  -36317.2381909 2.31827187538
+p:  -36317.2381909 2.25811314583
+p:  -36317.2381909 2.29033088684
+p:  -36317.2381909 2.23198199272
+p:  -36317.2381909-36317.2381909 2.26429986954
+p:  -36317.2381909 2.30332303047
+p:  -36317.2381909 2.19033694267
+ 2.29095220566
+p:  -36317.2381909 2.25948095322
+p:  p:  -36317.2381909p:  p:  -36317.2381909 2.23216795921
+-36317.2381909 2.2818198204
+ 2.27698588371
+-36317.2381909 2.20950007439
+p:  -36317.2381909 2.25029087067
+p:  -36317.2381909 2.26588010788
+p:  -36317.2381909 2.41839885712
+p:  -36317.2381909 2.48478198051
+p:  -36317.2381909 2.27219319344
+p:  -36317.2381909 2.33474493027
+p:  p:  -36317.2381909 2.30949497223
+p:  -36317.2381909-36317.2381909 2.52606201172
+p:  -36317.2381909 2.20291805267
+ 2.22576904297
+p:  -36317.2381909 2.27016997337
+p:  -36317.2381909 2.26989603043
+p:  -36317.2381909 2.23941087723
+p:  p:  -36317.2381909 2.34929299355
+-36317.2381909 2.35330915451
+p:  -36317.2381909 2.26648688316
+p:  -36317.2381909 2.23223495483
+p:  -36317.2381909 2.47568583488
+p:  -36317.2381909 2.27332210541
+p:  -36317.2381909 2.27941012383
+p:  -36317.2381909 p:  -36317.2381909 2.27182888985
+p:  -36317.2381909 2.24538612366
+p:  2.47390699387
+p:  -36317.2381909 2.27351999283
+-36317.2381909 2.25892901421
+p:  -36317.2381909 2.21726703644
+p:  -36317.2381909 2.30634593964
+p:  -36317.2381909 2.27390384674
+p:  -36317.2381909 2.26510310173
+p:  -36317.2381909 2.40491294861
+p:  -36317.2381909 2.24147891998
+p:  -36317.2381909 2.36426901817
+p:  -36317.2381909p:  -36317.2381909 2.42902302742
+p:  -36317.2381909 2.4705581665
+p:   2.28068614006
+p:  p:  -36317.2381909 2.28668808937
+p:  -36317.2381909 2.22418308258
+p:  -36317.2381909 2.28161501884
+-36317.2381909 2.4639480114
+-36317.2381909 2.26120686531
+p:  -36317.2381909 2.26661801338
+p:  -36317.2381909 2.34130787849
+p:  -36317.2381909 2.23496699333
+p:  -36317.2381909 2.25457692146
+p:  p:  -36317.2381909 2.27236390114
+p:  -36317.2381909 2.40513396263
+p:  -36317.2381909 2.2755420208
+p:  -36317.2381909 2.27183103561-36317.2381909 2.2594139576
+p:  -36317.2381909 2.24406218529
+
+p:  p:  -36317.2381909 2.27956700325
+p:  -36317.2381909 2.21881198883
+p:  -36317.2381909 2.23564004898
+p:  -36317.2381909 2.50239682198
+p:  -36317.2381909 2.29151916504
+p:  -36317.2381909p:  -36317.2381909 2.25358295441
+p:  -36317.2381909 2.31046795845
+p:  -36317.2381909 2.39958882332
+p:  -36317.2381909 2.23588895798
+ 2.23022890091
+-36317.2381909 2.35144209862
+p:  -36317.2381909 2.30015516281
+p:  -36317.2381909 2.41770601273
+p:  p:  -36317.2381909 2.31510615349p:  -36317.2381909 2.29720211029
+p:  -36317.2381909 2.23160791397
+p:  -36317.2381909 2.47927904129
+-36317.2381909 2.25174188614
+p:  -36317.2381909 2.29641103745
+
+p:  -36317.2381909 p:  -36317.2381909 2.39772582054
+2.34605097771
+p:  -36317.2381909 2.28075504303
+p:  -36317.2381909 2.35153412819
+p:  -36317.2381909 2.25167512894
+p:  -36317.2381909p:  -36317.2381909 2.26719307899
+ 2.23380708694
+p:  -36317.2381909p:  -36317.2381909 2.23785185814
+ 2.31824612617
+p:  -36317.2381909 2.28881382942
+p:  p:  -36317.2381909 2.27274703979
+-36317.2381909 2.23793005943
+p:  -36317.2381909 2.26906204224
+p:  -36317.2381909 2.33884811401
+p:  -36317.2381909 2.30269408226
+p:  -36317.2381909 2.23989701271
+p:  p:  -36317.2381909 2.21192002296
+p:  -36317.2381909 2.28212404251
+-36317.2381909 2.22331094742
+p:  -36317.2381909 2.25727891922
+p:  -36317.2381909 2.3245909214
+p:  -36317.2381909 2.2423479557
+p:  -36317.2381909 2.32458591461
+p:  -36317.2381909 2.28049993515
+p:  -36317.2381909 2.26639914513
+p:  -36317.2381909 2.2738571167
+p:  -36317.2381909 2.28271508217
+p:  -36317.2381909 2.28962802887
+p:  -36317.2381909 2.30319619179
+p:  -36317.2381909 2.24122905731
+p:  -36317.2381909 2.31749200821
+p:  -36317.2381909 2.26744198799
+p:  -36317.2381909 2.21570301056
+p:  p:  -36317.2381909 2.24767994881
+p:  -36317.2381909 2.24526906013
+-36317.2381909 2.24382400513
+p:  -36317.2381909 2.23275899887
+p:  p:  p:  -36317.2381909 2.27583312988
+-36317.2381909 2.25094079971
+-36317.2381909 2.23028993607
+p:  p:  p:  -36317.2381909 2.25402903557
+-36317.2381909 2.26630210876
+p:  -36317.2381909 2.28079199791
+p:  p:  -36317.2381909 2.24951910973
+p:  -36317.2381909 2.37100696564
+p:  -36317.2381909 p:  -36317.2381909 2.24413299561
+p:  -36317.2381909 2.23940610886
+-36317.2381909 2.25023198128
+-36317.2381909 2.25354599953
+2.26307702065
+p:  -36317.2381909 2.40132904053
+p:  -36317.2381909 2.26248002052
+p:  -36317.2381909p:  -36317.2381909 2.27667403221
+p:  -36317.2381909 2.27651906013
+p:  -36317.2381909 2.21200203896
+p:  -36317.2381909 2.25302886963
+ 2.22802114487
+p:  -36317.2381909 2.28858613968
+p:  -36317.2381909 2.26692295074p:  -36317.2381909 2.27258610725
+p:  
+p:  -36317.2381909 2.21078014374
+-36317.2381909 2.31404304504
+p:  -36317.2381909 2.26102399826
+p:  -36317.2381909 p:  -36317.2381909 2.23629212379
+2.3162009716
+p:  -36317.2381909 2.24278903008
+p:  -36317.2381909 2.31380391121
+p:  -36317.2381909 2.83642911911
+p:  -36317.2381909 p:  -36317.2381909 2.32972383499
+p:  -36317.2381909 2.32350087166
+2.22881507874
+p:  -36317.2381909 2.29961705208
+p:  -36317.2381909 2.26323914528
+p:  p:  -36317.2381909 2.28542304039
+-36317.2381909 2.25149893761
+p:  -36317.2381909 2.32906007767p:  -36317.2381909 2.24988389015
+p:  -36317.2381909 2.23294210434p:  -36317.2381909 2.23647403717
+
+p:  -36317.2381909 2.27434420586
+
+p:  p:  -36317.2381909 2.22159790993
+p:  -36317.2381909 2.27222013474
+-36317.2381909 2.25412511826
+p:  -36317.2381909 2.26635408401
+p:  -36317.2381909 2.28744006157
+p:  -36317.2381909 2.25127506256
+p:  -36317.2381909 2.27211403847
+p:  -36317.2381909 2.2771191597
+p:  -36317.2381909 2.27043104172
+p:  -36317.2381909 p:  -36317.2381909 2.28360915184
+2.2836868763
+p:  -36317.2381909 2.40677785873
+p:  -36317.2381909 2.22522211075
+p:  -36317.2381909 2.27872109413
+p:  -36317.2381909 2.28841090202
+p:  -36317.2381909 2.23970603943
+p:  -36317.2381909 2.27884984016
+p:  -36317.2381909 2.233066082
+p:  -36317.2381909 2.30202007294
+p:  -36317.2381909 2.25781702995
+p:  -36317.2381909 2.27390980721
+p:  -36317.2381909 2.24525880814
+p:  p:  p:  -36317.2381909 2.22521400452
+-36317.2381909 2.31463098526
+-36317.2381909 2.2621409893
+p:  -36317.2381909 2.30091905594
+p:  -36317.2381909 2.3137819767
+p:  -36317.2381909 p:  -36317.2381909 2.32338500023
+2.21759200096
+p:  -36317.2381909 2.2417049408
+p:  -36317.2381909 2.31293106079
+p:  -36317.2381909 2.23343920708
+p:  -36317.2381909 2.31340694427
+p:  -36317.2381909 2.27361989021
+p:  -36317.2381909 2.28247189522p:  -36317.2381909 2.34484004974
+p:  -36317.2381909 2.21964406967
+
+p:  -36317.2381909 2.25944018364
+p:  p:  -36317.2381909 2.26239109039
+-36317.2381909 2.30878281593
+p:  -36317.2381909 2.32393503189
+p:  p:  -36317.2381909 2.30338191986
+-36317.2381909 2.26685905457
+p:  -36317.2381909 2.2741959095
+p:  -36317.2381909 2.33287215233
+p:  p:  -36317.2381909 2.23227787018
+p:  -36317.2381909 2.30170297623
+p:  -36317.2381909 2.22809290886
+-36317.2381909 2.24946308136
+p:  -36317.2381909 2.24407601357
+p:  -36317.2381909 2.23968100548
+p:  -36317.2381909 2.34341001511
+p:  p:  -36317.2381909 2.21475601196
+p:  -36317.2381909 2.29417705536
+-36317.2381909 2.2396068573
+p:  -36317.2381909 2.22744822502
+p:  -36317.2381909 2.23314595222
+p:  -36317.2381909 2.35501289368
+p:  -36317.2381909 2.27547121048
+p:  -36317.2381909 2.27588391304
+p:  -36317.2381909 2.33095693588
+p:  -36317.2381909 2.34022092819
+p:  -36317.2381909 2.23713207245
+p:  -36317.2381909 2.31415104866
+p:  -36317.2381909 2.26839089394
+p:  -36317.2381909 2.3035569191
+p:  -36317.2381909 2.24511194229
+p:  p:  -36317.2381909 p:  -36317.2381909 2.3915309906-36317.2381909 2.37489008904
+2.2822868824
+p:  -36317.2381909 2.35398483276
+p:  -36317.2381909 2.35331892967
+
+p:  -36317.2381909 2.26040887833
+p:  -36317.2381909 2.35278391838
+p:  -36317.2381909 2.24546098709
+p:  -36317.2381909 2.37155079842
+p:  -36317.2381909 2.23916316032
+p:  p:  -36317.2381909 2.27184295654
+p:  -36317.2381909 2.21476197243
+-36317.2381909 2.31138801575
+p:  -36317.2381909 2.24651098251
+p:  -36317.2381909 2.29926204681
+p:  p:  -36317.2381909 2.22746682167
+p:  -36317.2381909 2.38461089134
+p:  -36317.2381909 2.33226299286
+-36317.2381909 2.24021887779
+p:  -36317.2381909 p:  -36317.2381909 2.22133898735
+2.28380608559
+p:  -36317.2381909p:  -36317.2381909 2.2729139328
+ 2.31863307953
+p:  -36317.2381909 2.24286794662
+p:  -36317.2381909 2.31427407265
+p:  -36317.2381909 2.26191782951
+p:  -36317.2381909 2.26798391342
+p:  -36317.2381909 2.27381801605
+p:  -36317.2381909 2.26368713379
+p:  -36317.2381909 2.26627612114
+p:  p:  -36317.2381909p:  -36317.2381909 2.30657505989
+ 2.2701818943
+-36317.2381909 2.35830497742
+p:  -36317.2381909 2.31155085564
+p:  p:  -36317.2381909 2.33890390396
+-36317.2381909 2.35090184212
+p:  -36317.2381909 2.22657203674
+p:  -36317.2381909 2.36706805229
+p:  -36317.2381909 2.2943239212
+p:  -36317.2381909 2.259526968
+p:  -36317.2381909 2.34154987335
+p:  p:  -36317.2381909 2.29018497467
+p:  -36317.2381909 2.2139518261
+-36317.2381909 2.27558588982
+p:  -36317.2381909p:  -36317.2381909 2.29537701607
+p:  -36317.2381909 2.33134198189
+p:  -36317.2381909 2.2285900116
+ 2.31965303421
+p:  -36317.2381909 2.33424401283
+p:  -36317.2381909p:  -36317.2381909 2.24466705322
+p:  p:  -36317.2381909 2.24018216133
+p:  -36317.2381909 2.25846004486
+ 2.3056139946
+-36317.2381909 2.23028922081
+p:  -36317.2381909 2.30335116386
+p:  -36317.2381909 2.22369790077
+p:  -36317.2381909 2.20909881592
+p:  -36317.2381909 2.32662701607
+p:  -36317.2381909 2.25608706474
+p:  -36317.2381909 2.32920098305
+p:  -36317.2381909 2.26020908356
+p:  -36317.2381909 2.29857897758
+p:  p:  p:  -36317.2381909 2.30570912361
+-36317.2381909 2.28305077553
+-36317.2381909 2.22450208664
+p:  -36317.2381909 2.3086771965
+p:  -36317.2381909 2.23498797417
+p:  -36317.2381909 2.2840051651
+p:  -36317.2381909 2.21524810791
+p:  -36317.2381909 2.2243270874
+p:  p:  p:  -36317.2381909 2.22321009636
+-36317.2381909 2.24742698669
+-36317.2381909 2.28287005424
+p:  -36317.2381909 2.27199697495
+p:  -36317.2381909 2.2075150013
+p:  -36317.2381909 2.22676897049
+p:  -36317.2381909 2.26158905029
+p:  -36317.2381909 2.33737587929
+p:  -36317.2381909 2.2147538662
+p:  -36317.2381909 2.24714016914
+p:  -36317.2381909 2.26852202415
+p:  -36317.2381909 2.25458097458
+p:  -36317.2381909 2.32241296768
+p:  p:  -36317.2381909 2.37797808647
+p:  -36317.2381909 2.21550011635
+p:  -36317.2381909 2.24803090096
+-36317.2381909 2.238093853
+p:  -36317.2381909 2.29047393799
+p:  -36317.2381909 2.23182797432
+p:  -36317.2381909 2.27936792374
+p:  -36317.2381909 2.22573900223
+p:  -36317.2381909 2.29731702805
+p:  -36317.2381909 2.21060991287
+p:  -36317.2381909 2.23272895813
+p:  -36317.2381909 2.26710891724
+p:  -36317.2381909 2.25284099579
+p:  -36317.2381909 2.26881098747
+p:  -36317.2381909 2.24932003021
+p:  -36317.2381909 2.24798893929
+p:  -36317.2381909 2.23426985741
+p:  -36317.2381909 2.36985898018
+p:  -36317.2381909 2.23398995399
+p:  -36317.2381909 2.23575210571
+p:  -36317.2381909 2.30333280563
+p:  -36317.2381909 2.34429311752
+p:  -36317.2381909 2.3732509613
+p:  -36317.2381909 2.24833798409
+p:  -36317.2381909 2.3978369236
+p:  -36317.2381909 2.2472140789
+p:  p:  -36317.2381909 2.2231631279
+p:  -36317.2381909 2.25139904022
+-36317.2381909 2.29099607468
+p:  -36317.2381909 2.23790216446
+p:  -36317.2381909 2.31535410881
+p:  -36317.2381909 2.2436811924
+p:  -36317.2381909 2.24115300179
+p:  -36317.2381909 2.25609922409
+p:  -36317.2381909 2.24996805191
+p:  -36317.2381909 2.24082803726
+p:  -36317.2381909 2.2063100338
+p:  -36317.2381909 2.26373887062
+p:  -36317.2381909 2.3966858387
+p:  -36317.2381909 2.24121212959
+p:  -36317.2381909 2.46539378166
+p:  -36317.2381909 2.27385306358
+p:  -36317.2381909 2.24332594872
+p:  -36317.2381909 2.30258584023
+p:  -36317.2381909 2.25601196289
+p:  -36317.2381909 2.25833106041
+p:  -36317.2381909 2.29251098633
+p:  -36317.2381909 2.23368501663
+p:  -36317.2381909 2.26422595978
+p:  -36317.2381909 2.26776790619
+p:  -36317.2381909 2.2097761631
+p:  -36317.2381909 2.25928997993
+p:  -36317.2381909p:  -36317.2381909 2.29330086708
+p:  p:  -36317.2381909 2.28552913666
+ 2.25466394424
+-36317.2381909 2.28962302208
+p:  p:  -36317.2381909 2.25955510139
+-36317.2381909 2.30967402458
+p:  -36317.2381909 2.23230600357
+p:  -36317.2381909 2.26188802719
+p:  -36317.2381909 2.26555585861
+p:  -36317.2381909p:  -36317.2381909 2.32054615021
+ 2.29943990707
+p:  -36317.2381909 2.24966597557
+p:  -36317.2381909 2.21942400932
+p:  -36317.2381909 2.32124900818
+p:  -36317.2381909 2.29426002502
+p:  -36317.2381909 2.23865604401
+p:  -36317.2381909 2.2704410553
+p:  -36317.2381909 2.26823115349
+p:  p:  p:  -36317.2381909 2.2659368515
+-36317.2381909 2.26488685608
+p:  -36317.2381909 2.23434495926
+-36317.2381909 2.26540613174
+p:  -36317.2381909 2.28147315979
+p:  -36317.2381909 2.26775288582
+p:  -36317.2381909 2.23728394508
+p:  p:  -36317.2381909p:  -36317.2381909 2.25609993935
+p:  -36317.2381909 -36317.2381909 2.33803796768
+ 2.25570821762
+2.26059508324
+p:  -36317.2381909 2.2743461132
+p:  -36317.2381909 2.26222491264
+p:  -36317.2381909 2.2976038456
+p:  -36317.2381909 2.24511504173
+p:  -36317.2381909 2.32085490227
+p:  -36317.2381909 2.23024702072
+p:  p:  -36317.2381909 2.23327302933
+-36317.2381909 2.26596593857
+p:  -36317.2381909 2.29941296577
+p:  -36317.2381909 2.26455497742
+p:  -36317.2381909 2.27724099159
+p:  -36317.2381909 2.23714494705
+p:  -36317.2381909 2.2532351017
+p:  -36317.2381909 2.26071596146
+p:  -36317.2381909 2.21642899513
+p:  -36317.2381909 2.23577404022
+p:  -36317.2381909 2.26286196709
+p:  -36317.2381909 2.33592486382
+p:  -36317.2381909 2.27783679962
+p:  -36317.2381909 2.27572989464
+p:  -36317.2381909p:  -36317.2381909 2.27375483513
+p:   2.22088599205
+p:  -36317.2381909 2.32552790642
+-36317.2381909 2.23459196091
+p:  -36317.2381909 2.25531888008
+p:  -36317.2381909 2.27732300758
+p:  p:  -36317.2381909 2.30348777771
+p:  -36317.2381909 2.25322389603
+-36317.2381909 2.29155611992
+p:  p:  -36317.2381909 2.25333809853
+-36317.2381909 2.26026105881
+p:  -36317.2381909 2.2279291153
+p:  p:  -36317.2381909 2.32654595375
+-36317.2381909 2.30801010132
+p:  -36317.2381909 2.25315213203
+p:  -36317.2381909 2.23717784882
+p:  -36317.2381909 2.29594802856
+p:  -36317.2381909 2.29186701775
+p:  p:  -36317.2381909 2.30773901939
+-36317.2381909 2.23779511452
+p:  -36317.2381909 2.34830498695
+p:  -36317.2381909 2.23543190956
+p:  -36317.2381909 2.23000407219
+p:  -36317.2381909 2.31591582298
+p:  -36317.2381909 2.21349620819
+p:  -36317.2381909 2.26139783859
+p:  -36317.2381909 2.20948696136
+p:  -36317.2381909 2.2669699192
+p:  -36317.2381909 2.25967001915
+p:  -36317.2381909 2.26669096947
+p:  -36317.2381909 2.21799707413
+p:  -36317.2381909 2.25559687614
+p:  -36317.2381909 2.34292197227
+p:  -36317.2381909 2.24184608459
+p:  -36317.2381909 2.21867203712
+p:  -36317.2381909 2.32831192017
+p:  p:  -36317.2381909 2.28820705414
+-36317.2381909 2.25063800812
+p:  -36317.2381909 2.31625795364
+p:  -36317.2381909 2.27991294861
+p:  -36317.2381909 2.28738594055
+p:  -36317.2381909 2.24157810211
+p:  -36317.2381909 2.30286097527
+p:  -36317.2381909 2.39687609673
+p:  -36317.2381909 2.26768398285
+p:  -36317.2381909 2.25428080559
+p:  -36317.2381909 2.31057906151
+p:  p:  -36317.2381909 2.26725006104
+p:  -36317.2381909 2.25560307503
+-36317.2381909 2.30588316917
+p:  -36317.2381909 2.24918699265
+p:  -36317.2381909 2.21256995201
+p:  -36317.2381909 2.25995206833
+p:  -36317.2381909 2.29719400406
+p:  -36317.2381909 2.25637388229
+p:  -36317.2381909 2.22641181946
+p:  -36317.2381909 2.32816004753
+p:  -36317.2381909 2.28677105904
+p:  -36317.2381909 2.26023793221
+p:  -36317.2381909 2.27535390854
+p:  -36317.2381909 2.30459284782
+p:  -36317.2381909 2.26375102997
+p:  -36317.2381909 2.31268692017
+p:  -36317.2381909 2.22007107735
+p:  -36317.2381909 2.29307508469
+p:  -36317.2381909 2.25716304779
+p:  -36317.2381909 2.19849300385
+p:  -36317.2381909 p:  -36317.2381909 2.21623706818
+2.25515913963
+p:  -36317.2381909 2.2357199192
+p:  -36317.2381909 2.22939491272
+p:  -36317.2381909 2.29348397255
+p:  -36317.2381909 2.25603795052
+p:  -36317.2381909 2.21179103851
+p:  -36317.2381909 2.32270789146
+p:  -36317.2381909 2.27444505692
+p:  -36317.2381909 2.24069595337
+p:  -36317.2381909 2.27366709709
+p:  -36317.2381909 2.21642208099
+p:  -36317.2381909 2.25242686272
+p:  -36317.2381909 2.2511920929
+p:  -36317.2381909 2.27349591255
+p:  -36317.2381909 2.48176288605
+p:  -36317.2381909 2.31943321228
+p:  -36317.2381909 2.24083089828
+p:  -36317.2381909 2.21748185158
+p:  -36317.2381909 2.24803090096
+p:  -36317.2381909 3.00672411919
+p:  -36317.2381909 2.23882699013
+p:  -36317.2381909 2.30146098137
+p:  -36317.2381909 2.24479198456
+p:  -36317.2381909 2.30854606628
+p:  -36317.2381909 2.17991018295
+p:  -36317.2381909 2.29243397713
+p:  -36317.2381909 2.30651712418
+p:  -36317.2381909 2.18352389336
+p:  -36317.2381909 2.22872805595
+p:  -36317.2381909 2.47410416603
+p:  -36317.2381909 2.26531004906
+p:  -36317.2381909 2.19114518166
+p:  -36317.2381909 2.2939620018
+p:  -36317.2381909 2.20389795303
+p:  -36317.2381909 2.32606196404
+p:  -36317.2381909 2.16633105278
+p:  -36317.2381909 2.34314513206
+p:  -36317.2381909 2.15309500694
+p:  -36317.2381909 2.14801311493
+Imported PyMultiNest.
+>> Commencing integration...
+>> Estimating fractional hypervolume of the unit hypercube with finite prior density:
+Requiring 1E+05 draws from the prior support for Monte Carlo estimation.
+The support of the joint prior occupies an estimated fraction 0.5001 of the hypervolume within the unit hypercube.
+>> Fractional hypervolume estimated.
+Sampling efficiency set to: 0.5999
+ *****************************************************
+ MultiNest v3.11
+ Copyright Farhan Feroz & Mike Hobson
+ Release Apr 2018
+ 
+ no. of live points = 1000
+ dimensionality =   20
+ resuming from previous job
+ *****************************************************
+ Starting MultiNest
+Acceptance Rate:                        0.000735
+Replacements:                              39950
+Total Samples:                          54339177
+Nested Sampling ln(Z):             -36371.445244
+Acceptance Rate:                        0.000732
+Replacements:                              40000
+Total Samples:                          54648192
+Nested Sampling ln(Z):             -36371.360926
+Acceptance Rate:                        0.000729
+Replacements:                              40050
+Total Samples:                          54932399
+Nested Sampling ln(Z):             -36371.277371
+Acceptance Rate:                        0.000725
+Replacements:                              40100
+Total Samples:                          55272910
+Nested Sampling ln(Z):             -36371.195211
+Acceptance Rate:                        0.000722
+Replacements:                              40150
+Total Samples:                          55611042
+Nested Sampling ln(Z):             -36371.115927
+Acceptance Rate:                        0.000716
+Replacements:                              40200
+Total Samples:                          56117949
+Nested Sampling ln(Z):             -36371.038970
+Acceptance Rate:                        0.000711
+Replacements:                              40250
+Total Samples:                          56641119
+Nested Sampling ln(Z):             -36370.962957
+Acceptance Rate:                        0.000707
+Replacements:                              40300
+Total Samples:                          57020647
+Nested Sampling ln(Z):             -36370.888029
+Acceptance Rate:                        0.000702
+Replacements:                              40350
+Total Samples:                          57477246
+Nested Sampling ln(Z):             -36370.815751
+Acceptance Rate:                        0.000699
+Replacements:                              40400
+Total Samples:                          57813577
+Nested Sampling ln(Z):             -36370.745325
+Acceptance Rate:                        0.000694
+Replacements:                              40450
+Total Samples:                          58267683
+Nested Sampling ln(Z):             -36370.674454
+Acceptance Rate:                        0.000691
+Replacements:                              40500
+Total Samples:                          58595472
+Nested Sampling ln(Z):             -36370.605060
+Acceptance Rate:                        0.000688
+Replacements:                              40550
+Total Samples:                          58971455
+Nested Sampling ln(Z):             -36370.536949
+Acceptance Rate:                        0.000684
+Replacements:                              40600
+Total Samples:                          59336103
+Nested Sampling ln(Z):             -36370.468976
+Acceptance Rate:                        0.000680
+Replacements:                              40650
+Total Samples:                          59749682
+Nested Sampling ln(Z):             -36370.401959
+Acceptance Rate:                        0.000676
+Replacements:                              40700
+Total Samples:                          60227518
+Nested Sampling ln(Z):             -36370.334983
+Acceptance Rate:                        0.000672
+Replacements:                              40750
+Total Samples:                          60650348
+Nested Sampling ln(Z):             -36370.268556
+Acceptance Rate:                        0.000668
+Replacements:                              40800
+Total Samples:                          61063702
+Nested Sampling ln(Z):             -36370.202552
+Acceptance Rate:                        0.000665
+Replacements:                              40850
+Total Samples:                          61443226
+Nested Sampling ln(Z):             -36370.136579
+Acceptance Rate:                        0.000661
+Replacements:                              40900
+Total Samples:                          61883468
+Nested Sampling ln(Z):             -36370.071493
+Acceptance Rate:                        0.000656
+Replacements:                              40950
+Total Samples:                          62417198
+Nested Sampling ln(Z):             -36370.007025
+Acceptance Rate:                        0.000653
+Replacements:                              41000
+Total Samples:                          62833249
+Nested Sampling ln(Z):             -36369.942626
+Acceptance Rate:                        0.000650
+Replacements:                              41050
+Total Samples:                          63194000
+Nested Sampling ln(Z):             -36369.877498
+Acceptance Rate:                        0.000646
+Replacements:                              41100
+Total Samples:                          63666237
+Nested Sampling ln(Z):             -36369.813009
+Acceptance Rate:                        0.000642
+Replacements:                              41150
+Total Samples:                          64124328
+Nested Sampling ln(Z):             -36369.750189
+Acceptance Rate:                        0.000638
+Replacements:                              41200
+Total Samples:                          64589192
+Nested Sampling ln(Z):             -36369.689397
+Acceptance Rate:                        0.000633
+Replacements:                              41250
+Total Samples:                          65118330
+Nested Sampling ln(Z):             -36369.628346
+Acceptance Rate:                        0.000631
+Replacements:                              41300
+Total Samples:                          65475731
+Nested Sampling ln(Z):             -36369.568551
+Acceptance Rate:                        0.000627
+Replacements:                              41350
+Total Samples:                          65914191
+Nested Sampling ln(Z):             -36369.510386

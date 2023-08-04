@@ -1,0 +1,647 @@
+/=============================================\
+| X-PSI: X-ray Pulse Simulation and Inference |
+|---------------------------------------------|
+|              Version: 1.0.0                 |
+\=============================================/
+
+Rank reporting: 136
+Rank reporting: 112
+Rank reporting: 65
+Rank reporting: 6
+Rank reporting: 9
+Rank reporting: 10
+Rank reporting: 13
+Rank reporting: 16
+Rank reporting: 22
+Rank reporting: 29
+Rank reporting: 1
+Rank reporting: 2
+Rank reporting: 4
+Rank reporting: 5
+Rank reporting: 7
+Rank reporting: 11
+Rank reporting: 12
+Rank reporting: 17
+Rank reporting: 20
+Rank reporting: 21
+Rank reporting: 25
+Rank reporting: 26
+Rank reporting: 30
+Rank reporting: 31
+Rank reporting: 0
+Rank reporting: 14
+Rank reporting: 23
+Rank reporting: 34
+Rank reporting: 24
+Rank reporting: 27
+Rank reporting: 28
+Rank reporting: 3
+Rank reporting: 19
+Rank reporting: 18
+Rank reporting: 8
+Rank reporting: 15
+Rank reporting: 83
+Rank reporting: 118
+Rank reporting: 84
+Rank reporting: 119
+Rank reporting: 137
+Rank reporting: 92
+Rank reporting: 122
+Rank reporting: 152
+Rank reporting: 93
+Rank reporting: 123
+Rank reporting: 128
+Rank reporting: 94
+Rank reporting: 97
+Rank reporting: 131
+Rank reporting: 95
+Rank reporting: 98
+Rank reporting: 132
+Rank reporting: 66
+Rank reporting: 99
+Rank reporting: 133
+Rank reporting: 75
+Rank reporting: 100
+Rank reporting: 135
+Rank reporting: 78
+Rank reporting: 101
+Rank reporting: 143
+Rank reporting: 87
+Rank reporting: 102
+Rank reporting: 144
+Rank reporting: 91
+Rank reporting: 103
+Rank reporting: 145
+Rank reporting: 69
+Rank reporting: 108
+Rank reporting: 148
+Rank reporting: 71
+Rank reporting: 109
+Rank reporting: 151
+Rank reporting: 73
+Rank reporting: 114
+Rank reporting: 153
+Rank reporting: 67
+Rank reporting: 127
+Rank reporting: 155
+Rank reporting: 86
+Rank reporting: 124
+Rank reporting: 159
+Rank reporting: 74
+Rank reporting: 96
+Rank reporting: 129
+Rank reporting: 88
+Rank reporting: 104
+Rank reporting: 134
+Rank reporting: 79
+Rank reporting: 105
+Rank reporting: 147
+Rank reporting: 85
+Rank reporting: 110
+Rank reporting: 154
+Rank reporting: 64
+Rank reporting: 111
+Rank reporting: 142
+Rank reporting: 81
+Rank reporting: 126
+Rank reporting: 149
+Rank reporting: 77
+Rank reporting: 106
+Rank reporting: 158
+Rank reporting: 82
+Rank reporting: 125
+Rank reporting: 156
+Rank reporting: 68
+Rank reporting: 116
+Rank reporting: 150
+Rank reporting: 72
+Rank reporting: 117
+Rank reporting: 146
+Rank reporting: 90
+Rank reporting: 107
+Rank reporting: 140
+Rank reporting: 80
+Rank reporting: 120
+Rank reporting: 138
+Rank reporting: 76
+Rank reporting: 115
+Rank reporting: 141
+Rank reporting: 70
+Rank reporting: 113
+Rank reporting: 139
+Rank reporting: 89
+Rank reporting: 121
+Rank reporting: 157
+Rank reporting: 130
+Rank reporting: 37
+Rank reporting: 42
+Rank reporting: 44
+Rank reporting: 50
+Rank reporting: 56
+Rank reporting: 58
+Rank reporting: 61
+Rank reporting: 62
+Rank reporting: 32
+Rank reporting: 36
+Rank reporting: 39
+Rank reporting: 43
+Rank reporting: 47
+Rank reporting: 49
+Rank reporting: 51
+Rank reporting: 54
+Rank reporting: 63
+Rank reporting: 41
+Rank reporting: 53
+Rank reporting: 33
+Rank reporting: 45
+Rank reporting: 59
+Rank reporting: 46
+Rank reporting: 52
+Rank reporting: 55
+Rank reporting: 48
+Rank reporting: 35
+Rank reporting: 60
+Rank reporting: 57
+Rank reporting: 40
+Rank reporting: 38
+p:  -36324.8652573 1.4110648632
+p:  -36324.8652573 1.37826800346
+p:  -36324.8652573 1.37181997299
+p:  -36324.8652573 1.31172394753
+p:  -36324.8652573 1.3155579567
+p:  -36324.8652573 1.30432987213
+p:  -36324.8652573 1.31412792206
+p:  -36324.8652573 1.29993391037
+p:  -36324.8652573 1.27239704132
+p:  -36324.8652573 1.29953694344
+p:  -36324.8652573 1.3537170887
+p:  -36324.8652573 1.32560110092
+p:  -36324.8652573 1.31140685081
+p:  -36324.8652573 1.29775476456
+p:  -36324.8652573 1.39919495583
+p:  -36324.8652573 1.29055690765
+p:  -36324.8652573 1.30504989624
+p:  -36324.8652573 1.40501689911
+p:  -36324.8652573 1.29742002487
+p:  -36324.8652573 1.29883790016
+p:  -36324.8652573 1.35681009293
+p:  -36324.8652573 1.33148121834
+p:  -36324.8652573 1.31763601303
+p:  -36324.8652573 1.31252908707
+p:  -36324.8652573 1.31418299675
+p:  -36324.8652573 1.31111598015
+p:  -36324.8652573 1.2981710434
+p:  -36324.8652573 1.3173699379
+p:  -36324.8652573 1.27690505981
+p:  -36324.8652573 1.31999707222
+p:  -36324.8652573 1.32794094086
+p:  -36324.8652573 1.2832930088
+p:  -36324.8652573 1.31004500389
+p:  -36324.8652573 1.31945896149
+p:  -36324.8652573 1.30713796616
+p:  -36324.8652573 1.31364989281
+p:  -36324.8652573 1.35692191124
+p:  -36324.8652573 1.32394886017
+p:  -36324.8652573 1.306183815
+p:  -36324.8652573 1.29665994644
+p:  -36324.8652573 1.29217290878
+p:  -36324.8652573 1.33279705048
+p:  -36324.8652573 1.29777479172
+p:  -36324.8652573 1.2967979908
+p:  -36324.8652573 1.28678917885
+p:  -36324.8652573 1.266518116
+p:  -36324.8652573 1.35236501694
+p:  -36324.8652573 1.32142210007
+p:  -36324.8652573 1.29166793823
+p:  -36324.8652573 1.28487205505
+p:  -36324.8652573 1.29022908211
+p:  -36324.8652573 1.28468799591
+p:  -36324.8652573 1.30324912071
+p:  -36324.8652573 1.28973793983
+p:  -36324.8652573 1.32983803749
+p:  -36324.8652573 1.3060760498
+p:  -36324.8652573 1.29701805115
+p:  -36324.8652573 1.2961909771
+p:  -36324.8652573 1.32188200951
+p:  -36324.8652573 1.28440713882
+p:  -36324.8652573 1.30467987061
+p:  -36324.8652573 1.320510149
+p:  -36324.8652573 1.28629016876
+p:  -36324.8652573 1.27757406235
+p:  -36324.8652573 1.29562401772
+p:  -36324.8652573 1.29602599144
+p:  -36324.8652573 1.31137609482
+p:  -36324.8652573 1.31164908409
+p:  -36324.8652573 1.31485295296
+p:  -36324.8652573 1.36041998863
+p:  -36324.8652573 1.35338807106
+p:  -36324.8652573 1.33650422096
+p:  -36324.8652573 1.36528015137
+p:  -36324.8652573 1.38150596619
+p:  -36324.8652573 1.31805586815
+p:  -36324.8652573 1.2908141613
+p:  -36324.8652573 1.3361158371
+p:  -36324.8652573 1.37660002708
+p:  -36324.8652573 1.35893201828
+p:  -36324.8652573 1.2815759182
+p:  -36324.8652573 1.34760594368
+p:  -36324.8652573 1.32418990135
+p:  -36324.8652573 1.40048217773
+p:  -36324.8652573 1.37700510025
+p:  -36324.8652573 1.38461518288
+p:  -36324.8652573 1.35290193558
+p:  -36324.8652573 1.29167604446
+p:  -36324.8652573 1.30146503448
+p:  -36324.8652573 1.30906796455
+p:  -36324.8652573 1.29637002945
+p:  -36324.8652573 1.3945350647
+p:  -36324.8652573 1.32839298248
+p:  -36324.8652573 1.30522203445
+p:  -36324.8652573 1.32221794128
+p:  -36324.8652573 1.31859898567
+p:  -36324.8652573 1.30161809921
+p:  -36324.8652573 1.3170568943
+p:  -36324.8652573 1.33180403709
+p:  -36324.8652573 1.30309009552
+p:  -36324.8652573 1.30760002136
+p:  -36324.8652573 1.28286790848
+p:  -36324.8652573 1.32330107689
+p:  -36324.8652573 1.27205896378
+p:  -36324.8652573 1.3145980835
+p:  -36324.8652573 1.3105931282
+p:  -36324.8652573 1.33654594421
+p:  -36324.8652573 1.28653502464
+p:  -36324.8652573 1.341381073
+p:  -36324.8652573 1.30276489258
+p:  -36324.8652573 1.32854819298
+p:  -36324.8652573 1.32645702362
+p:  -36324.8652573 1.30992698669
+p:  -36324.8652573 1.30632686615
+p:  -36324.8652573 1.34400296211
+p:  -36324.8652573 1.32032203674
+p:  -36324.8652573 1.30218195915
+p:  -36324.8652573 1.34900283813
+p:  -36324.8652573 1.33592295647
+p:  -36324.8652573 1.31855106354
+p:  -36324.8652573 1.30131602287
+p:  -36324.8652573 1.29944491386
+p:  -36324.8652573 1.29197001457
+p:  -36324.8652573 1.30811214447
+p:  -36324.8652573 1.36364483833
+p:  -36324.8652573 1.27411198616
+p:  -36324.8652573 1.32697200775
+p:  -36324.8652573 1.35986280441
+p:  -36324.8652573 1.2982070446
+p:  -36324.8652573 1.30941295624
+p:  -36324.8652573 1.30530500412
+p:  -36324.8652573 1.30520892143
+p:  -36324.8652573 1.34988903999
+p:  -36324.8652573 1.30073690414
+p:  -36324.8652573 1.30778312683
+p:  -36324.8652573 1.30143284798
+p:  -36324.8652573 1.26754307747
+p:  -36324.8652573 1.33668208122
+p:  -36324.8652573 1.30903506279
+p:  -36324.8652573 1.31288909912
+p:  -36324.8652573 1.2473449707
+p:  -36324.8652573 1.26414704323
+p:  -36324.8652573 1.26949000359
+p:  -36324.8652573 1.29170799255
+p:  -36324.8652573 1.30502986908
+p:  -36324.8652573 1.9412689209
+p:  -36324.8652573 1.28596496582
+p:  -36324.8652573 1.27441096306
+p:  -36324.8652573 1.29023504257
+p:  -36324.8652573 1.31111598015
+p:  -36324.8652573 1.30007195473
+p:  -36324.8652573 1.29393577576
+p:  -36324.8652573 1.29217886925
+p:  -36324.8652573 1.29479598999
+p:  -36324.8652573 1.25260281563
+p:  -36324.8652573 1.31247997284
+p:  -36324.8652573 1.24102210999
+p:  -36324.8652573 1.32378697395
+p:  -36324.8652573 1.26317715645
+p:  -36324.8652573 1.22947382927
+p:  -36324.8652573 1.29624080658
+Imported PyMultiNest.
+>> Commencing integration...
+>> Estimating fractional hypervolume of the unit hypercube with finite prior density:
+Requiring 1E+05 draws from the prior support for Monte Carlo estimation.
+The support of the joint prior occupies an estimated fraction 0.1537 of the hypervolume within the unit hypercube.
+>> Fractional hypervolume estimated.
+Sampling efficiency set to: 5.2050
+ *****************************************************
+ MultiNest v3.11
+ Copyright Farhan Feroz & Mike Hobson
+ Release Apr 2018
+ 
+ no. of live points = 1000
+ dimensionality =   20
+ resuming from previous job
+ *****************************************************
+ Starting MultiNest
+Acceptance Rate:                        0.000397
+Replacements:                              52950
+Total Samples:                         133328219
+Nested Sampling ln(Z):             -36366.843987
+Acceptance Rate:                        0.000396
+Replacements:                              53000
+Total Samples:                         133966020
+Nested Sampling ln(Z):             -36366.840509
+Acceptance Rate:                        0.000394
+Replacements:                              53050
+Total Samples:                         134551428
+Nested Sampling ln(Z):             -36366.837169
+Acceptance Rate:                        0.000392
+Replacements:                              53100
+Total Samples:                         135332526
+Nested Sampling ln(Z):             -36366.833961
+Acceptance Rate:                        0.000391
+Replacements:                              53150
+Total Samples:                         135945048
+Nested Sampling ln(Z):             -36366.830871
+Acceptance Rate:                        0.000389
+Replacements:                              53200
+Total Samples:                         136628625
+Nested Sampling ln(Z):             -36366.827893
+Acceptance Rate:                        0.000388
+Replacements:                              53250
+Total Samples:                         137345606
+Nested Sampling ln(Z):             -36366.825027
+Acceptance Rate:                        0.000387
+Replacements:                              53300
+Total Samples:                         137844689
+Nested Sampling ln(Z):             -36366.822285
+Acceptance Rate:                        0.000385
+Replacements:                              53350
+Total Samples:                         138712347
+Nested Sampling ln(Z):             -36366.819650
+Acceptance Rate:                        0.000383
+Replacements:                              53400
+Total Samples:                         139330551
+Nested Sampling ln(Z):             -36366.817117
+Acceptance Rate:                        0.000381
+Replacements:                              53450
+Total Samples:                         140173775
+Nested Sampling ln(Z):             -36366.814688
+Acceptance Rate:                        0.000379
+Replacements:                              53500
+Total Samples:                         141009124
+Nested Sampling ln(Z):             -36366.812360
+Acceptance Rate:                        0.000378
+Replacements:                              53550
+Total Samples:                         141492673
+Nested Sampling ln(Z):             -36366.810148
+Acceptance Rate:                        0.000377
+Replacements:                              53600
+Total Samples:                         142058849
+Nested Sampling ln(Z):             -36366.808031
+Acceptance Rate:                        0.000376
+Replacements:                              53650
+Total Samples:                         142638627
+Nested Sampling ln(Z):             -36366.806013
+Acceptance Rate:                        0.000375
+Replacements:                              53700
+Total Samples:                         143334089
+Nested Sampling ln(Z):             -36366.804088
+Acceptance Rate:                        0.000374
+Replacements:                              53750
+Total Samples:                         143893889
+Nested Sampling ln(Z):             -36366.802244
+Acceptance Rate:                        0.000372
+Replacements:                              53800
+Total Samples:                         144551357
+Nested Sampling ln(Z):             -36366.800464
+Acceptance Rate:                        0.000371
+Replacements:                              53850
+Total Samples:                         145229276
+Nested Sampling ln(Z):             -36366.798766
+Acceptance Rate:                        0.000369
+Replacements:                              53900
+Total Samples:                         146236459
+Nested Sampling ln(Z):             -36366.797136
+Acceptance Rate:                        0.000367
+Replacements:                              53950
+Total Samples:                         146993346
+Nested Sampling ln(Z):             -36366.795572
+Acceptance Rate:                        0.000366
+Replacements:                              54000
+Total Samples:                         147670104
+Nested Sampling ln(Z):             -36366.794072
+Acceptance Rate:                        0.000364
+Replacements:                              54050
+Total Samples:                         148320065
+Nested Sampling ln(Z):             -36366.792642
+Acceptance Rate:                        0.000363
+Replacements:                              54100
+Total Samples:                         149024367
+Nested Sampling ln(Z):             -36366.791287
+Acceptance Rate:                        0.000362
+Replacements:                              54150
+Total Samples:                         149764542
+Nested Sampling ln(Z):             -36366.790000
+Acceptance Rate:                        0.000360
+Replacements:                              54200
+Total Samples:                         150572111
+Nested Sampling ln(Z):             -36366.788768
+Acceptance Rate:                        0.000359
+Replacements:                              54250
+Total Samples:                         151202472
+Nested Sampling ln(Z):             -36366.787589
+Acceptance Rate:                        0.000357
+Replacements:                              54300
+Total Samples:                         151890867
+Nested Sampling ln(Z):             -36366.786454
+Acceptance Rate:                        0.000356
+Replacements:                              54350
+Total Samples:                         152766769
+Nested Sampling ln(Z):             -36366.785369
+Acceptance Rate:                        0.000354
+Replacements:                              54400
+Total Samples:                         153652334
+Nested Sampling ln(Z):             -36366.784335
+Acceptance Rate:                        0.000353
+Replacements:                              54450
+Total Samples:                         154280992
+Nested Sampling ln(Z):             -36366.783348
+Acceptance Rate:                        0.000352
+Replacements:                              54500
+Total Samples:                         154927722
+Nested Sampling ln(Z):             -36366.782408
+Acceptance Rate:                        0.000350
+Replacements:                              54550
+Total Samples:                         155811625
+Nested Sampling ln(Z):             -36366.781513
+Acceptance Rate:                        0.000349
+Replacements:                              54600
+Total Samples:                         156601414
+Nested Sampling ln(Z):             -36366.780658
+Acceptance Rate:                        0.000348
+Replacements:                              54610
+Total Samples:                         156707329
+Nested Sampling ln(Z):             -36366.780492
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+ ln(ev)=  -36366.7628000972      +/-  0.207383031509340     
+ Total Likelihood Evaluations:    156707329
+ Sampling finished. Exiting MultiNest
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+  analysing data from ./run1_nlive1000_eff0.3_noCONST_MM_noIS_tol-1.txt
+>> Integration completed.

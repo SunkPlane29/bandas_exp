@@ -1,0 +1,555 @@
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    for msg in func(*args, **kwargs):
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    sampler(**kwargs)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    **kwargs)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+Traceback (most recent call last):
+  File "main_short.py", line 129, in <module>
+    sampler(**kwargs)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    sampler(**kwargs)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    for msg in func(*args, **kwargs):
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    for msg in func(*args, **kwargs):
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    xpsi.Sample.MultiNest(likelihood, prior, **runtime_params)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/Sample.py", line 153, in MultiNest
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    for msg in func(*args, **kwargs):
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    sampler(**kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+    sampler(**kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+    sampler(**kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    sampler(**kwargs)
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/__init__.py", line 40, in wrapper
+    for msg in func(*args, **kwargs):
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    for msg in func(*args, **kwargs):
+  File "/home/triley/.local/lib/python2.7/site-packages/xpsi-1.0.0.dev0-py2.7-linux-x86_64.egg/xpsi/MultiNestIntegrator.py", line 77, in __call__
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+    **kwargs)
+  File "build/bdist.linux-x86_64/egg/pymultinest/solve.py", line 73, in solve
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+  File "build/bdist.linux-x86_64/egg/pymultinest/analyse.py", line 127, in get_stats
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+IndexError: tuple index out of range
+srun: error: tcn563: tasks 23-45: Exited with exit code 1
+srun: Terminating job step 5499868.0
+srun: error: tcn562: tasks 0-22: Exited with exit code 1

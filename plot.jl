@@ -2,7 +2,6 @@ using DelimitedFiles
 
 using StatsPlots
 # using Plots
-gr(size=(800,600))
 using DataFrames
 using StatsBase
 import KernelDensity
@@ -43,7 +42,7 @@ end
 @userplot MRPlot
 
 @recipe function f(kc::MRPlot; levels = 10, clip = ((-3.0, 3.0), (-3.0, 3.0)), color = ColorSchemes.roma10.colors[10],
-                   xlimplot = (7, 21), ylimplot = (0.5, 3), xplotticks = [8, 10, 12, 14, 16, 18, 20],
+                   xlimplot = (7, 21), ylimplot = (0.5, 3.2), xplotticks = [8, 10, 12, 14, 16, 18, 20],
                    yplotticks = [0.5, 1.0, 1.5, 2.0, 2.5, 3.0], minorticks = 4)
     x, y = kc.args
     x = vec(x)
@@ -111,7 +110,7 @@ function main()
     df3.r = Float64.(dat3[1:3000, 1])
     df3.m = Float64.(dat3[1:3000, 2])
 
-    dat4 = readdlm("A_NICER_VIEW_OF_PSR_J0030p0451/ST_CST/run1/run1_nlive1000_eff0.3_noCONST_noMM_IS_tol-1.txt")
+    dat4 = readdlm("A_NICER_VIEW_OF_PSR_J0030p0451/ST_U/run1/run1_nlive1000_eff0.3_noCONST_noMM_noIS_tol-3.txt")
 
     df4 = DataFrame()
     df4.m = Float64.(dat4[1:10000, 4])
@@ -123,21 +122,48 @@ function main()
     df5.r = Float64.(dat5[1:3000, 1])
     df5.m = Float64.(dat5[1:3000, 2])
 
+    dat6 = readdlm("A_NICER_VIEW_OF_PSR_J0740+6620/STU/NICERxXMM/FI_H/run1/samples/nlive1000_eff0.1_noCONST_noMM_noIS_tol-1.txt")
+    df6 = DataFrame()
+    df6.m = Float64.(dat6[1:10000, 3])
+    df6.r = Float64.(dat6[1:10000, 4])
+
     color1 = ColorSchemes.roma10.colors[1]
     color2 = ColorSchemes.bamako10.colors[7]
     color3 = ColorSchemes.tokyo10.colors[1]
     color4 = ColorSchemes.tokyo10.colors[8]
 
+    color5 = ColorSchemes.acton10.colors[8]
+
+    gr(size=(800,600))
+    #LIGO/VIRGO
     pl = mrplot(df1.r1, df1.m1, color=color1, levels=10)
     mrplot!(pl, df1.r2, df1.m2, color=color1, levels=10)
     mrplot!(pl, df2.r1, df2.m1, color=color2, levels=10)
     mrplot!(pl, df2.r2, df2.m2, color=color2, levels=10)
+
+    #J0030+0451
     mrplot!(pl, df3.r, df3.m, color=color3)
     mrplot!(pl, df4.r, df4.m, color=color4, levels=10)
+
+    #J0740+6620
     mrplot!(pl, df5.r, df5.m, color=color3)
+    mrplot!(pl, df6.r, df6.m, color=color4, levels=10)
+
+    #LIGO/VIRGO
+    hline!(pl, [2.5], fill=2.67, linecolor=color5,
+           linealpha=1.0, fillcolor=color5, fillalpha=0.4)
+    hline!(pl, [2.67], linealpha=1.0, linecolor=color5)
+
+    #PHOEBE
+    hline!(pl, [2.98], fill=3.1, linecolor=color5,
+           linealpha=1.0, fillcolor=color5, fillalpha=0.4)
+    hline!(pl, [3.1], linealpha=1.0, linecolor=color5)
+
     annotate!(pl, (9, 1.75, text("uni rel", 10, :center, :center, color1)))
     annotate!(pl, (10, 0.875, text("spec EoS", 10, :center, :center, color2)))
     annotate!(pl, (16.5, 1.875, text("IL/MD", 10, :center, :center, color3)))
     annotate!(pl, (14.5, 1.125, text("AM", 10, :center, :center, color4)))
-    savefig(pl, "expmr_julia.png")
+    savefig(pl, "expmr.png")
+
+    #TODO: add labels
 end

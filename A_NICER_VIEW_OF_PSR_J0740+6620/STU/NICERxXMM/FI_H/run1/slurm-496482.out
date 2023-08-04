@@ -1,0 +1,10 @@
+start of job in directory /olympe3/p19056/riley/J0740_STU/modules
+number of nodes is 15
+the allocated nodes are:
+olympecomp[72-86]
+Intel Parallel Studio XE 2018_2 unloaded
+Intel Parallel Studio XE 2018_2 loaded
+Intel(R) MPI Library  (2018.2.199) loaded
+directory is /tmpdir/riley/496482/J0740_STU/modules
+mkdir: cannot create directory ‘/users/p19056/riley/J0740_STU/modules/NICERxXMM/run1’: File exists
+mkdir: cannot create directory ‘/users/p19056/riley/J0740_STU/modules/NICERxXMM/run1/init’: File exists

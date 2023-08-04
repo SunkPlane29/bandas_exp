@@ -247,9 +247,12 @@ end
         levels := [ls[1], last(ls)]
         fill := true
 
-        color := [color3, color3]
+        linealpha := 1.0
+        linecolor := color3
+
+        fillcolor := [color3, color3]
         colorbar := false
-        alpha := 0.3
+        fillalpha := 0.3
 
         (collect(k.x), collect(k.y), k.density')
     end
@@ -372,10 +375,8 @@ function main()
     gr(size=(800, 600))
 
     #TODO: put annotations
-    # pl = mrexpplot()
-    # savefig(pl, "mrexp_paper.png")
-
-    println(get_ticks([1, 2, 3, 4, 5, 6], 10))
+    pl = mrexpplot()
+    savefig(pl, "mrexp_paper.png")
 
     pl = lovemplot()
     fancylogscale!()
